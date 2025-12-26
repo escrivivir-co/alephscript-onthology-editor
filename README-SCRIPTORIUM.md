@@ -215,7 +215,88 @@ OnthologyEditor/
 
 ---
 
-## Roadmap Actualizado
+## 8. Licencias y Estrategia de Combinación
+
+### Matriz de Licencias
+
+| Componente | Licencia | Copyleft | Obligaciones |
+|------------|----------|----------|--------------|
+| ALEPH Scriptorium | AIPL v1.0 | No | Atribución, uso comercial permitido |
+| OnthologyEditor | AIPL v1.0 | No | Atribución, uso comercial permitido |
+| metamodel | CC BY-SA 4.0 | ShareAlike | Atribución + derivados bajo misma licencia |
+| MMCO | AGPL-3.0 | Fuerte | Código derivado debe ser AGPL-3.0 |
+| FloveDocs | Por confirmar | Desconocido | Pendiente de aclaración con autores |
+
+### Estrategia de Coexistencia
+
+```
+┌───────────────────────────────────────────────────────────────────────┐
+│              OnthologyEditor (AIPL v1.0 - Permisiva)                  │
+├───────────────────────────────────────────────────────────────────────┤
+│                                                                       │
+│   ZONA A: Referencia Documental      ZONA B: Código Derivado          │
+│   ─────────────────────────────      ────────────────────────         │
+│                                                                       │
+│   ┌─────────────────────────┐       ┌─────────────────────────┐       │
+│   │ FloveDocs               │       │ src/compliance/         │       │
+│   │ (documentación)         │       │ (validadores)           │       │
+│   │                         │       │                         │       │
+│   │ • Taxonomía Fields      │       │ SI deriva de metamodel: │       │
+│   │ • Paradigmas            │       │ → CC BY-SA 4.0          │       │
+│   │ • Diagramas             │       │                         │       │
+│   │                         │       │ SI deriva de MMCO:      │       │
+│   │ Sin derivación código   │       │ → AGPL-3.0 (separado)   │       │
+│   └─────────────────────────┘       └─────────────────────────┘       │
+│                                                                       │
+│   ┌─────────────────────────┐       ┌─────────────────────────┐       │
+│   │ metamodel               │       │ src/templates/          │       │
+│   │ (framework UFO)         │       │ (plantillas)            │       │
+│   │                         │       │                         │       │
+│   │ • Conceptos UFO         │       │ SI deriva de metamodel: │       │
+│   │ • 5 capas ontológicas   │       │ → CC BY-SA 4.0          │       │
+│   │ • Patrones              │       │                         │       │
+│   │                         │       │ SI original:            │       │
+│   │ Atribución requerida    │       │ → AIPL v1.0             │       │
+│   └─────────────────────────┘       └─────────────────────────┘       │
+│                                                                       │
+│   ┌─────────────────────────┐                                         │
+│   │ MMCO                    │                                         │
+│   │ (BNP/emergencia)        │                                         │
+│   │                         │                                         │
+│   │ • 7 niveles emergencia  │                                         │
+│   │ • Conceptos teóricos    │                                         │
+│   │                         │                                         │
+│   │ USO: Solo referencia    │                                         │
+│   │ No derivamos código     │                                         │
+│   └─────────────────────────┘                                         │
+│                                                                       │
+└───────────────────────────────────────────────────────────────────────┘
+```
+
+### Reglas de Atribución
+
+1. **Código derivado de metamodel**: Incluir en cabecera:
+   ```
+   // Derived from Talaia Digital metamodel
+   // License: CC BY-SA 4.0
+   // Source: https://codeberg.org/talaiadigital/metamodel
+   ```
+
+2. **Si se integra código de MMCO**: Módulo separado con LICENSE.AGPL en carpeta
+
+3. **Documentación derivada de FloveDocs**: Atribución en pie de documento
+
+### Compatibilidad
+
+| Combinación | Compatible | Notas |
+|-------------|------------|-------|
+| AIPL + CC BY-SA 4.0 | ✅ Sí | Derivados CC BY-SA 4.0 |
+| AIPL + AGPL-3.0 | ⚠️ Parcial | Código AGPL debe estar separado |
+| CC BY-SA 4.0 + AGPL-3.0 | ❌ No directa | Mantener en módulos separados |
+
+---
+
+## 9. Roadmap Actualizado
 
 ### Fase 1: Infraestructura ✅
 - [x] Configurar proyecto base
