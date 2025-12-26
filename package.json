@@ -1,0 +1,25 @@
+{
+  "name": "onthology-editor",
+  "version": "0.1.0",
+  "description": "Editor de ontologías para ALEPH Scriptorium con soporte para template Flove/Iowa",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "ontology",
+    "flove",
+    "scriptorium",
+    "aleph",
+    "editor"
+  ],
+  "author": "ALEPH Scriptorium",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/escrivivir-co/alephscript-onthology-editor.git"
+  }
+}
