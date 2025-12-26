@@ -1,0 +1,9 @@
+[submodule "metamodel"]
+	path = metamodel
+	url = https://codeberg.org/talaiadigital/metamodel.git
+[submodule "MMCO"]
+	path = MMCO
+	url = https://codeberg.org/talaiadigital/MMCO.git
+[submodule "FloveDocs"]
+	path = FloveDocs
+	url = https://codeberg.org/FloveDocs/Main.git

@@ -131,26 +131,115 @@ OnthologyEditor/
 
 ---
 
-## Roadmap
+## Arquitectura de Submódulos
 
-### Fase 1: Infraestructura
-- [ ] Configurar proyecto base
-- [ ] Crear estructura de carpetas
-- [ ] Documentar ontología Flove
+Este editor integra 3 frameworks externos como submódulos anidados:
 
-### Fase 2: Templates
+```
+OnthologyEditor/
+├── metamodel/           # UFO + FAIR + XAI (5 capas)
+│   └── metamodel.md     # Especificación AI-Optimized
+├── MMCO/                # Ontological Coherence Meta-Dynamic Framework
+│   ├── ocmf_overview.md # Coherencia ontológica
+│   └── toy_models/      # Julia + Python implementations
+├── FloveDocs/           # Documentación Flove (PDFs, presentaciones)
+│   ├── FloveSlides*.pdf
+│   └── FloveTables*.pdf
+└── README-SCRIPTORIUM.md
+```
+
+### Submódulo: metamodel (Talaia Digital)
+
+| Campo | Valor |
+|-------|-------|
+| **Origen** | `codeberg.org/talaiadigital/metamodel` |
+| **Rama** | `main` |
+| **Licencia** | CC BY-SA 4.0 |
+| **Propósito** | Framework UFO de 5 capas para validación ontológica |
+
+**Arquitectura de Capas**:
+
+| Capa | Nombre | Propósito |
+|------|--------|-----------|
+| 0 | META | Auto-especificación del framework |
+| 1 | FOUNDATIONAL | Primitivas UFO (Endurants, Perdurants) |
+| 2 | CORE_DOMAIN | Conceptualización de dominio específico |
+| 3 | APPLICATION | Semántica de implementación |
+| 4 | INTERFACE | Explicabilidad e interacción humano-IA |
+
+**Principios FAIR + XAI integrados**: Findable, Accessible, Interoperable, Reusable + Explainable AI.
+
+### Submódulo: MMCO (Talaia Digital)
+
+| Campo | Valor |
+|-------|-------|
+| **Origen** | `codeberg.org/talaiadigital/MMCO` |
+| **Rama** | `master` |
+| **Licencia** | AGPL-3.0 |
+| **Propósito** | Framework de coherencia ontológica meta-dinámica |
+
+**Premisa Central**: Existencia modelada como campo ontológico de coherencia, no sustrato espacial.
+
+**Jerarquía de Emergencia (7 niveles)**:
+
+| Nivel | Nombre | Descripción |
+|-------|--------|-------------|
+| 0c | BNP | Base Noetic Potential (plenum pre-métrico) |
+| 0b | QCW | Quantum Coherence Web (entrelazamiento Posner) |
+| 0a | CTN | Coherent Tubule Network (microtúbulos) |
+| 1 | Proto-Geometry | Geometría emergente |
+| 2 | Pseudo-Time | Tiempo como proyección |
+| 3 | Classical Spacetime | Espacio-tiempo clásico |
+| 4 | Matter/Fields | Materia y campos observables |
+
+**Toy Models** (implementaciones):
+- `categorical/` - Catlab.jl (Julia)
+- `geometric_algebra/` - clifford (Python)
+- `topological/` - gudhi (Python)
+- `quantum_biology/` - qutip (Python)
+- `quantum_circuits/` - qiskit (Python)
+
+### Submódulo: FloveDocs
+
+| Campo | Valor |
+|-------|-------|
+| **Origen** | `codeberg.org/FloveDocs/Main` |
+| **Rama** | `main` |
+| **Licencia** | Codeberg standard |
+| **Propósito** | Documentación multimedia del paradigma CONFLUENTISM |
+
+**Archivos clave**:
+- `FloveSlides25.12.pdf` - Presentaciones diciembre 2025
+- `FloveTables25.12.pdf` - Tablas ontológicas diciembre 2025
+- `Demos/` - Aplicaciones interactivas
+
+---
+
+## Roadmap Actualizado
+
+### Fase 1: Infraestructura ✅
+- [x] Configurar proyecto base
+- [x] Instalar submódulos (metamodel, MMCO, FloveDocs)
+- [x] Documentar estructura
+
+### Fase 2: Compliance
+- [ ] Mapear Flove ↔ UFO (usando metamodel)
+- [ ] Integrar MMCO para coherencia ontológica
+- [ ] Crear validadores según FAIR principles
+
+### Fase 3: Templates
 - [ ] Importar estructura de demos.flove.org
 - [ ] Parsear jerarquía Fuzzy → PsicoSocial → Freedom
 - [ ] Crear JSON templates
 
-### Fase 3: Editor
+### Fase 4: Editor
 - [ ] Componente de visualización
 - [ ] Edición de nodos
 - [ ] Conexiones entre conceptos
 
-### Fase 4: Integración
+### Fase 5: Integración
 - [ ] Exportador JSON Schema
-- [ ] Exportador TypeScript
+- [ ] Exportador TypeScript/Zod
 - [ ] Integración AGENT_CREATOR
 
 ---
@@ -163,9 +252,15 @@ OnthologyEditor/
 - SSL error en HTTPS, usar HTTP para redirección
 - Las demos son aplicaciones interactivas del paradigma Flove
 
-### Licencia
+### Licencias
 
-Según el repositorio FloveDocs, el proyecto usa licencia estándar de Codeberg.
+| Submódulo | Licencia | Implicaciones |
+|-----------|----------|---------------|
+| metamodel | CC BY-SA 4.0 | Compartir igual, atribución requerida |
+| MMCO | AGPL-3.0 | Código derivado debe ser AGPL (estricto) |
+| FloveDocs | Codeberg standard | Uso según términos de Codeberg |
+
+**Nota**: MMCO tiene licencia más restrictiva. Verificar compatibilidad antes de integrar código.
 
 ---
 
@@ -174,3 +269,4 @@ Según el repositorio FloveDocs, el proyecto usa licencia estándar de Codeberg.
 | Fecha | Cambio | Autor |
 |-------|--------|-------|
 | 2025-12-26 | Inicializar submódulo con análisis de Flove | @aleph |
+| 2025-12-26 | Añadir submódulos metamodel, MMCO, FloveDocs | @aleph |
