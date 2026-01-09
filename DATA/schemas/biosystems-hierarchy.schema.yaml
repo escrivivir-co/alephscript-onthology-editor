@@ -1,0 +1,259 @@
+# BioSystems Hierarchy Schema
+# Extraído de: Matters_&_BioSystems.ods + FloveTables
+# Fecha: 2026-01-09
+# Fuente: OnthologyEditor/FloveDocs
+
+$schema: "http://json-schema.org/draft-07/schema#"
+$id: "flove://schemas/biosystems-hierarchy.schema.yaml"
+title: "Jerarquía de Sistemas Biológicos según Flove"
+description: |
+  Estructura completa desde partículas hasta ecosistemas,
+  con mapeo a sistemas corporales y canales de expresión.
+
+# ═══════════════════════════════════════════════════════════════
+# JERARQUÍA FÍSICA → BIOLÓGICA
+# ═══════════════════════════════════════════════════════════════
+hierarchy:
+  # Nivel Físico
+  physics:
+    dimensions:
+      components: [Graph, Space, Time, Dynamic]
+      polarities:
+        space: [Micro, Macro]
+        time: [Past, Future]
+        dynamic: [Concentration, Dissipation]
+    
+    forces:
+      fundamental:
+        - name: "Gravity"
+          type: "Intraction"
+          pair: "Nuclear Strong"
+        - name: "Electromagnetism"
+          components: [Magnetism, Electricity]
+        - name: "Nuclear Weak"
+          type: "Decay"
+    
+    particles:
+      bosons: [Higgs, Photon, Gluon, W, Z]
+      fermions:
+        leptons: [Electrons, Neutrinos]
+        quarks: [Up, Down]
+      composite:
+        - nucleons: [Protons, Neutrons]
+        - nucleus
+
+  # Nivel Químico
+  chemistry:
+    states: [Fire, Air, Water, Earth]
+    
+    atoms:
+      config: "n Protons, 2n² Distance shells"
+      valence_pattern: "2n bondy valences: 1,2,4,6,8"
+      shells_capacity: "2n²: 1,2,8,18,32"
+    
+    molecules:
+      types:
+        - aminoacids
+        - fatty_acids
+        - proteins
+        - lipids
+      macromolecules:
+        carbonyl: true
+        hydroxil: true
+        protein_folding: true
+
+  # Nivel Microbiológico
+  microbiology:
+    protoplasma:
+      vertical: [Nucleoplasma, Cytoplasma]
+      horizontal:
+        adaptation: [DNA, RNA]
+        selection: [Conjugation, Transformation, Transduction]
+    
+    virology:
+      cell_types: [Bacteria, Virus]
+      nucleus_membrane: true
+
+  # Nivel Biológico
+  biology:
+    cell:
+      reproduction: [mtDNA, Y]
+    tissue:
+      sexual: [Female, Male]
+      organelle: true
+    organ:
+      primordial: [Womb, Brain]
+    systems:
+      main_list:
+        - Immune
+        - Integumentary
+        - Digestive
+        - Urinary
+        - Respiratory
+        - Circulatory
+        - Skeletal
+        - Muscular
+        - Endocrine
+        - Nervous
+      paired:
+        - [Immune, Nervous]  # Neuroinmune
+        - [Endocrine, Nervous]
+        - [Lymphatic, Immune]
+    organism:
+      domain: Eukaryot
+      kingdom: Animal
+
+# ═══════════════════════════════════════════════════════════════
+# TAXONOMÍA EVOLUTIVA
+# ═══════════════════════════════════════════════════════════════
+taxonomy:
+  evolved_system:
+    domain: "Eukaryot"
+    kingdom: "Animal"
+    phylum: "Vertebrate"
+    class: "Mammal"
+    order: "Primate"
+    family: "Hominid"
+    genus: "Sapiens"
+
+  systems_by_level:
+    vertebrate:
+      systems: [Circulatory, Skeletal]
+      primes: [19, 17]
+      channel: [Jawy, Semiflexible]
+      centroid: [Heart, Column]
+    
+    mammal:
+      systems: [Muscular]
+      primes: [13]
+      channel: [Flexible]
+      centroid: [Joints, Neck]
+    
+    primate:
+      systems: [Endocrine]
+      primes: [7]
+      channel: [Facial]
+      centroid: [Glands, Thymus]
+    
+    hominid:
+      systems: [Nervous]
+      primes: [5]
+      channel: [Vocals-fingers]
+      centroid: [Senses, Hear]
+    
+    sapiens:
+      systems: [Neuroinmune]
+      primes: [5]
+      channel: [Central, Autonomic, Somatic]
+
+# ═══════════════════════════════════════════════════════════════
+# CANALES DE EXPRESIÓN
+# ═══════════════════════════════════════════════════════════════
+channels:
+  primes_mapping:
+    5: {channel: "Senses", centroid: "Hear", type: "Rational"}
+    7: {channel: "Glands", centroid: "Heart", type: "Emotional"}
+    11: {channel: "Systems", centroid: "Reproductive", type: "Kinetical"}
+    13: {channel: "Joints", centroid: "Neck", type: "Kinesical"}
+    17: {channel: "Vertebras", centroid: "Column", type: "Vertical"}
+    19: {channel: "Vocalizers", centroid: "Tongue", type: "Oral"}
+    23: {channel: "Consonants", centroid: "Alphabetical", type: "Textual"}
+
+  sensory:
+    smell: {element: "Air", taste: "Salty", system: "Integumentary"}
+    taste: {element: "Fire", taste: "Sour", system: "Urinary"}
+    hear: {element: "Plasma", taste: "Umami", system: "Reproductive"}
+    touch: {element: "Water", taste: "Bitter", system: "Skeletal"}
+    view: {element: "Earth", taste: "Sweet", system: "Endocrine"}
+
+  artistic:
+    smell: [Parfume, Cooking]
+    taste: [Material, Industrial/Digital]
+    hear: [Singing, Music]
+    touch: [Massage, Dance, Theater, Cinema/TV]
+    view: [Makeup, Painting, Photography]
+    kinesical: [Sex, Games, Sport, Videogames]
+    textual: [Literature, Software]
+
+# ═══════════════════════════════════════════════════════════════
+# ESCALA GRADUAL 7s (Integración)
+# ═══════════════════════════════════════════════════════════════
+gradual_7_scale:
+  levels:
+    1_red: {grade: 0.14, action: "Detect/Recognize", state: "Inmune"}
+    2_orange: {grade: 0.29, action: "Maintain/Separate", state: "Bonding"}
+    3_yellow: {grade: 0.43, action: "Nurture/Absorb", state: "Conjugation"}
+    4_green: {grade: 0.57, action: "Vitalize/Inspire", state: "Organism"}
+    5_blue: {grade: 0.71, action: "Love/Rate/Relate", state: "Fine/Cute"}
+    6_violet: {grade: 0.86, action: "Estructure/Connect", state: "Test"}
+    7_white: {grade: 1.0, action: "Sense/Transmit", state: "Instinct"}
+
+# ═══════════════════════════════════════════════════════════════
+# EMBRIOLOGÍA Y CAPAS GERMINALES
+# ═══════════════════════════════════════════════════════════════
+embryology:
+  germ_layers:
+    endoderm:
+      organs: [Liver, Pancreas, Bladder, Urethra, Lungs, Thymus]
+      systems: [Digestive, Urinary, Respiratory]
+    
+    mesoderm:
+      organs: [Gonads, Dermis, Kidney, Blood_Vessels, Notocord, Bone, Cartilage]
+      systems: [Reproductive, Integumentary, Circulatory, Skeletal, Muscular]
+    
+    ectoderm:
+      organs: [Spinal_Cord, Nerves, Brain]
+      systems: [Nervous, Endocrine]
+
+  development_stages:
+    fertilization: "Conjugation"
+    fetus: "Water environment"
+    infant: "Provision"
+    teen: "Provision"
+    modern: "PsicoSocial"
+
+# ═══════════════════════════════════════════════════════════════
+# PSICOSOCIAL (Extensión)
+# ═══════════════════════════════════════════════════════════════
+psicosocial:
+  levels:
+    love_axiology:
+      values: "Sacralization"
+      system_analog: "Souls"
+    
+    semantics:
+      customs: "Sustainability"
+      system_analog: "Trustful"
+    
+    epistemology:
+      worldview: "Vision del mundo"
+      system_analog: "Free"
+    
+    psychology:
+      location: [Psychology, Sociology]
+      language: true
+    
+    ethics:
+      tasks: "Roles"
+      system_analog: "Trustful"
+    
+    sociology:
+      population: [Society, Politics, Juridical, Media]
+      system_analog: "Free"
+    
+    economy:
+      types: [Mining, Craft, Manufacture, Deal, Service]
+      freed_types: [Gift, Shareful, Share, Chain, Exchange]
+
+# ═══════════════════════════════════════════════════════════════
+# METADATA
+# ═══════════════════════════════════════════════════════════════
+metadata:
+  source_documents:
+    - "Matters_&_BioSystems.ods"
+    - "Matters_&_BioSystems25.4.ods"
+    - "FloveTables25.12.txt"
+  extracted_by: "Lucas (Scrum Master)"
+  extraction_date: "2026-01-09"
+  paradigm: "CONFLUENTISM"
+  complexity: "High - Maps physics→biology→psychology→economy"

@@ -1,0 +1,1799 @@
+# INTUITIONISM
+
+## ****I****ntroduc****c****i**ó**n: ****Novedad sutil
+
+*Something lovely getting more obviously subtled in a further novel*
+
+Hay muchas relaciones sutiles de las que no nos damos cuenta y con las
+que estamos interactuando y que nos interesaria materializar-evolucionar
+mas.
+
+Para materializar alguna sutil novedad tenemos que disponer de espacio
+en nuestro limitado cuerpo. Para eso tendremos que optimizar -
+involucionar -- redistribuir energia que esté usando demasiado espacio.
+
+*Mas difícil de medir y mas fácil de intuir: Sentiremos más y lo
+podremos explicar menos*
+
+Toda novedad encaja porqué explica más simplificadamente lo alcanzado
+hasta el momento, poniendo mas enfasis en relaciones mas viejas y
+fundamentales pero mas olvidadas también por la distractora
+complejizacion de la experiencia, mientras le quita presencia a otras
+tantas relaciones ya no tan importantes. Unas relaciones muy cargadas
+nos servian y con la novedad se integran en ella y quedan menos cargadas
+a la vez que nos sirven aun mas. La novedad toma un espacio existente,
+lo considera demasiado ruidoso y redundante y lo integra minizado --
+simplificado -- involucionado en ella.
+
+La profundidad de la novedad está en el cómo ha integrado sutilmente
+(conservado involucionada) a una relación anteriormente mas obviamente
+expresada en la característica evolucionada.
+
+El par o ancestro involucionado tendrá menos actividad observable que su
+polo evolucionado, por lo que nos será mas dificil de observarlo con
+aparatos pero mas fácil con los nuestros propios (ej: nuestra mas
+distraida vista interna, etc\...).
+
+Cuanto más novedades inventamos, más remezclamos con pasado mas lejano.
+Sabremos mas sobre la(s) fuente(s) con mas simplificaciones y nos será
+mas dificil porque estaremos mas distraidos. Hemos de dar saltos de fé
+desde sitios supuestamente más altos hacia otros más profundos, donde
+para ello hemos de integrar minimizado mucho de lo que considerabamos
+mas importante hasta entonces, aunque fuera parte de lo que nos permitió
+llegar ahi precisamente.
+
+*La navaja de Ockham es una pista mas sobre la dinámica inevolutiva de
+la simplejidad*
+
+Para hacer mas potentes proposiciones hemos de agilizar las bases, a mas
+abstracta mas abarca, para lo cual hemos de considerar a mucho
+conocimiento adquirido como intermedio y no tan importante. Tenemos al
+intuicionismo (racional: lógico y matemático) como camino para ello:
+Apostar mas por aventuras relacionales intuitivas cada vez mas
+falsificables pero también mas dificiles de medir.
+
++----------------------------------------------------------------------+
+| VerMedir es una manera de relacionarse. Una mínima autoestima espeja |
+| lo que admira. Admiro loas cosas por                                 |
+|                                                                      |
+| 1\. Su masa, con aparatos casiprecisos aproxicalculados y            |
+| pseudocategorizados antes                                            |
+|                                                                      |
+| 2\. Su longitud de senos y cosenos y sus otros polares               |
+|                                                                      |
+| El "Problema de la medición" falsifica al reduccionismo, la          |
+| mereología acude al rescate:                                         |
+|                                                                      |
+| 3\. Su relación                                                      |
+|                                                                      |
+| A mas Confluentista, mas integrador - holista:                       |
+|                                                                      |
+| 3.1 Por mi vínculo con tal centroide                                 |
++----------------------------------------------------------------------+
+
+# ****
+
+****
+
+****
+
+*****M******ore analog smaller sets****** the more conmutable ******the
+******more****** stab******le****** for the ******same uncertainity*****
+
+Whatever perception of reality is - has to be
+[****fuzzy****](http://flove.org/fuzzy/) because such observer needs to
+carry uncertainity in its observation for the whole to be and keep being
+a stable system, for him-her not being able to change it - make it
+unstable - put the whole system at risk.
+
+At the same time, we can think of reality as being pre-determined. So,
+in this sense, there could or should be an absolute certainity in
+whatever happening.
+
+Plurism is mandatory and polarization is the easier way we can approach
+meassuring it the better. A simple polarization is neither absolute, it
+can-should scale into a triad andor as an
+[orthogonality](https://en.wikipedia.org/wiki/Orthogonality#:~:text=edit%5D-,In%20mathematics%2C%20orthogonality%20is%20the%20generalization%20of%20the%20geometric%20notion,u%2C%20v)%20%3D%200.).
+
+****
+
+*****The better theory the more simplifiable apps, the better practice
+the more falsifiable theory*****
+
+****Everyone should be able to more easily-simply relating anything to
+anything else, further qualify (rate...) and redefine that relation as
+(s)he wants ****and ****expect to ****get rewarded ****just
+****because**** ****doing that****.****
+
+****T****he best descripti****on****s are the more prescriptive
+****ones****. ****I.e. Propose a practice for that ****theoretical****
+relation, ****add a reward to it, publish**** it within an interactive
+app ****where you could also ****get**** ****rewards ****from other
+people****.****
+
+**Find and own your web in the web **andor** train your bot with Fuzzy
+(.)Flove, ()other**
+
+****Once some data is freely shared, it can be analized (with a data
+pool you should also choose) ****and you can choose to get more of the
+benefits of it, i.e.**** provide further insights to the data you
+shared. ****
+
+****For a more optimal analisis arena, w****e should also b****e****
+fostering analitical suggestions**** ****to ****compete for offering the
+more custom and material rewards posible in exchange of
+****follow****ing ****their suggest****ed tasks****. ****Tasks
+c****ustomization ****can**** ****come from you****r**** ****profiling
+allowing ****the ****sharing**** ****of more of ****your**** ****more
+abstract ****Fuzzy data, ****the data that could**** ****suggest the****
+better potential matches ****for you****, ****either for wanting andor
+for demanding the more concrete things you want.****
+
+**Privacy makes the momment more special for mining the lesser andso
+more own and better keywords**
+
+The more alone with the app, that will also require the lesser words
+from you, the better. The fewer words, the more important each, the
+lesser load to analise it if you want. ****A****
+****demo****n****str****a****tive ****g****ame to play it with at least
+two ****people****:****
+
+1.  Get two words
+2.  People think about some another word related to them
+3.  When someone founds one, raises his-her hand (and don't tell what's
+    that word)
+4.  When someone else finds another one, raises his-her hand too
+5.  Start a countdown for both telling their word at the same time
+6.  Do the same but related to those two words
+
+Additional rules may be:
+
+1.  End the game when there is a coincidence of words (either value
+    andor punish that)
+2.  Don't let repeating the words already said, and request a reasonable
+    link with the words said (eliminate participants who don't)
+3.  Require a(n icreasingly short) countdown for having to tell words
+4.  ****Require expressing with ****labels (act, ..) & ****other
+    channels ****(dance, face, \...)****
+5.  ****Pause rounds to get to define the words conjuncted within the
+    group****
+
+****There is not much automated ****eased ****services for
+****developing ****decentralized and rewarded ****the ****open-free
+polysemy**** ****network ****for relations, ratings and definitions
+****of words ****(****such ****as ****Love andor else****)****. ****
+
+**Proposal: ***Choose a word, an antonym, get them merged, see content
+fields for defining it*
+
+1.  Say any word, the more formally andor informally possible (KEYWORD).
+
+2.  Find an antonym andor complementary for it (KEYPAIR)
+
+3.  Merge & define them with WISE labels andor extend its family with
+    ranks (KEYSET)
+
+    Choose a Love related keyword. See an inviting phrase (formed with
+    its related objects) to perform an action within it, Edit it, save
+    and/or send it (to a friend, network) (KEYAPPS)
+
+*****Fuzzy ******doesn't sound****** ******good****** for the more
+Formal Logic ******but it's ******a ******cool****** ******one ******for
+an appy model*****
+
+****
+
+## **Flaws review**
+
+*****Uncertainity andbut a wholism possibility forces us to relate
+anything to everything else*****
+
+****The more dichotomy you ****deepen in****, the more ****it is
+****recalling to ****be ****interpret****ed**** merged ****instead****.
+****This ****may ****seem too simple, but it ****is so hard to retain
+a****s ****we naturally ****complex****ify, ****W****e ****are
+****always evolv****ing**** further variety that distracts us further
+from the fundamental root, which is always simplifiable in ****just
+****two fuzzy poles, ****wherever complexity we could be in****.****
+
+### ****F****law at Logic****
+
+*****Logic is ******Fuzzy ******but Fuzzy ******is****** buzzy.
+Relationis******m****** ******easier****** than
+Continuos-******Holistic****** Mereology *****
+
+![](Pictures/10000000000004D8000004DDD7CB41FCFE8EFCD1.jpg){width="8.082cm"
+height="4.957cm"}![](Pictures/10000000000002D0000006DA82329F24EF821DAC.jpg){width="7.915cm"
+height="10.403cm"}******
+
+****
+
+****
+
+****
+
+****
+
+![](Pictures/10000000000006DA000004D86AE428A0773F0CC9.jpg){width="8.313cm"
+height="4.923cm"}****
+
+****
+
+****
+
+****
+
+****
+
+*****Fuzzy Logic- Mereology tends to the Holistic above as below &
+Solipsistic inner as outer*****
+
+****Relationism, Semantics, FuzzyLogic... remind us that Reality-Truth
+is always relative, plural and bidirectional between ****the****
+****popularly known ****above as below, but also ****through the****
+i****nner ****as**** outer.****
+
+****Every happening is real ****and unique**** and ****so ****carry its
+****absolute ****truth ****b****ut all ****happenings may be**** within
+a wholist dynamic continuum where uncertainity needs to be preserved
+****for the one experimenting t****he system****. So, discrete logic
+(absolute perpetual truth) doesn't really exists. ****A more
+****Real****istic**** ****logic-truth can only be
+****intuitionistic-****continuous. ****Fuzzy logic**** is the only
+possible and so more formal logic because it takes into account (doesn't
+pretend eliminating) uncertainity and subjectivity. ****
+
+*More******Subjectivity and uncetainity can't be excluded. ******Equal
+sign****** is necesarily polysemic*****
+
+****Fuzzy logic ****is what more concretely ****represents
+****(****truth's ****discretion within)**** continuity-dynamism
+****b****ut fuzzy logic is rather underrated and bullied by «Formal
+logic(ians)» (Vanguardists of what is Real -- Truth) as shown by
+the****ir**** avoiding of perspectivism (uncertainity within
+subjectivity) and by ****their**** consider****ation of**** antagonist
+relationing****s**** ****to be impossible to conjunct-merge,****
+****calling these as "oxymorons", which is a bully naming that clearly
+exposes ****the**** appeal to authoritarian pitty fallacy, ****which is
+root for its truth discreting****, ****among others i.e. false dilemma,
+strawman, loaded language, \...****
+
+*****Identity and non contradiction depends of the excluded middle
+(ab)use: A IsNot always B*****
+
+****At every field of knowledge, thei****r f****undamental
+****concepts**** ****tend to be proposed with a high dose of****
+excluded middle orthodoxia ****from Formal Logic. T****hi****s****
+****causes ****and develops**** ****an implicit ****rivalry between
+****the field itself with another one, and ****two ****antagonist
+****theori****zings**** in the ****same ****field represented by two
+different words that are considered conflictive antonyms. ****Within
+this ****fundamentals ****basis,**** ****the two ****fundamental
+****stands**** ****of the field get in a race for trying disproving each
+other, which ****produc****e****s**** more overcomplex
+****(****jargon****)**** words ****within the field****, aim****ing this
+way**** ****for ****their theor****izing**** to**** "feel more
+important" than ****the o****ther ****theory**** from the**** rival
+****thesis ****of the field and with ****the**** thesis from ****the
+****other "antagonist" field****.****
+
+****Through this achademized rivalry trend, we are badly elitizing
+comprehension and research accesibility by uglying naming conventions
+and difficulting relationing with****in and across**** fields. Also,
+definitions get much hard to be linked to practices (so they will
+produce less falisfiability ****for the the****o****ry****\...) because
+of those such high descriptive demands. ****
+
+****This ****adversarial ****trend ****of theorizing ****tends to go
+assuming a more fatalist ****or rupturist ****perspective ****as**** its
+ultimate background -- ****fundamentals**** which will be ****everytime
+more ****directly reflected in the author's own actual and more
+practical intentions ****too****.****
+
+****The simple way out of this trouble is ****considering oxymorons
+(antonyms conjunctions) ****as sources andor «a total of a rational
+length». ****Dichotomies can be ****simply ****sintactically
+****merg****ed**** for example: PsicoSocial: idealism vs materialism \<
+idealist materialism\... ****
+
+****
+
+### **Flaw at Math**
+
+*****The more minimal ground, the better stability for whatever is
+scaling up from it*****
+
+****Novelty is ****an important part of what we look for within objects.
+Novelty is ****not only coming through developing known complexities
+****with a ****further ****ammount of ****more complex object****s****,
+novelty may also and specially come through further simplifications of
+experiences that we are constantly interacting and developing informally
+within our daily livings.****
+
+****Logic is about how we declare what is truth, and math is the more
+discrete language we know ****for**** do****ing****-represent****ing****
+so. ****M****ath ****formality-truth, ****inversely than logic,**** is
+rather associated with continuity. ****A continuity that has untruly
+fundamentals i.e.**** ****T****he Godel uncompleteness theorem lead****s
+****to a need for continuous-inifinite axioming andor more easily think
+****how**** the "=" sign needs and is still being defined.****
+
+****Formality tells us to look for absolute truth with more the
+complex-conti****nu****ous maths, while ****the ****intuition****istic
+approach to logic and math**** ****recommend**** us to extend partial
+truths through the more discrete-simple math possible. ****
+
+****While everything is uncertain, everything is capable of reflecting
+the whole too, then the smaller the structure to ****initially ****scale
+at-****from****, the same uncertainity will be but more energy it could
+concentrate. ****
+
+****2 is the simplest certain and the more complex as well within our
+impossible oneness ****(because of uncertainity\...)****. All sets are
+reduceable to a bipole and to a triad as a scale of that, that displays
+its further dynamism (of holisticity -- hiperconnectivity). ****
+
+****
+
+****
+
+### **Flaw at high sci**
+
+*****Consensus is a ******fictional****** battle between straw (wo)men
+******for ******ranking****** poles ******as primaries*****
+
+****We mean something with words by how we relate (link) any word to
+other words ****that finally are translatable to some inner functions we
+are wanting developing with that outer moves ****with words****.****
+****
+
+****Words don't mean (explain) anything by themselves ****and w****ords,
+as everything else, need uncertainity for them (keep) being dynamic.
+There are some words, and specially relations of words with other words
+that seem very open to interpretation, others seem to be more easily
+consensuated, but indexes andor consensus are just guidances, always
+open to be reviewed and improved. Polysemy is ****not optional, it is
+rather ****mandatory...****
+
+****This flaw is further extended and more easily seen in ****semantical
+sintaxising**** with dictionaries interpreting (the thessaurus) antonyms
+as non-contained, ****non-conjunctable**** in the described object
+instead of interpreting antonyms as ****(very related) ****acting as
+minimized poles of the ****refered ****object.****
+
+*****For wholism being diverse it needs simpli******city****** both as
+departure and ultimate expressi******on*****
+
+****A****ny object either singled, paired or more continuous should be
+reduced as an outer pole of the inner subject expressing
+****it-****them. ****T****he subject should also be
+****sub****categorized by his-her ****intentional bonding
+****expecta****tives, ****and else polarities which will be related with
+sematical layers of the object too****. ****
+
+****We browse our subjectivities with the outher objects (and
+viceversa). Numbers are the more objectified objects we have available
+for that. We already have tools for searching the properties of numbers
+themselves but we don't have yet a tool for ****creating and
+****analizing ****deeply ****the coincidences of the relational
+properties of one number, ****word or else source**** with another. Same
+happens (derivated of this) at physics when considering that fundamental
+particles properties can be gotten beyond their relations with other
+particles.****
+
+****Also**** flawly, the****re's**** misconsideration of
+(silico)carbo-antropocentrism as an evolutionary lead because its
+composition complexity and evolutionary earth - universe mimicking. ****
+
+*All verbal communication expresses some *fined* quality of body
+language -- *art (d*ance*)**
+
+We have an ontological problem when we identify «body language»
+(kinesics) as «non-verbal non-natural language», because we are giving
+to «verbal» more importance than what is more purely kinesical, when
+more in fact there is much more valuable and natural information and
+more possible originalities (valuebale information) within kinesics
+prosody than in what is verbalized or written with them.
+
+Verbs come from dance. How much do your verbs dance? Dance some verbs,
+let's see...
+
+**Similarly of dance to verbs, does animal emotions to dance. **A body
+language seems more dance-artistic to us when it best imitates an animal
+in its moment of greatest communicative intensity (See more: Patricia
+Cardona, The dramaturgy of the dancer)**. Also, music is not only
+generated by the instruments and harmony is not dictated by just a
+theory.
+
+*Dance is a yet one more peak within the constant philogenetic
+recapitulation we also do*
+
+****
+
+### **** ****Flaw at linguistic platforms****
+
+*****W******iktionary:thesaurus doesn't help ******Wikipedia integrating
+better categorization ******&****** criticisms*****
+
+****At known liguistic platforms, w****e can't****
+
+****\* ****(****Pluri****)****Define (r****elate, rate and
+re****define****)**** the item-****word (Polysemy)****
+
+****\* ****Conjunct**** two ****word****s ****for**** ****making**** a
+****single**** item**** **** ****
+
+****\* (Pluri)****D****efine conjunctions****
+
+****\* ****(Pluri)****Rate the ****oppositional**** andor
+complementar****ity**** degree ****(not only sinonimity) ****of a
+word****
+
+****\* ****(Pluri)****Create new raters ****and use them to ****r****ate
+words within**** them****
+
+****\* ****(Pluri)Redefine ****words ****using and creating
+epistemological labels ****for**** further ****falsiability and
+****prescriptabilit****y****
+
+****Thessaurus are offering dictionaries (&legalese..) negative antonyms
+and positive synonims and bundles of related terms which are ****poorly
+and ****not further categorized. ****
+
+****Dictionaries then interpret the «antonyms of a word» with the (abuse
+of the) excluded middle principle orthodoxia for making more formal****
+short ****rethorics. Encyclopedias just extend dictionaries
+****rethorical**** flaws in a broader ****and**** more flexible and
+informal way. ****
+
+****Dictionaries ****and Encyclopedias ****are more or less formal
+depending the quality of their moderation and not ****t****hat much by
+their more or less quality of their semantical ****polisemy ****andor
+predicative logic sources. ****
+
+****Furthermore, ****Hyponims-Hypernims are just ****the more
+discrete**** way ****for adding further properties to a word through a
+hierarchical ****ranking****. ****Holonims-Mereonims a****re the
+broad**** ****side of it, finally getting too broad and meaningless if
+we don't create further concrete subraters of such
+holinimity-mereonomity.**** ****Roget dictionary hierarchies were an
+attempt to do so, but the project was later abandoned probably because
+of their unnecesary complexity which made it unusable. They created a
+rigid set of (wordy) categories to further categorize words relations,
+instead of letting users to create the relational raters themselves in a
+more crowdsourced way. ****
+
+### ****Indexers: ****A****I****s **** ****
+
+****AIs have their own advanced way of ****semantical-mereonomical
+****relationing. They offer a top down suggested content - action
+related on probability -- popularity of the content they analize and
+other tunnings you can add ****on ****to the****ir ****analisis****. For
+any new relation or else you could add, you could find AI suggestions
+that could help you. ****Y****ou should ****be able to tune them and you
+should also ****care about how much near you would like to see these
+suggestions through your navigation - mommentum. ****
+
+****The ****more free and ****un****structur****ed****
+****expression****s**** coming out from the uniqueness of your mommentum
+is what ****can't be substituted by any AI or ****other ****linguistic
+platform. ****Your freedom to define anything is**** probably not wished
+by linguistic platforms ****because they rely in ****centralised
+****moderation ****and this will cause a**** bottleneck ****in
+****them****, but ****your freedom of expression-relation ****it's
+definetely wished by any AI ****(Surely valued as better content
+there)****.****
+
+****
+
+![](Pictures/10000000000002690000033128C70816CAACB6B9.jpg){width="7.223cm"
+height="6.378cm"}![](Pictures/10000000000004D80000036A640897BCC48A832A.jpg){width="9.394cm"
+height="6.458cm"}****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+## **Proposal**
+
+*Choose a word, choose an antonym, get them merged, see content fields
+for defining it*
+
+![](Pictures/1000000000000400000002D5CBEAF6595CA4679D.png){width="17cm"
+height="9.421cm"}******
+
+****Language is an evolving tool, ****i****t has to be wide opened for
+producing better outcomes. ****F****uzzy logic application****s****
+referrals, ****what can help the more for that,**** are not popularized
+nor ****more openly ****broadened enough ****the few cases there
+are****.****
+
+****We ****need**** ****a ****better thessaurus for ****crowdsourcing
+the relations of words ****because no****t any**** set ****of categories
+proposed by ****anyone could fit all the ****words relational**** needs.
+Fully relying on ****AIs ****for doing the T****hesaurus ****job o*****n
+the******ir****** fly***** is not a sustainable idea ****either,
+****because**** ****t****he****y can't substitute the**** custom
+topologies of humans ****that ****are and ****will ****always ****be
+uniquely sharp****er in some way, ****and more specially:**** we are
+going to further relate "as we wish" on the top of what****ever**** any
+AI would suggest ****us****. ****
+
+****E****veryone like****s**** to play simple ****games with
+****words.**** ****So**** ****l****et's feature bottom-up custom
+****gamified ****decentralized semantic categorization and polisemy.
+****Linguistic platforms, AIs, SEOs ****would all benefit ****and will
+****robust**** their**** sources ****with our better bottom up inputing
+****too. ****
+
+****
+
+****
+
+****
+
+  ---------------------- -------------------------------------- ---------------- ---------------- -----------------
+                         ***CALIFICACION**** ****SEMANTICA***                                     
+  ***OIDO***             ***Posicion***                         Inconocible      (Des)conocido    *Epistemologia*
+  ***Material***         Abstracto                              Concreto         *(Meta)Fisica*   
+  ***TACT****O***        ***Sensacion***                        Complementario   Opuesto          *Ontologia*
+  ***Presion***          Intenso                                Suave            *Fisica*         
+  ***V****IS****TA***    ***Jerarquia***                        Primaria         Secundaria       *Axiologia*
+  ***Imagen***           Formal                                 Informal         *Estetica*       
+  ***O****LFAT****O***   ***Enfoque***                          Positivo         Negativo         *Politica*
+  ***Proximidad***       *Cercano*                              *Lejano*         *Psicologia*     
+  ***Longitud***         *Lejano*                               *Cercano*        *Sociologia*     
+  ***GUSTO***            ***Inclusividad***                     Mas bien         Menos mal        *Logica*
+  ***Exclusividad***     Bien                                   Mal              *Moral*          
+  ---------------------- -------------------------------------- ---------------- ---------------- -----------------
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Note about the table**: There could be more fundamental raters than these. Also SENSES, Properties and Fields analogies are an experimental default, they could be extended into SYSTEMS, other channels from other systems andor be quite ignored overall, they are only useful for start approaching the better knowing deeper inner referrals that we are relating to when rating words, which can be even more fuzzy for every subject using them
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### **From Wise Dipedia to Apps**
+
+1.  Say a word (KEYWORD).
+2.  Find an antonym andor complementary for it (KEYPAIR)
+3.  Extend its family with ranks (KEYSET), i,e:
+
+  -- -- --
+        
+        
+        
+        
+        
+        
+  -- -- --
+
+1.  Conjunct-Merge & define it with WISE labels**, **i.e.
+
+    **NombreAdjetivado (Truco sintáctico para forzar Conjunción --
+    intensidad)**
+
+    Un **axioma **introductorio (Estilo: llano, tecnico o gracioso)
+
+    Una tabla con propiedades como hijos del título
+
+    Explicacion de indicios, **evidencias **y debates existentes
+    *(acercamientos pasados, derivas-fallos excluyentes, etc) *sobre el
+    binomio y el axioma.
+
+    (Otro axioma, continuacion y o de otro estilo complementario al
+    primero, para separar secciones- narrativas sobre evidencias y o
+    para acabar la retorica)
+
+    Mas evidencias relacionadas con el subaxioma
+
+    Parte mas técnico - concreta:
+
+    **Prediccion(es)**: A mas conocidas dicotomias, dilemas, paradojas y
+    contradicciones, mas rápidas y mejores explicaciones encontraremos
+    presentándolas como binomios.
+
+    **Propuesta(s)**: Modelar las prescripciones salientes de
+    definiciones (de propuestas de hábitos a apps, etc)
+
+    **Reto(s)**: Medidores de actividad neurológica, fisiológica y o
+    psicológica (incluso ambiental) para comprobar el mayor nivel de
+    verdad y bienestar que hay en aplicar la logica de la inclusividad
+
+2.  Create a Wholist Keyset resumed with ranked lovely expressions.
+    Choose ****a ****Love related keyword in it.**** ****S****ee an
+    inviting phrase (formed with its related objects****)**** to perform
+    an action within it. E****dit**** it if you want. Save and/or send
+    definition or the performed action (to ****a**** friend, network)
+    (KEYAPPS)
+
+### **Why KeyPairs**
+
+*****Our favourite ******words****** deserve better networks*****
+
+### ****P******aradigmatical Analysis of KeyConjunctions****
+
+*****Concept ******a******s****** object with ******many****** relations
+with others ******and Paradigm the ******Concept****** having most*****
+
+****Words, like numbers ****and pure****r**** math****, are very little
+and seem quite catchable, but we have to remind that they have to comply
+with the need of uncertainity (or uncompleteness) ****too, ****like
+atoms and else does****. ****When meassuring andor valueing with
+****words or numbers**** we look for what we call ****P****roperties,
+****the ****b****etter Relations they have with other key words for
+us****. ****
+
+****T****he property-****meaning ****will be in the object-****word****
+****R****elational ****network. Some ****networks**** will be more
+meaningful for us than others,**** ****where words called-****magnified
+as**** ****Concepts or ****P****aradigm****s**** ****would stand for
+objects that**** ****have a ****valueable (key) relational network****.
+****
+
+*****For a more relationist philos******o******phy,******
+******conjunctions as linguistic centroids ...*****
+
+****Concepts, paradigms and ****every**** related object ****in their
+networks ****can be ****further ****conjuncted ****between them****.
+****hence becoming a Conjunction-Pair (key network). Furthermore, the
+same there are KeyWords we develop KeyConjunctions (aka: Keypairs),
+where the fuzzy culture should focus more because e****ven if
+****reducting the**** ****meaning ****to**** ****very ****likely
+****relations and hav****ing ****a lot of ****capability for
+****analis****ing them ****(Machine Learning ****applied to the**** Big
+Data****) ****such effort**** will remain struggling at the analysing of
+conjunctions,**** where it****-we**** will find the following
+limit****s**** to (in)finity: ****
+
+*****A****** ******rating minimises its****** antonym, ******a******
+disjunctive conjunction display******ing****** a deeper link
+******fast(er)*****
+
+## ****
+
+### **KeyPairs**
+
+*****A point will cross4, is 1 of the 2 dissipation l******I******mits
+of a link. Centroid is to inner as pi to outer*****
+
+****Equilibring the more meaningful bipoles is the more key and win-win
+simplex option available nearby ****for pursueing meaningfulness.****
+****So let's f****ocus ****in finding ****our more formal and
+infomral**** favourite pairs and**** ****get ****deeper in ****them****.
+****
+
+*****Formaliz******ing****** bipol******ar******s****** would make the
+best thessaurus and the more thrilling encyclopedias*****
+
+****From infinite to 2 & from 2 to infinity too. Value and infinity is
+in the middle of keypairs. Any ****keypairs ****centroid is as infinite
+or more as or than any more populated multiverse. ****
+
+****The same we call ****K****ey****W****ords to meaningful words, we
+should call ****K****ey****P****airs to meaningful (relations of) pairs.
+Every relation is a pair, although it may not be a keypair. Keypairs are
+greater than the keywords they contain. They are the ideal browsers for
+the unknwown middleware.****
+
+****Meaningful relations (i.e. all oppositional and favourites) are
+****keypairs and ****potential ****K****ey****R****aters ****for any
+other content else. The****re**** are ****popular****
+****key****pair****s ****for anyone**** ****more easily and
+****endlessly redefine and relate childs to them ****(i.e.
+important-trivial, etc\...)****. ****
+
+****How we relate words is very personal and depends on the mommentum
+too. But we can also feel our keywords-****pairs**** entangled in some
+kind of (****K****ey)****S****et. ****
+
+******
+
+### **Opposition and Complementary Relaters**
+
+****We can propose two main types of Keypairs:****
+
+****Polar Keypair: Opposite relationing: The most Antonym ****
+
+****SoulMate Keypair: Complementary: The more Complementaries
+(aproximately around half to lesser Synonim and the lesser antonym at
+the same time)****
+
+****Ideal opposition and complementarity are imposible to achieve but
+very worth approaching****
+
+****There has to be at least a 50% of uncertainity in everything we
+experience and express. ****
+
+****
+
+****We can easily see any expression as a macro of something micro -
+that is being microed. So we can locate the uncertainity in the more
+micro side of the macro we are more focusing on. ****
+
+*****The macroCustomized pole that microMinimizes its other with its
+******easy ******polarizer «******OR******»*****
+
+****Oppositional relating makes it easy and wide to ****macro -
+****concentrate -- reflect most of the mommentual energy in one pole
+****(of the mandatory two)****. Oppositional relating expresses an
+emphatized way of ra****ting-ra****nking: I.e. A is ****the macro in
+****the best-top rank, while B (opposite) is in ****the more
+micro-****lower/****est**** rank. ****
+
+*****T******he Excluded middle ******application exclusivizes******
+a****** mainly****** ******short termed ******Pauli space*****
+
+****O****pposition is ****a ****default high ****and easy
+****intens****ity**** for**** ****relationing through ****polarization.
+An antonym ****could ****be ****either ****seen as a**** ****polar****
+****soulm****ate ****andor ****an adversarial ****oppos****ition****,
+****i.e.**** ****Up compared to Down****. ****
+
+****Antonimity is popularly used as ****the primary parameter for
+****meaning making**** because is the relationing type that more quickly
+polarizes, ****more**** quickly either displays both discrete ****space
+****(finitude in the set) and a big space**** ****in the middle of both
+poles, ****specially when you ****conjunct ****them****, something that
+formalism forbids doing (****this being its main ****flaw!). ****
+
+*****Antagonists need to be colder because they are short termers and
+complementaries hotter*****
+
+****We give importance to things by rating them, normally ****by quickly
+****comparing that rating to how far ****it is from**** their
+****possible ****opposite ratings. ****But one can ****rate ****a
+relation with its good and bad things at the same time ****too, i.e.
+birating.**** ****
+
+****Also, o****ppositional relations are not the only,**** main or
+****possible raters and keypairs.**** ****Favourite (key)words relations
+****are the other precious (****multi)raters and keypairs. ****Favourite
+keywords-pairs-se****t****s, ****by not**** ****showing their opposites
+there**** ****minimize ****opposition****, ****while is always implicit
+in it as its ****(quick)**** boundary****.****
+
+****Oppositions could be more or less intense. The more intense
+oppositions will be just a few, ****very ****easy to find and to agree
+to them too. ****In the other pole of things, t****here could be more
+****key ****complementarities than ****key ****oppositions andbut key
+complementarities will be more difficult to find, open and biased.
+****For example, w****e are l****iking more some things-words instead of
+others, and so we rank them, Varying the types of rankings
+****further**** minimizes the oppositioning relationing (****less
+****stress finally). ****
+
+*****Fight the flight of your custom men of straw be******ing******
+hijacking you to make you less spoiled*****
+
+****Opposition as ****an extension of ****the rupturist polarity of
+compatibilism:****
+
+  --------------- ------------ -----------------
+  Polarity        Opposition   Complementarity
+  Compatibilism   Rupture      Continuum
+  --------------- ------------ -----------------
+
+  ---------------- ---------------
+  INTEGRATIVE      RUPTURE
+  Lejano           Opuesto
+  Compañia         Rival
+  Unido            Adversario
+  Fundido          Enemigo
+  Minimización     Eliminacion
+  Inclusion        Exclusion
+  Complementario   Contrario
+  Polaridad        Contrariedad
+  Relacion         Contradiccion
+  Coincidencia     Paradoja
+  Confluencia      Dilema
+  Simultaneidad    Dicotomia
+  Relatividad      Dualidad
+  Binomio          Diada
+  Bipolo           Dipolo
+  Par              
+  Pareja           
+  Nexo             
+  ---------------- ---------------
+
+**
+
+  -------------- ---------------
+  Semantics      Antonym
+  Logic          Contradiction
+  Psychology     Dislike
+  Morals         Worse
+  Informal law   Sin
+  Formal law     Crime
+  Military       War
+  -------------- ---------------
+
+******
+
+#### **Opposition degrees** ****
+
+*****Opposition decreases more by minimizing it than by pretending
+eliminating it***** ****
+
+****When we declare a single object, there will always be (beyond our
+subjectivity and uncertainity) its oppositional referrer along it (the
+antiobject) regardless of we feeling-declaring more or less how we
+f****(l)****ight.****
+
+****OR is the main type of ANDs. The minus sign is an "add"itional
+operator. ****A****n antonym is a disjuncti****on with a high****
+****potential for meaning in its ****conjunct****ivity****. ****An
+oxymoron is a disjunctive conjunction. ****Elimination5, Exclusion4,
+Omision3, Minimization2, Micro1... are aesthetical choices for degrees
+of polarization, which normally work oppositely as pretended ****because
+t****he more humbly you are giving less attention to one of the poles,
+the more you ****decrease the presence of such pole****. Saying B is the
+opposite of A doesn't mean that B is not included at all in A. B will
+rather be specially very much included in A as more B will be used to
+describe A.****
+
+#### **Emotional Strategies**
+
+*****You can't say it's a wrong note up to you play the following note
+-- Miles Davis*****
+
+  ---------------------- ------- ----- ------
+  EMOTIONAL STRATEGIES                 
+                         SHORT   MID   LONG
+  OPPOSITION             AA      -A    \--
+  COMPLEMENT             A-      A     AA
+  ---------------------- ------- ----- ------
+
+****
+
+*****Opposition as a s******trategy for analising ******others
+******capability for acting in case of an emergency*****
+
+****When we apply opposition relationing we more directly connect with
+our very basic fight or flight biological mechanism: Oppose (figth) and
+or ignore (flight), ****the smartest ****thing to do for**** short term
+responses ****to ****whatever uncertain happening****s****. ****
+
+****Oppositional relationing is looking for personal benefits within a
+short term strategy. Complementarity bets for a more long term strategy.
+The relationing between both will tend to be equilibrated with tactical
+movements, that will together develop a mid term strategy. ****
+
+****Oppositioning**** ****may seem ****emotionally ****contradictory to
+us because with it we outerly**** say that there is not match at all
+between you both for the external meaning of something, while the match
+is happening more broadly in the inner emotion of the ****shared common
+****present ****through the ****higher emotional stress ****that there
+is implicitly in**** ****focusing in ****the ****short term, along the
+****longer ****possible ****distance being**** very quickly
+****experienced**** when opposed concepts are expressed with some
+willing for conjuncting them, i.e. love, jokes, art, poetry.. ****
+
+*****Contradicting someone else ******serves ******as a******n easy
+and****** tactical******ly****** fast spacetime widener***** ****
+
+****O****pposition - contradiction is normally just the fast way to
+quickly display a big total possible length, a ****begging question****
+for a later finding of a confluential patch to it. ****
+
+****Complementary relationing mantains the long term perspective,
+patching the short termy oppositioning flaws accordingly.**** When we
+rather focus the conversation for-from ****a**** "confluential will", we
+can be over redundant ****and**** uninteresting because we will not be
+causing any spacetime to widen by being too complementary -- synonim --
+confluential. ****
+
+****By f****ictionally acting as throwing a stone away for later going
+to go to pick it up, we both show either our great hability of
+experiencing something more far away and our capability for
+****planning, ****reliabl****y**** filling gap****s**** andor ****the
+****attending of an emergency.****
+
+*****E******very opposition, if evolved with ******the ******lesser
+coertion, becomes art, laughter, ******wisdom...*****
+
+****
+
+#### ****M****ommentum**** ****management****
+
+****We oppose andor complement similarly to how we balance short and
+long terms. For example, some opposition will get more attention after
+some continous rounds of complementary expressions. The same will be
+happening in the other way round. ****
+
+**** ****
+
+****
+
+****
+
+****
+
+## ****O****ppositional KeyPairs****: ****Conjuncted Antonyms:**** ***W**hy Dipedia***
+
+****For positivizing ****anything, it may**** look better and easier to
+add andor multiply two numbers than ****to ****multiply two negatives,
+but this second option adds more "magic" to the operation. ****
+
+**Disjunction **a**s a big degree of uncertain similarity in a
+conjunction **
+
+We can see how much complementary are arguments within many debates that
+rather seem not in the surface. We may rather want to bring more peace
+to the world by seeing and taking the road to the polarities centroids,
+andbut we haven't develop enough tools for deeper dealing with
+conjuncted antagonists.
+
+****Despite having their own degrees, the more antagonistic relations,
+when conjuncted (also called oxymorons then) bring an intense middle,
+hence all of these are key pairs. ******Just dare testing it by
+conjuncting your more redundant
+Opposition-Contrarieties-Antagonisms-Dichotomies-Dualisms-Paradoxs
+(Noun-Noun) into equilibred (merged-complementary) Bipoles
+(AdjectivedNoun).**
+
+*****Kids, p******hilosophers, artists, poets and fun lovers extend the
+degreeing of oxymoronia*****
+
+Antonyms are very easy to find and when we conjunct them they produce
+the deepest definitions. They display a total possible rational length
+to infinitely explore within the more minimal set. A****dd****ing****
+two different rates within the same ****oppositional ****rater ****is a
+very normal doing: I like you because of X and i dislike you because of
+Z, although we don't have platforms implementing that very much
+comfortably anywhere.**** ****We still consider antonyms
+conjunctions**** as impossibles and absurds, calling it an Oxymoron,
+formally forbidding them.**** ****
+
+Oxymorons are either useful for a big trivial andor the most formal
+experiences though. This possible poling of big absurdity and wisdom is
+already oxymoronic... which should be proof enough of their fundamental
+importance... . What else andor How can something be so serious and
+trivial at the same time?.
+
+Oxymoron, more in fact, is a sophisticated word normally-formally meant
+to negatively and extremely ridiculize a supposed contradiction
+(authoritarian appeal to pitty fallacy). With the word \"Oppositional
+Keypair\" we could avoid to use the word Oxymoron for propositivistic
+purposes, but it is rather better to keep Oxymoron as a synonim of it
+because it's a very well known word already and also because its
+phonemics awake some fun in us (the ones who don't "hate" the
+conjunctions of antonyms) which is a positive thing to trigger in the
+search for novelties.
+
+FoxyHolon could be a more (too) provocative andso explicative synonim
+for oxymoron, but its multiplicity (foxy) matches better with the
+properties of complementary keypairs instead.
+
+****
+
+# ****
+
+### ****K****ey Complementaries:** Symbionims**
+
+*****W******ith words, w******e ******still ******look ******more
+******for ******satisfying****** ******our needs ******than ******for
+******w******h******ether ******how ******similar ******that is*****
+****
+
+****The Similarity paradigm at Semantics ****stands as**** the Unique
+Begineer (Similarity) and ****the ****main pole ****child (Synonim) at
+the same time, ****where it should rather only stand. Because we are a
+bit or very wrong if we think that Semantics is mainly about Similarity.
+Semantics could be only about what we wrongly call Natural Language, but
+even in that rupturist case, semantics will still be about the same life
+thriving we have been always pursuing, but within more evolved
+communication tools. ****
+
+****As a patch for this situation:**** ****For words, Synonims are
+****Twin ****Siblings while Symbionims are their Couples. ****The word
+****Symbionim, ****plainly said ****and when not being named as main
+paradigm of semantics,**** would ****also ****be**** good for better
+****refe****r****r****ing**** to peaks ****of****
+****complementar****it****y, ****which sometimes can be expressed
+with**** non oppositional ****pairings, ****i.e. when they are
+conjuncted of expressed after many rounds of complementarity.**** ****
+
+*****A favorite pairing in hand is better than a hundred relationships
+flying*****
+
+****There are words that we use more than others as the best groupers of
+meaning or as the most complementary to others. This status depends very
+much on the subject interpreting it ****because n****ot everyone
+****will agree**** ****to ****what ****is the**** favourite word ****or
+****best**** couples ****for it****. ****
+
+****We will know when we have reached that critical level of
+conglomerate significance the more the proposed 'relation' is ****more
+easily ****turned into a binomial that is having ****an ****explanatory
+****power close to**** a monism, a holistic representative with which
+you can easily draw analogies ****to from**** any other binomial.
+****B****ecause by holism: all keypairs have a similar relation,
+regardless the more broad or concrete subjects they are referring to.
+****
+
+****There are some of these complementary couplings that we already use
+very much (Timed Space, True Love, etc) and****but**** many more of them
+are to be found and enjoyed. ****
+
++----------------------------------------------------------------------+
+| *****Pocos pareados pero muy conocidos causan masjores analogias con |
+| lo desconocido*****                                                  |
+|                                                                      |
+| **Propuesta:** ****Conoce un pareado mejor al analogizarlo con otro  |
+| pareado que sientas mas reconocible. Conoce el concepto que no       |
+| entiendas del primer par, conociendo mas al compañero del segundo.   |
+| ****Ejemplo:****                                                     |
+|                                                                      |
+| ****                                                                 |
+|                                                                      |
+| ****1. ****Si sientes miedo, mas verdad te ayudará ****tanto o mas   |
+| que ****mas amor, ****                                               |
+|                                                                      |
+| ****2. Falsea el miedo. Teme a la falsedad.****                      |
+|                                                                      |
+| ****3****. F****ormar un binomio doble con dos opuestos: Amor        |
+| verdadero con miedo falseado****                                     |
+|                                                                      |
+| ****4****. Decrece la oposición añadiendole grados ****de intensidad |
+| menores a**** Mied****o: ****Nada, Vacio, Enigma...****              |
++----------------------------------------------------------------------+
+
+****
+
+#### **Fundamental Analogies**
+
+****Similarity can still stand as the main paradigm of semantics because
+Similarity is really more referring to the analogies we do for meaning
+making (explicitly mandatory in Fuzzy), where we have some objects which
+we fundamentally and ultimately analogize everything to i.e. Zygot, Sex
+and Love and their opposites Death, Hurt and Disfavor. So, we, more in
+fact, are looking whether and how the expressed objects and relations
+refer - are similar to the fundamental values we have, some of them
+shared amongst everyone. **** ****
+
+****
+
+****
+
+****
+
+****
+
+#### ***Experiment*****: Keywords from ******Humour / Playing****** theories****
+
+  -------------- ------------ -------------
+  ANALOGIZAR                  
+  PROBAR         COMPARAR     CATEGORIZAR
+  Tension        Distension   Incerteza
+  Desconocido    Conocido     Verdad
+                              
+  Ficcion        Imposible    Valor
+  Sueño          Sentido      Limite
+                              
+  Variacion      Contraste    Sorpresa
+  Obstaculo      Riesgo       Audacia
+                              
+  Juego          Diversion    Entusiasmo
+  Extroversion   Alegria      Beneficio
+  Humor          Risa         Felicidad
+                              
+  Aguante        Lealtad      Confianza
+  Limitacion     Respeto      Norma
+  Rito           Ritmo        Solemnidad
+  -------------- ------------ -------------
+
+****
+
+****
+
+#### ****Relational ****P****aradigms InEvolution:**** ****T****owards Love****
+
+## *****Evolutionary semantics optimize ambivalenc******es*****
+
+****The word Love is the more intense word because is the one that more
+can define and can contain (can be easily related to) the more and more
+intense of other possible words. ****
+
+****We think that Love is more intense -- bigger than Good because Love
+is more abstract than Good and more concrete than Yin, so we have more
+flexibility when we name it. ***** *****
+
+****La palabra Amor es la mas intensa de todas las palabras, por ser la
+que mas se puede llegar a definir y puede contener a (relación fácil
+con) las mas y mas intensas de todas las posibles otras. Nos parece mas
+grande el Amor que el Bien porqué Amor es mas abstracto que Bien y
+****suficiente concreto (no tan demasiado abstracto como Yin). Con
+Amor**** conseguimos mas flexibilidad a la hora de comunicar con el.
+****
+
+*****Love improves the (un)knowing of the Bad things from the Good that
+there is in it*****
+
+****Experimental: ****Bipolarización y análisis linear de l****os****
+paradigmas mas ****populare****s:****
+
+  -------------- ------------ ------------- ------------- -----------
+  Metafísica     Yin          naY           Subtle        Void
+  Filosofia      Essential    substance     Deep          Stress
+  Fideismo       Purity       depurated     Implicated    Cinism
+  Racionalidad   Positivity   negativized   Superficial   Hipocrisy
+  Moral          Good         bad           Emotional     Sadism
+  PsicoSocial    Lovely       truth         Near          Indolence
+  -------------- ------------ ------------- ------------- -----------
+
+****
+
+****See more: Flove.org/Morals****
+
+## ****
+
+## Ratings and Ranks
+
+1.  Rate one word only once
+
+2.  Rate it twice but differently within the rater line-poles (BiRating)
+
+3.  Within a pair of words, (bi)rate one of them as compared to the
+    other
+
+4.  Ranks and KeyRaters (MetaRaters)
+
+    (Oppositional relations can be directly turned into a rater)
+
+****
+
+****
+
+### ****Key(****Meta****)R****aters****
+
+****
+
+****Semantic raters finally relate to ourselves (Senses, Systems, ...)
+so we should consider Senses (and other more inner ****C****hannels) as
+MetaRaters. ****
+
+****
+
+Mathematical operators are also useful as raters. The positive adding
+and the negative substracting is an obvious practical one, other
+operators may not be that much intutitive but this is rather an
+opportunity more than a difficulty to play and know ourselves more
+through rating words with them i.e. The Abstractness rater could relate
+to the Multiply operator for one person, to Powering for another andor
+to the View or Right Elbow for others... What (part of) Senses (andor
+channels) do you relate the division operator to?
+
+**
+
+### ****F******uzzy Ranks****
+
+*Words dance even more at platonic solids vertexes*
+
+**It**'s primarily ranked yin yan (not yan yin) but the more conmutable
+ranks, the more keyset.**
+
+  ---------- -------------
+  **Yin**    **Yan**
+  Espíritu   Alma
+  Alma       Consciencia
+  ---------- -------------
+
+******
+
+  -------- -----------------
+  NEGRO    
+  Mujer    Mas desconocido
+  Hombre   Menos malo
+  -------- -----------------
+
+**
+
+Everything is correlatable to anything else (because holism) specially
+our favourite keypairs, but we have to keep evolving them, finding and
+better relating other keypairs.
+
+It's key to have some keypairs and fundamental ones because our more
+fundamental keypairs are the translators of our outer unknown. The more
+stable relations for you is where you better practice the other
+relations you are trying to know more about. So, when we suceed in
+stabilising our fundamental keywords-pairs-\..., the main definitions
+(i.e. Axiom) from such an upper keypair could more easily cross-apply to
+any other lower keypairs and relations you may want to define but have
+more difficulties in doing so.
+
+When relying too much in their own fundamentals for using them as an
+analogy for explaining everything else. one can fail in the flaw of
+having a possible or much Wishfullness in the proposition, the
+«correlation implies causation» fallacy.
+
+**Natural conmutativity implies relative hierarchies while linearity
+helps**
+
+Ranks are a type of Relational ratings, the more stable
+hypernims-hyponims formally said. As more fundamental (higher ranked) a
+key pair-set of keywords is, more complementarity each word has to
+provide to the other words in the set. Complementarity can be
+radicalized by emphasizing more the set's ranks relativity: each word
+easily exchanging their rank with others in the set.
+
+*****Ranks just and finally (apparently) magnify upper-primary
+poles*****
+
+**Despite higher relativity apparently mak**ing** hierarchying less
+important, hierarchical ordering of keywords is as similar and important
+(if not more) as to find **keywords and **ideal mates for words, and
+maybe just because the first appearing words will be influencing the
+following ones more obviously than the (an)other way round. **
+
+**
+
+**Neither Fundamentals mean Staticity specially**
+
+Fundamentals is a keyword for the premises that are considered higher
+ranked in a theory. Expressing fundamentals (or principles...) is a
+useful thing to do because they will permeate and show the possible
+depth of the theory while they can also offer the bigger falsifiability
+for it at the same time.
+
+Expressing fundamentals with pure axioming with word sets and sentences
+is possible, but if your fundamentals are meant for a big scope, it also
+helps much to create some pure(r) math along, due to its bigger power of
+simplification when compared to more open words.
+
+Everyone could have different keywords at different times for what their
+consider "broadest-fundamental" and or "higher ranked". The flove lists
+have had that into consideration and have been made trying to balance
+different aesthetics for those mommentums variance, which is the most
+difficult thing to achieve, so anyone can finally also very easily
+disagree with parts of them, which won't be a problem either, since they
+will be pointing at that keyset dynamism extensions.
+
+****A keyset is just rather a step forward for transparenting and focus
+a possible debate about updating some fundamentals ****of it**** more
+easily ****in a bigger and more indirect space****.****
+
+Within a bipole, there are only two ways to order their elements: AB,
+BA, where both of them are perfectly right, because of ranks relativity.
+**A triad is an example of how bipoles can scale and be viewed more
+dynamically.** Within a triad there are more ways to rank the 3 objects,
+that all of them are also perfectly right (within holism\...). For
+example, the 213 or 231 odd ways of ranking a triad matches anyway with
+the viewing of the 2 (middled element, link) as source andor primarity
+of the other two 1&3 as in the confluent middle (hoft knot -- vessica
+piscis geometry) .
+
+The more a set grows, the more it explains itself but the less potential
+attention each word will have and the harder it gets to consensuate with
+others then. Despite and beyond the less or more consensus there could
+be, the better is to offer such set to anyone to rerank it as (s)he
+wishes to explain it as a whole the easier. For that, it helps assuring
+the ranker that if her-his ranking choices don't match with a more
+objective-popular-ideal ranking, it will only mean that they are
+focusing in another complementary perspective of the same reality that
+such set represents.
+
+**
+
+**
+
+#### ****Fuzz******y ******Ranks Examples******:****
+
+Numerologia aplicada a genero (Poema 0, 1, -1 de Cesar Brandon)
+
+Uno no quería contar con nadie y no entendía porque era impar, si antes
+de él había alguien y sentía que después de él estaba el infinito. A
+uno, lo sempiterno le daba miedo, así que uno muerto de pavor se fijo en
+cero. Cuando uno veía a cero, pensó que cero era el número más bonito, y
+aunque viniendo antes que él, era mas entero que el todavía. Uno pensó
+que en cero había encontrado el amor verdadero, que en cero había
+encontrado su par, así que decidió ser sincero con cero, y decirle que
+aunque era un cero a la izquierda, sería el cero que le daría valor y
+sentido a su vida. Eso de ser el primero ya no le iba, así que le dio a
+cero una gran bienvenida. Juntos eran pura alegría y se completaban.
+
+**Pero uno no sabe lo que tiene hasta que no lo tiene, así que uno
+perdió a cero y, para cuando uno se dio cuenta, cero ya contaba de la
+mano con menos uno, que a pesar de ser algo negativo, parecido a cero,
+le trataba como a una reina. A cero le gustaba que a menos uno a uno le
+fuera original, tener un hueco mas con el que jugar. Cero le gustaba que
+menos uno no fuese uno más, que menos uno no fuese ordinal, pero sentía
+que, a diferencia de uno, menos uno si la trataba como un número de
+verdad. Menos uno no ponía peros ni pretendría darle valor a cero
+poniendo comas entre ellos. Menos uno no tenía complejos, y cuando
+hacían el amor, a menos uno le encantaba estar bajo cero, y **uno volvía
+a quedarse solo, separado como una unidad. Sin cero, su vida se consumía
+como una vela. Sin cero, el tiempo de él hacía mella, y uno empezó a
+contar sin cero, y se olvidó de los besos de cero, del sexo con cero, de
+los celos de cero. Uno se olvidó de cero y le dijo adiós, se olvidó de
+cero y tal vez hasta del amor, y empezó a contar, hacia lo que más miedo
+le daba, hasta el infinito, o tal vez, solo hasta dos (mas ello).**
+
+**
+
+**
+
+01&10 (Thrown&Hold and or Viceversa)
+
+0 would be hold and 1 would be throw, based on the logic that hold is 0
+action or static, and throwing is all action, or 1. If it was Throw as
+in \"throw away\" vs. Hold as in \"keep\", I would say that throwing
+something away is a more dramatic, potentially irrecoverable action,
+while hanging onto something is the more passive, status quo situation.
+
+You could also reason that the value is how many you have, and if you
+throw it, you have 0, if you hold it, you have 1. Like when specifying
+or writing code, where the vars and values are done in the order
+presented, so \[0,1\] for \[throw, hold\], would result in 0=throw,
+1=hold.
+
+Both views can be interpreted within Perceptual Control Theory as:
+0ThrownHold1
+
+One could also and or rather say: 1ThrownHold0
+
+**Bec**a**use naturally-rigourously, Hold has to be 0, but that does not
+imply to have to start counting from 0. We can start counting from 1
+backwards.. since 1 needs 0, any of the two, both can be
+begineers-centers, so any unit, out of two relative units, should be
+able to be described from at least two perspectives: forward &
+backwards. This dynamic reaches up to **the values of **language
+**semantics**. **
+
+**
+
+A mas abstracta la triada mas dinamica es
+
+Cuando elegimos un concepto compuesto con palabras muy complementarias y
+o muy abstractas, vemos que variando la posición de los conceptos, e
+incluso modificando algún opuesto, los títulos resultantes siguen siendo
+muy sinónimamente equivalentes a la vez que diversos. Por ejemplo:
+
+Inestavel Abstraçao do Tempo
+
+Tempo Abstracto Inestavel
+
+Abstraçao Inestavel Temporal
+
+Estavel Concreçao Atemporal
+
+**\...**
+
+****
+
+### Triadas Confluentes
+
+  ------------- -------------- ---------------------- -------------
+                FLUYE →        ← CONFLUYE → A+c-b=0   ← INFLUYE
+                MENTE          Organismo              Cuerpo
+                Alma           MENTE                  Cuerpo
+                Espiritu       Alma                   MENTE
+                                                      
+  Genetica      ADN            MENTECuerpo            ARN
+  Evolucion     Variacion      Especie                Adaptacion
+                                                      
+  Sintaxis      Sujeto         Verbo                  Objeto
+  Perspectiva   Subjetividad   Opinion                Objetividad
+  Racional      Personal       Local                  Social
+                Psicologia     Politica               Sociologia
+                                                      
+  Economia      Extraccion     Manufactura            Servicio
+                Regalo         Prestamo               Intercambio
+  ------------- -------------- ---------------------- -------------
+
+**All triads can be ranked in all their possible conmutable ways.
+**Ranks mostly serve for extracting information by contrasting them with
+other ways of ranking the same objects. **
+
+****2.1. Linear (natural): ****Universal → Natural → Observational
+
+This is a more natural ranking because we are taking the more unknown
+and big (universe) as primary. Despite Observation being lesser ranked
+is a necessary final for the other bigger and more primary two to exist
+in the first place
+
+****
+
+****2.2. Complementario (retrograd****e****): ****Observacional****→
+Natural → Universal
+
+****
+
+****2.3. Confluente (simultan****e****o****us****):****
+
+Universal → Natural ← Observacional
+
+Observacional → Natural ← Universal
+
+In both linear-natural and retrogade rankings, Natural is maintained as
+second in both rankings, a stable property that allow us to consider it
+higher ranked than the other two (because being more stable), up to
+opening up the biconfluence possibility where we can propose a
+bidirectional process from and to the middle.
+
+See more: Natural → Observacional ← Universal
+
+******
+
+### ****A******rquetipal bimorphism in triads****** ****
+
+****La ****m****ateria ****(****des****)****conoce mas para
+****parcializa****r**** ****el mayor**** ****posible v****acio
+existencial, ****el**** ****de**** ****la ****U****nidad****** **
+
+  --------- --------------- --------------- ---------------
+            Destina         Dios            Nos
+  Destina   (Des)Conocido   Conocido        Inconocible
+  Dios      Inconocible     (Des)Conocido   Conocido
+  Nos       Inconocible     Inconocible     (Des)Conocido
+  --------- --------------- --------------- ---------------
+
+  ---------------- --------------- ----------- ---------------------
+  BITHEISMS                                    
+  CULTURE          Femenine        Masculine   TOTEM
+  Paleolitic       Venus           GrandMom    Goddess&Women
+  Vedic            Shiva           Shakti      BiGods&Else
+  Ancient Summer   Anu             Marduk      BiGods&BiMessiahs
+  Babylon          Enki            Enlil       BiMessiahs
+  Egipt            Rah             Toth        God(s)&Emperor
+  Judaism          YHYH            Abraham     God&OncomingMessiah
+  Christianism     Father&Spirit   Jesus       BiGod&Messiah
+  Islamism         God             Mohammed    God&LastMessiah
+  Flove            Destina         Endiosada   BiGods
+  ---------------- --------------- ----------- ---------------------
+
+  ------------ --------- ----------- ------------
+  TRITHEISMS                         
+               Messiah   EmperoGod   IGod
+  Christian    Gnostic   Catholic    Protestant
+  Islam        Sufi      Chii        Suni
+  ------------ --------- ----------- ------------
+
+**
+
+**
+
+## **Explainability**
+
+  ------ --- --- ------------ --------- --------
+                 Consistent   Explain   Accept
+         0   1   \+           ++        +++
+  Fem    1   2   ++           +++       \+
+  Male   2   3   +++          \+        ++
+  ------ --- --- ------------ --------- --------
+
+*Hay un stress porqué también esdos: Primariedad1 desea a 0,
+secundariedad2 viene de 3*
+
+La masculinidad 3 ve una lista de 3 donde el es el 3 (El3 +2 antes) (El
+se ve tanto el cuerpo-forma que lo da por asumido y usa al 2 para tratar
+de llegar al 1 que no ve).
+
+La feminidad 2 ve 2 listas de 2 donde ella es el 2 (Ella2+1)+(Ella2+3)
+(Ella 2 usa lo externo para verse mas el cuerpo que no se ve,
+simúltaneamente se compara con el 1 y con el 3)
+
+A la feminidad le cuesta verse y le cuesta ver cual de los dos (el 1 o
+el 3) es su mayor complementariedad. La masculinidad3 le es igual de
+confusa que su inconocible1 que conoce mucho mejor que El (amor por la
+hijanza1 y por el padre3). La energía femenina se siente mejor en una
+diada, porqué siente mas cómoda a su primariedad allí. Verse como
+primaria pero en dos diadas a la vez (una triada en realidad...) le
+resulta mas difuso-confuso.
+
+Hacia un lado está la mas desconocida inconocible vida que ella puede
+intuir mas en sus adentros aunque sea mas dificil, hacia el otro está la
+(su) masculinidad que también puede ver fácil pero aunque le resulte
+igualmente extraña su presencia. Es por esa falta de integración de su
+masculinidad, que le cuesta verse a si misma y a la forma precísamente,
+por muy primaria que Ella sea y aunque podamos ver a la masculinidad
+como un derivado la feminidad,
+
+**La masculinidad**3** en cambio solo mira hacia la feminidad**2 **y al
+mirarla se imagina **tras ella **a** lo **inconocible**1** que **tanto
+**le cuesta tanto de ver **(hijanza\...)**. En compensación, a la
+masculinidad no le cuesta verse a si misma y tiende a verse mas cómoda
+en una triada. **
+
+**L**a percepción masculina **de **la triada (1, 2, 3) le es fácil de
+entender, aunque también le acarrea un reto de asumir de que no dispone
+de tanta primariedad, ya que si ya en la diada es el segundo(n), en la
+triada sigue siendo el último o encima ni secundario sino ya terciario!
+A pesar de y o por ello, la percepcion de mayor "acabador" **se lo**
+compensa.**
+
+****
+
+****
+
+### ****E****pistemology: Description and Presciption: Why Wise Labels (and apps)**** ****
+
+**The be**tter the description, the easier is to prescribe after, up to
+interactions in applications**
+
+  ------------ ----------- ---------------
+  Evidence     Act         Habit
+  Axiom        Proposal    Commitment
+  Prediction   Challenge   Craziest idea
+  ------------ ----------- ---------------
+
+****
+
+****Practices are the better (deeper) way to define something -- extend
+its falsifiability.**** Prescribers can ****also ****be bipolar, i.e.
+There are some practices that are very worthly recommended to be done
+just occasionally (Actions) while others more regularly (Habits).****
+
+****
+
+****
+
+## ****
+
+#### ****S****uggestive prescriptions****
+
+****A suggestion is a soft advice, a prescription would be from a strong
+advice to forcing up to unwished violence andor death, as ****nowadays
+is ****reflected by ****the Top down ****Conventional Law. ****
+
+****Nowa****days t****he****re is ****also ****the**** ****very much
+developed ****arena of ****Top down ****AIs suggestions, ****which we
+can even develop it more ****and get ****up ****to ****suggestions of
+****prescriptions. ****
+
+****A nonviolent use of**** this ****feature**** ****would ****be to
+****use ****A****I****s ****for**** help****ing us**** a****s****
+safekeeper****s**** of the involved people's privacies ****in
+prescribing things for others****. ****For example:****
+
+****You are offered to an act of love to someone else by an AI, which
+will somewhat reward you if-when-while you do it.**** ****That AI got
+the idea from a mate of you who wanted you to do so. ****
+
+****That**** AI, as yet one more "****org", could be**** blame****d****
+****for**** bad functioning if the act of love you do to someone else
+****(for getting a reward from an AI)**** is unwished by ****you, but
+you wouldn't blame your mate for wishing you so, because you wouldn't
+know it****. ****
+
+****Note additionally that AIs will compete for not causing this kind of
+troubles and that such rewards could ****have many smart contracting
+scripting in them****
+
+******
+
+## 
+
+### ****W****hy Perspectives****
+
+**Subject, bias, intentio**n, Perspective** ****=**** 25% of
+perception,![](Pictures/10000000000004D8000006DAAB39CE3ACA073389.jpg){width="6.655cm"
+height="9.818cm"} 25% of polarity and 50% of unknown
+
+Every declaration is just a partial perspective of such **reality**,
+andso it\'s hiding some polarities of itself. We can openly declare our
+perspective andor research after about what are the other main
+perspectives we have missed.
+
+We can also think that there are Fundamental perspectives.underlying in
+whatever declaration.
+
+Populating ourselves with perspectives leverages the stress of having to
+rely in "good / bad" perspectivizing.
+
+![](Pictures/1000000000000500000003A8706DBCDF9A4A8320.jpg){width="10.028cm"
+height="5.018cm"}
+
+******
+
+There is always something else present underneath of what we say, so we
+are constantly feeling the need to fill the minimized polarities that
+have been left apart in what has been just expressed by ourselves andor
+by other near ones. That's why, for example, many times at some point we
+will surely add emotionality to an input that we have considered too
+rational... andor even our mate could complain to us that (s)he wasn't
+meant to be as rational as you indirectly meant (s)he was.
+
+  --------------------- -------------- ----------
+  ****PERSPECTIVE****                  
+  Direct                A priori       Declared
+  Indirect              A posteriori   Analised
+  --------------------- -------------- ----------
+
+We can openly and directly declare our a priori perspective andor
+research about what we have been missing after. We can
+relate-rate-define anything new or already expressed-defined a
+posteriori andor not relating-rating at all minimally and go straight to
+define it with more complex rethorics. If we relate-rate something
+before defining it, it will influence the following definition, hence
+it's worth to call the a priori relates-rates as perspectives.
+
+If we decide to openly-directly declare our perspective, we will be
+anyway hiding something else very complementary in the underlying energy
+of what we more superficially express. If we rather decide not to tell
+anything about our a prioristic perspective, we will anyway be able to
+find it within the declared information by analizing that information
+aposteriori. I.e. Any indirect suggestion that exagerates its
+indirectness becomes a bit more direct *in a side *than if the same
+information was rather told more directly.
+
+Also, such perspective (a priori relate-rate) will have its own hidden
+polarity, which will be more present there than other possible
+perspectives. One can perspectivize with whatever words. However, there
+will be some key categories that will match better this purpose of
+perspectivizing-framing (rating-relating in advance).
+
+#### Intentions & Teleologies
+
+We can\'t avoid subjectivity nor fully define it like nor anything else
+because uncertainity applies to every perception, hence we better call
+our apriori perspectives (or a posteriori truth declarations) as open
+bias andor more accurately said: Aprioristic intention.
+
+Intention can be synonim with perspective, but it is rather more
+interesting to consider Intentions as some key perspectives, probably
+the most fundamental because they, by holism, should be macroreflecting
+the teleologies, the more fundamental micro possible.
+
+Greater perceptionof a more benevolent companionship, also from far away
+and faked
+
+The first polarity of our **freest** intentions themselves as a whole
+would be an hypothetical determinism underlying them, because if we do a
+step forward from the theological What into the teleological Whys, we
+can more easily can tie-pole the original intention for creation of all
+the universe with our own closer and actual intentions. As by
+(super)determinism: God(ess) initial intention could be plural as ours
+are nowadays. This axiom hasn\'t been falsified and brings the biggest
+[compatibilism](https://en.wikipedia.org/wiki/Compatibilism) possible
+falsifiabilty. Andso it recommends to add the perspective of: i.e. Now
+rehink-frame your (already expressed or not) opinion-intention as if it
+was within a superdeterministic system.
+
+See more: flove.org/simplex - teleologies
+
+****
+
+#### Biological Channels
+
+*Our (more inner systems and outer else) are our subconcious mind --
+Candance Perth (& me)*
+
+****We think of ourselves as a being with a whole body that ends where
+our skin and expressses as a representative block of all its parts. It
+is right to feel so, but each part of us also has a specific role, with
+its own biases too. So**** w****e can convert the part into an own
+subject. ****See more: Flove.org/channels**** ****
+
+****In the same way, we can put ourselves (andor any anatomical part of
+ourselves) as if we were in our own past of our own actual body andor in
+the body perspective of other beings (closer or more distant). ****We
+are already doing that by "conservation laws". See more:
+Flove.org/souls****
+
+## ****
+
+#### ****Time Scopes****
+
+  -------------- ------------
+  Past           Future
+  Neurosis       Psicosis
+  Short Term     Long Term
+  Conservative   Progresist
+  -------------- ------------
+
+# 
+
+#### **(In)Formality: Fiction: The power of triviality and random**
+
+## ****
+
+![](Pictures/1000000000000386000003330B2DD864C2CFD579.jpg){width="5.771cm"
+height="4.919cm"}![](Pictures/10000000000003C5000002737C2F2FF68AE41272.jpg){width="10.742cm"
+height="5.117cm"}****
+
+****
+
+****
+
+****
+
+**
+
+**Every novelty **was** a fiction**al consensus** in one's **mind**
+before it **was **available to others**
+
+The fictional grounds we co-live with and develop (words as an extended
+part of that) allow us to have a more relaxed testing space for avoiding
+possible damages for the novelties that we may later want to implement
+more for real or not.
+
+****
+
+**We trivialize for another formality that we hide not being so heavy **
+
+Informality - Banality - Triviality is necessary while too much of it is
+also dumbing us more than necessary.
+
+Some times, a more directly trivial intention could help us more in
+evidencing something important than if we try finding it through a more
+formalized intention or framework.
+
+Any expressed thing which is apparently trivial is serving us as much as
+we more directly intend our effort to be the more trivial possible.
+Triviality, sometimes, provides an underlying hidden precious link with
+something else that we are more really valueing but we aren't so
+confident yet to know it andor express it in a more formal way. Within
+the topological complexity of such link is maybe where there should be
+the most interesting information, specially because if we look at it
+within a holist and deterministic perspective: that triviality is a
+god(dess) formality anyway, it had to happen that way, only. so.. why
+that objetc -- link emerged in me if i was pushing it all to go random
+so hard?
+
+**Select (pseudo)random, in the better structure**
+
+As trivial has its background, every random has an underlaying order
+also. In fact, a certain degree of random selection is a basic strategy
+evidenced at game theory. So we can build the most analytical and
+predictive system, but triviality and random will - should still be
+there as an available option for magnifying sinchronicity & mommentual
+magic.
+
+****Example**** ****Case****: WhiteSnow is as much or less meaningful
+than ColdSnow. Similarly, BlackSnow will be a limiting axyomoron, but
+HotSnow would be a more formal axyomoronic pair to define. These words
+seem fundamentally quite meaningless because they have little
+prescriptivity, so they don't add depth or novelty. BUT\... these
+examples will bring higher meaning when identifying what is the more
+real thing that who proposes them is more really trying representing
+****underneath**** of-through them. So, more formally said: Why anyone
+uses What sort of which Buzzy formal hypes andor informalities for
+hiding which more real intentions there?
+
+*I will postpone it banalizing itl while i guess that i can't yet
+tolerate such proposed depth*
+
+****Caso: ****Parrafeo lo paraguapo que aun no me atrevo a
+****hij****ar****, ****vers****ar****, tabl****e****a****r**** y o
+diagrama****r****
+
+## ****
+
+****
+
+#### ****Dimorphism****
+
+**D**espite first, very primer and intense that something is, it\'s only
+a 50% of a something**
+
+**Primarity is **a very **real **property **because of this game: **
+
+**Tell 2 words **
+
+**(when first word is said, the game suddenly ends...) **
+
+Women evidence a lot of natural gifts of primarity (embriology\...) and
+we men are very ready to secondarize that, while everyone sees
+him-herself and his-her gender as primary over the other.
+
+****Deepening directly in dimorphi****sm perspectivizing**** helps us
+seeing our own gifts and other parts, i.e. ****A man can define
+something with a Woman perspective, because it is ****the 50%
+****feminity ****of ****his own**** energy ****(****and viceversa).
+****He can do it a****bstract****ing**** more the form, always
+primariz****ing**** the amorphous, ****andor more easily u****se the
+perspective of a Cat, ****a ****Blondie, ... ****See more:
+Flove.org/FineFatalFemale**** ****
+
+# ****
+
+****
+
+****

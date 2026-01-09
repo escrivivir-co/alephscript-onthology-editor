@@ -1,0 +1,252 @@
+# Papers Fundacionales - Índice Temático
+# Extraído de: Papers0824 (9 PDFs) + Papers25.4 (10 ODTs)
+# Fecha: 2026-01-09
+
+$schema: "http://json-schema.org/draft-07/schema#"
+$id: "flove://schemas/papers-index.schema.yaml"
+title: "Índice de Papers Fundacionales Flove"
+description: |
+  Catálogo de los 19 papers que fundamentan el paradigma Confluentism.
+  Organizados por tema y fecha de versión.
+
+# ═══════════════════════════════════════════════════════════════
+# PAPERS 0824 (Septiembre 2024) - PDFs Fundacionales
+# ═══════════════════════════════════════════════════════════════
+papers_0824:
+  version: "Sep 2024"
+  format: "PDF"
+  total: 9
+  
+  papers:
+    1_teleologies:
+      title: "Teleologies"
+      file: "1 Teleologies.txt"
+      theme: "Metaphysics"
+      focus: "Purpose and causality in Confluentism"
+      relevance: "HIGH"
+    
+    2_moral:
+      title: "MORAL"
+      file: "2 MORAL.txt"
+      theme: "Ethics"
+      focus: "Moral framework within Love paradigm"
+      relevance: "HIGH"
+    
+    3_why_simplex:
+      title: "Why SIMPLEX"
+      file: "3 Why SIMPLEX.txt"
+      theme: "Ontology"
+      focus: "Simplification as fundamental principle"
+      relevance: "HIGH"
+    
+    4_why_fuzzy:
+      title: "Why FUZZY"
+      file: "4 Why FUZZY.txt"
+      theme: "Logic"
+      focus: |
+        Fuzzy Logic as the only real formal logic.
+        Uncertainity preservation for system stability.
+      relevance: "CRITICAL"
+      key_insights:
+        - "Reality is fuzzy for stability"
+        - "Excluded middle abuse causes fallacies"
+        - "Merge dichotomies syntactically"
+    
+    5_why_channels:
+      title: "Why CHANNELS"
+      file: "5 Why CHANNELS.txt"
+      theme: "Communication"
+      focus: "Multi-channel expression theory"
+      relevance: "HIGH"
+    
+    6_fine_fatal_female:
+      title: "FineFatalFemale"
+      file: "6 FineFatalFemale.txt"
+      theme: "Gender/Polarity"
+      focus: "Feminine principle in bipolar dynamics"
+      relevance: "MEDIUM"
+    
+    7_psicosocial:
+      title: "PsicoSocial"
+      file: "7 PsicoSocial.txt"
+      theme: "Psychology/Sociology"
+      focus: "Bridge between individual and collective"
+      relevance: "HIGH"
+    
+    8_material_economy:
+      title: "Material ECONOMY"
+      file: "8 Material ECONOMY.txt"
+      theme: "Economy"
+      focus: "Material basis of economic relations"
+      relevance: "HIGH"
+    
+    9_frotis:
+      title: "FROTIS: Rub-the-Pluck"
+      file: "9 FROTIS_ Rub-the-Pluck.txt"
+      theme: "Practice/Application"
+      focus: "Practical application methodology"
+      relevance: "MEDIUM"
+
+# ═══════════════════════════════════════════════════════════════
+# PAPERS 25.4 (Abril 2025) - ODTs Extendidos
+# ═══════════════════════════════════════════════════════════════
+papers_25_4:
+  version: "Apr 2025"
+  format: "ODT → Markdown"
+  total: 10
+  
+  papers:
+    simplex:
+      title: "SIMPLEX25.4"
+      file: "P254_1.SIMPLEX25.4.md"
+      theme: "Ontology"
+      extends: "3 Why SIMPLEX"
+    
+    femina_fina_fatal:
+      title: "FeminaFinaFatal25.4"
+      file: "P254_2.FeminaFinaFatal25.4.md"
+      theme: "Gender/Polarity"
+      extends: "6 FineFatalFemale"
+    
+    teleologies:
+      title: "Teleologies25.4"
+      file: "P254_2.Teleologies25.4.md"
+      theme: "Metaphysics"
+      extends: "1 Teleologies"
+    
+    why_fuzzy_extended:
+      title: "Why FUZZY25.4"
+      file: "P254_2.Why FUZZY25.4.md"
+      theme: "Logic"
+      extends: "4 Why FUZZY"
+      size: "3.4MB - MOST EXTENSIVE"
+      relevance: "CRITICAL"
+    
+    biosistemas:
+      title: "BIOSISTEMAS25.4"
+      file: "P254_3.BIOSISTEMAS25.4.md"
+      theme: "Biology"
+      focus: "Biological systems hierarchy"
+      relevance: "HIGH"
+    
+    fuzzy_wise_demo:
+      title: "Demo: FUZZY Wise: Uncertainity25.4"
+      file: "P254_3.Demo: FUZZY Wise: Uncertainity25.4.md"
+      theme: "Practice"
+      focus: "Practical demo of Fuzzy Wise"
+      relevance: "HIGH"
+    
+    loves_moral:
+      title: "LOVES-MORAL25.4"
+      file: "P254_3.LOVES-MORAL25.4.md"
+      theme: "Ethics"
+      extends: "2 MORAL"
+    
+    chacrikun_dance:
+      title: "ChacriKun DANCE25.1"
+      file: "P254_4.ChacriKun DANCE25.1.md"
+      theme: "Art/Expression"
+      focus: "Dance as channel"
+    
+    frotis_music:
+      title: "Frotis MUSIC25.1"
+      file: "P254_4.Frotis MUSIC25.1.md"
+      theme: "Art/Expression"
+      focus: "Music as channel"
+    
+    material_economy:
+      title: "Material ECONOMY25.4"
+      file: "P254_4.Material ECONOMY25.4.md"
+      theme: "Economy"
+      extends: "8 Material ECONOMY"
+
+# ═══════════════════════════════════════════════════════════════
+# ORGANIZACIÓN TEMÁTICA
+# ═══════════════════════════════════════════════════════════════
+thematic_organization:
+  
+  level_1_fuzzy_logic:
+    theme: "Lógica Fuzzy"
+    papers:
+      - "4 Why FUZZY"
+      - "P254_2.Why FUZZY25.4"
+      - "P254_3.Demo: FUZZY Wise"
+    key_concepts:
+      - Uncertainity preservation
+      - Excluded middle critique
+      - Syntactic merging
+      - Gradual 7-scale
+  
+  level_2_psicosocial:
+    theme: "PsicoSocial"
+    papers:
+      - "7 PsicoSocial"
+      - "2 MORAL"
+      - "P254_3.LOVES-MORAL25.4"
+    key_concepts:
+      - Love as foundation
+      - Souls/Values
+      - Ethics/Joy
+  
+  level_3_freedom_economy:
+    theme: "Libertad/Economía"
+    papers:
+      - "8 Material ECONOMY"
+      - "P254_4.Material ECONOMY25.4"
+      - "3 Why SIMPLEX"
+    key_concepts:
+      - Material basis
+      - Mining/Craft/Service
+      - Gift/Share economy
+  
+  channels_expression:
+    theme: "Canales de Expresión"
+    papers:
+      - "5 Why CHANNELS"
+      - "P254_4.ChacriKun DANCE25.1"
+      - "P254_4.Frotis MUSIC25.1"
+    key_concepts:
+      - Multi-sensory channels
+      - Art as expression
+      - Rational/Emotional/Kinetical
+
+  ontology_biology:
+    theme: "Ontología/Biología"
+    papers:
+      - "1 Teleologies"
+      - "P254_3.BIOSISTEMAS25.4"
+      - "P254_1.SIMPLEX25.4"
+    key_concepts:
+      - Hierarchy from particles to ecosystems
+      - Germ layers
+      - Systems primes mapping
+
+# ═══════════════════════════════════════════════════════════════
+# MAPEO A OPERACIONES FLOVE
+# ═══════════════════════════════════════════════════════════════
+operation_mapping:
+  RELATE:
+    level: 4
+    papers: ["4 Why FUZZY", "7 PsicoSocial"]
+    action: "Connect concepts bipolarmente"
+  
+  EXPLAIN:
+    level: 6
+    papers: ["P254_2.Why FUZZY25.4", "3 Why SIMPLEX"]
+    action: "Define with epistemological labels"
+  
+  VIEW:
+    level: 7
+    papers: ["P254_3.Demo: FUZZY Wise", "5 Why CHANNELS"]
+    action: "Visualize complete ontology"
+
+# ═══════════════════════════════════════════════════════════════
+# METADATA
+# ═══════════════════════════════════════════════════════════════
+metadata:
+  total_papers: 19
+  critical_papers: 2
+  high_relevance: 10
+  medium_relevance: 7
+  extracted_by: "Lucas (Scrum Master)"
+  extraction_date: "2026-01-09"

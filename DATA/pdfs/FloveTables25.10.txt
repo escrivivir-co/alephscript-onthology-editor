@@ -1,0 +1,789 @@
+ Fields          Addons          Apps        Key
+Metaphysics     Confluentism    Simplex      Ranks
+  Teleology     Compatibilism     Wills      Raters
+  Theology        Bitheism      God(dess)    2&3
+ Deontology     CommandSins      Dogma       Labels
+MathyLogic       Intuitionism    Cyclon      4&5
+   Physics      LeptoGenesis     Polon       Oxy 2
+  Chemistry      CarboSilicon    Csion       Foxy 2
+  Biology       Ginoprimarism   Channels     7 & 11
+
+  Linguistics   Symbionimity     Fuzzy       concretions:
+Psicosocial                                   abstractions:
+
+  Psicology         Love          Souls        Ancestring
+
+    Ethics           Joy         Trustful      Relations
+
+  Sociology         Wise          Free         Standards
+
+      …
+
+  Economy        Production       Chain
+   Ecology          Eco          Worthing         Pure
+
+   Industry         Craft       CrowdCraft         Art
+
+  Marketing        Market          Offer         Smart
+                    Gift          Freed          Liberty
+                   Share         Shareful     Community
+                    Deal         Reward      Improvement
+      ORGANISM 2^(n (fractal))
+PERSONAL       LOCAL SOCIAL
+PARTICLE                UNIVERSE
+ATOM                    GALAXY
+MOLECULE                SOLAR SYSTEM
+MACROMOLECULE   H(0)    EXOSPHERE
+PROTOPLASMA     H2(1)   TERMOSPHERE
+CELL            C(2)    MESOSPHERE
+TISSUE        NOBLES(3) STRATOSPHERE
+ORGAN           (4?)    TROPOSPHERE
+SYSTEM                  ECOSYSTEM
+Who                   TAO                YIN             YAN
+What for           Confluence           Atract          Expand
+Where             Compatibilism      Determinism         Will
+Why                 Intention         Discrete        Continuous
+What               Formation          Essence         Substance
+How                  Process         More Good         Less Bad
+UNIT                  Scale              Link           Vertex
+DIMENSIONS              =               X(/n)            N(/x)
+                        …                  0              1
+                        4                  2              8
+Space               Centroid            Micro           Macro
+Position              Middle           Primarity      Secondarity
+Time                   Now               Past           Future
+
+FORCES              Intraction          Gravity      Nuclear Weak
+                                        Gravity       Electromagn.
+                                    Nuclear Strong   Nuclear Weak
+                                      Magnetism         Electricity
+PARTICLES             Decay             Bosons          Fermions
+                                        Bosons           Leptons
+                                        Bosons          Neutrinos
+Bosons                                   Higgs            Weak
+Weak Bosons                                W                 Z
+Quarcks                                  Down               Up
+Nucleons                               Neutron            Proton
+Quantum numbers                            …                …
+                                           …                …
+ATOM              Configuration     Concentration      Dissipation
+Protons                                  Cation           Anion
+MOLECULE            Bonding               Join          Compose
+Stabilities       Redistribution       Creation      Transformation
+                     Carbon                H2           Nobles8
+                                       Carbon             Silicon
+STATES               Plasma               Fire              Air
+                                         Water            Earth
+Solids                                  Mineral           Rock
+MACROMOLECULE                          Carbonyl         Hydroxil
+Acids                                    Amino             Fatty
+Protein              Folding            Protein            Lipid
+PROTOPLASM        Verticalization    Nucleoplasm       Cytoplasm
+                   Adaptation             DNA              RNA
+                   Conjugation      Transformation    Transduction
+                                       Bacteria           Virus
+CELL              Fertilization        Nucleus         Membrane
+                    Mitosis              Clone         Replication
+                    Meiosis           Dimorphic       Reproduction
+                  Horizontaliz.         mtDNA                Y
+                                          Egg             Sperm
+Organelle                                  …                …
+TISSUE             Vasculariz.           Xylem           Phloem
+ORGAN               Function             Womb             Brain
+                                           …                …
+SYSTEM            Reproduction          Inmune       Integumentary
+                                       Digestive        Excretory
+                                      Circulatory      Respiratory
+                                       Skeletal         Muscular
+                                      Endocrine         Nervous
+                      Facial
+                      Vocal
+                     Textual
+
+SENSE                  Hear             Taste            Smell
+                                        Touch            View
+ORGANISM
+
+POPULATION            Being           Ubication        Language
+COMMUNITY                              Tasks             Roles
+Values                               Sacralization   Sustainability
+Habits                                  Inner            Outer
+Worldview                             Subjects          Objects
+SOCIETY               Media            Political      Economical
+                                        Legal            Militar
+DIMENSIONS             LENGHT        HEIGHT      WIDTH          TIME
+FORCES                 GRAVITY       ELECTROMAG. NUCLEAR STRONG NUCLEAR WEAK                     -               +
+PARTICLES              BOSON         MESON           NUCLEON         LEPTON         -            1      /        7   142857
+BOSONS                 HIGGS         FOTON           GLUON           WZ            +            2      ^         n   124875
+STATES                 FIRE          AIR             WATER           EARTH
+Carbon                      1                1               1           1
+ATOM (n electrons to fill increasing inner shells and keep the more bondy outer valence
+                                                                                   Atomic Number
+MOLECULE
+
+Bondy valences: 2n               1               2               4             6   8
+Shells capacity: 2n²             1               2               8            18   32 Principal Quantum Number
+Substances          Biology             Continuum
+      …            Metaphysics           Confluentism
+      Why             Teleology          Compatibilism
+     What             Theology             Bitheism
+      How            Deontology         CommandSins
+      …
+     Unit          BioSystems             Morphology
+   Particle          BioPhysics       Elementary particles
+    Electron                          Quantum numbers
+    Atom            BioChemistry         Periodic table
+  Molecule        Molecular Biology   Quantum chemistry
+     State           Geobiology
+Macromolecule         Genetics            Taxonomy           Domain
+ Protoplasm         Microbiology       Evol. Microbiology    Kingdom   Eukaryot
+     Cell             Citology        Evolutionary Biology               Plant        Botany
+   Tissue           Histogenesis                                         Fungi       Mycology
+   Organ            Anatomy                                             Animal        Zoology
+  Systems          Physiology
+  Reproductive    Developmental
+     Inmune          Inmunology
+  Integumentary       Histology
+    Digestive        BioChem.
+    Excretory        BioChem.
+   Circulatory      Hematology
+   Respiratory       BioChem.
+    Skeletal         Osteopathy                              Phylum    Vertebrate
+    Muscular         Kinesiology
+   Endocrine       Endocrinology                              Class    Mammal       Paleobiology
+    Nervous          Neurology                                Order     Primate     Primatology
+                                                             Family     Hominid     Anthropology
+  Systems Pairs   NeuroInmunology                            Genus      Sapiens       History
+
+
+   Population       BioLinguistics      Evol. Linguistics
+     Values           Psicology         Evol. Psicology
+     Society          Sociology       Evol. Socio(bio)logy
+    SYSTEMS PAIRS                                           CHANNELS
+                                 RATIONAL EMOTIONAL           KINETICAL          KINESICAL    VERTICAL        ORAL          ALPHABETICA
+      mT               Y         Nervous Endocrine                               Muscular     Skeletal        Respiratory Circulatory
+    Internal        External        5        7                       11             13                   17            19           23
+                                  SENSES GLANDS                 SYSTEMS            JOINTS     CHAINS          VOCALIZERS    …
+                                                                    Inmune                    Maestra anterior
+                                                  Adrenal                           Ankles
+   Inmune        Integumentary      Smell                        Integumentary
+                                 Vomeronasal                                                  Maestra posterior
+                                                  Gonads          Digestive         Knees
+
+  Digestive         Urinary         Taste                          Urinary                    Interna cadera
+                                 Lower tongue    Pancreas                           Waist
+                                                                 Circulatory
+                                                                                              Lateral muslo
+Respiratory Circulatory            Hear          Thymus Reproductive               Neck       Perinee Tongue                Heart
+                                   Inner ear
+                                                                Respiratory
+                                                   Tiroid                         Shoulders
+   Skeletal        Muscular        Touch                           Skeletal
+                                 Nails & Yolks
+  Osteocalcyn?      Fascia?                       Pituitary        Muscular        Elbows
+
+  Endocrine        Nervous          View                          Endocrine
+                                  Imagination      Pineal                           Wrists
+                                                                   Nervous
+     Innate                                                         Central
+   Adaptative                                                      Autonomic
+   Lymphatic                                                        Somatic
+            POLAR          RELATIONAL                            RATIONAL                                              EMOTIONAL      KINETICAL                                                                                                 KINESICAL
+0     1         2               3                                5 SENSES                                              7 GLANDS 11 SYSTEMS          DEEPLY RATIONAL                                                                             13 JOINTS   DEEPLY EMOTIONAL
+                                                                                                                                                    7s
+                                                                                                                                                          Red         Orange      Yellow        Green         Blue        Violet   White
+                                                                                                                                       Inmune         Detect      Recognize       Accept       Protect      Repair      Restore      Health
+                                                                                                             Lovely     Adrenal                                                                                                                    Ankles   !         big      …
+                               Inner    Past     Tansformation   Smell        Air    I   Salty    Clarify                           Integumentary    Maintain      Separe       Equilibrate    Provide      Receive      Adapt        Calm
+
+
+                                                                                                             Bonding    Gonads        Digestive      Nurture       Branch        Absorbe      Transform    Assimilate    Fulfill      Grow        Knees     ,         great    …
+
+
+          Good      Love                                         Taste       Fire    E   Sour     Feel                                Urinary            Select    Recycle       Optimize      Depurate      Clean      Minimize      Help
+                                                                                                             Nice      Pancreas                                                                                                                   Waist     .         huge     …
+
+                                                                                                                                    Circulatory     Energize      Resonate     Communicate Redistribute      Carry        Hold      Regulate
+
+
+    Organism               Middle Present Conjugation Hear                  Plasma   A   Umami    Fine       Cute      Thymus Reproductive Love                       Will        Rate        Relate        Bond Attract Want                     Neck                amazing …
+
+                                                                                                                                    Respiratory      Vitalize      Refresh        Inspire       Guess       Imagine      Dream      Expand
+                                                                                                             Cool        Tiroid                                                                                                                 Shoulders ..          marvelo…
+          Bad       Want                                         Touch       Water   O   Bitter   Test                                Skeletal      Estructure    Connect         Move         Enclose       Lock       Allocate   Articulate
+
+
+                                                                                                             Like       Pituitary     Muscular      Dynamic        Change        Flexible     Regenerate   Contract     Strength    Fitness       Elbows …            awesom
+                                                                                                                                                                                                                                                                           …
+
+
+                              Outer     Future   Transduction    View        Earth   U   Sweet    Instinct                            Endocrine     Impulsate      Intense         Feel         Drive       Emotion      Excite        Joy
+
+                                                                                                             Active      Pineal                                                                                                                    Wrists   ?         incredi…
+                                                                                                                                       Nervous           Sense    Transmit       Magnify         Plan       Insight     Meassure    Observe
+                                                                                                                                       Central
+                                                                                                                                      Autonomic
+                                                                                                                                       Somatic
+ Parfume           Cooking
+
+SMELL             TASTE
+           HEAR
+TOUCH             VISUAL       Kinesical      Material    Industrial / Digital
+Massage           Kinesical      Dance         Theater       Cinema / TV
+  Sex                           Games           Sport        Videogames
+                                Fashion      Architecture    Engineering
+                   Facial       Makeup         Painting      Photography
+                              StoryTelling    Sculpture
+                    Oral        Singing         Music
+
+                   Textual                    Literature        Software
+             PHILOGENIC ONTOGENY AS AN EVOLVING REDISTRIBUTIVE RECAPITULATIVE CONSERVATION
+QUANTA                                                                    MATTER                                      BACTIRUS                                   PLANT                                    ANIMAL                                                     PLANT DREAMING (Photosynthesis)                                ANIMAL FERTILIZATION
+                                                                                                                         2                           2   1   2      5         4     3    3    2   3   5       5           4   5   4   3        5        4                 5          2          3      4   2         2                  5          4       2   5   2
+                                                                                                              1                  2               1   2   1          3         2     3         5   1   5       3           5   5   3   5        1        5                                       3                               3       3                      3   5   1
+                        1               1                                                         2       1                                  1       1       3      3         2     1         1   2   3       3           4   1       1        4        3                 1                     4      4   3                    3                  2       1   2   1       3
+                                5                                                                     5                  2                       4       2          2               2    4        2   5       2           3       3            2        5                                       2      5                        2       2                  2   5       2
+                                                                                        1         1                      2       1                       1   2      2                         2   1   2       2           3           2        4        2                 2                     3      2             2          2       2          3       3       2   1   2
+                                                                                                                         5       5               2           1      5         2          2    3   2   1       5           5   4   2   4        3        1                 2          2          1      1   2                    1                              2           1
+                                                                                                                                             2       2   1   4      3         3     2    2    2   1   4       3           3   2   5   2        1        4                            5                 5             4          4       3                  2   5   2   1   4
+HUMAN                                                                                                                                                                                                                                                       i.e. THYMUS
+AWAKE ADULT                                                               IMAGINING                                   DREAMING                                   PRE MORTEM                               FERTILIZATION                                              BABY                                                           TEENAGER
+    5          4        5       4       5       4       5                     5         4         5   5   5   5   3      5       5           5   5   5   5   2      5         3     4    1    2       1       5           2   3   4   2        2                          3          2                 3   2         1          2       5          4       3   5   4   1   5
+    5          2        3       4       2       3       4                     3         4         4   4   4   3   1                          3   5   2   1          3         2          3    2   1   2                       3                         3                 2                     3      4   2         3                  3          2       3   4   2   3   3
+    5          2        1       2       1       3       5                     2         2         2   2   3   3   5              4           4   3   2   2   2                      5    2    4   4   2       1               5   4   1                 3                 4          2          1      2   1         3          3       5          2       1   2   3   3   3
+    4          2                2               2       3                     4         1         2   3   2   2   1      2       2           3   4   3   2          2         2     3    5    2   2                           5   5   3                 2                 4          2          4      4   3         2          2       3          2           3       2   4
+    4          2        2               1       3       4                     4                   2   2       2   4              2           5   2   3   1   2      2                    2        1   2       2               4   4   4        2        2                 4                     2      2   1         3                  3          2       3       1   3   2
+    5          2        1       1       2       3       5                     2                   1   1   2       2      3                       5   2   3   1      5         3     2    1    2   3   1       2           2   1   1   2                 1                 5          2          1      1   2         3          1       5          2       1   1   2   3   1
+    4          5        4       5       4       5       4                     4         2             2   1   2   3      2                   2   5       2                          2    5    2   2   4                   5       5            4        4                 4          5          4      5   4         5          4       4          3       4   3   4   3   2
+
+
+
+STARS
+IMPLODING (BLACKHOLE)                                                     EXPANDING (EXPLODING)                                                                                                                                           ...SYSTEMS…
+                                                                              5         5         5   5   5   5   5                                                               FEMALE                                                                                                                         NERVOUS
+                                                                              5                                   5                                                                 DNA                                                                                                                         ENDOCRINE
+                        5       5       5                                     5                                   5                                                           MITHOCONDRIA                                                                                                                       MUSCULAR
+                        5       1       5                                     5                                   5                                                               INMUNE                                                                                                                         SKELETAL
+                        5       5       5                                     5                           4       5                                                             DIGESTIVE                                                                                                                       CIRCULATORY
+                                                                              5         5         5   5   5   5   5                                                            RESPIRATORY                                                                                                                      RESPIRATORY
+                                                                              5         5         5   5   5   5   5                                                              SKELETAL                                                                                                                         URINARY
+                                                                                                                                                                                ENDOCRINE                                                                                                                        DIGESTIVE
+                                                                                                                                                                                   Touch                                                                                                                        INTEGUMENTARY
+
+                                                                                                                                                                                    Taste                                                                                                                          INMUNE
+
+                                                                                                                                                                                   HR                                                                                                                                …
+                                                            SOURCE CODE                                                                                                             Smell                                                                                                                         NERVOUS
+                        5                               2
+
+
+
+                                                                                                  5                                                                                 View                                                                                                                        ENDOCRINE
+                                3                       5
+
+
+
+                                                                                                      3           5                                                               NERVOUS                                                                                                                        MUSCULAR
+     3         4        3       2       3       4
+
+
+
+                                                                              3         4         1       1   4                                                                  MUSCULAR                                                                                                                        SKELETAL
+                                1                       5
+
+
+
+                                                                                                      1           5                                                             CIRCULATORY                                                                                                                     CIRCULATORY
+                        2               2
+
+
+
+                                                                                                  2       2                                                                       URINARY                                                                                                                       RESPIRATORY
+     5         2                                3
+
+
+
+                                                                              5         2                     3                                                               INTEGUMENTARY                                                                                                                       URINARY
+                                5                       4
+
+
+
+                                                                                                      5           4                                                                   Y                                                                                                                          DIGESTIVE
+                                                                                                                                                                                    RNA                                                                                                                        INTEGUMENTARY
+                                                                                                                                 MASCULINE
+
+
+
+                                                                                                                                                                                    MALE                                                                                                                          INMUNE
+
+         1                          2                   3                     1        1          1   1       1
+         1         1        2       2       2       3   3            1        1        1          1   1   1   1
+                                                            1        1        1        1          1   1   1   2
+                                                        1   1        1        1        1          1   1   2   2
+                                                        1   1        1        1        1          1   1   2   4
+                                        1       1       1   1        1        1        1          1   2   3   1
+                                1       1       1       1   1        1        1        1          1   2   1   1
+                        2       2       2       2       1   1        1        1        1          2   2   2   2
+               5        3       3       2       2       2   1        1        1        2          5   3   3   2
+   10          5        5       4       4       3       2   2        2        1        10         5   5   4   4
+              EVO. SYSTEMS     PRIMES         LANGUAGE              CHANNELS             CENTROID
+EUKARYOT      MICROSYSTEMS                                                                ...NOSE
+ANIMAL        RESPIRATORY           19            Oral           VOCALIZERS               HEART
+VERTEBRATE    SKELETAL              17           Vertical          CHAINS                PERINEE
+MAMMAL        MUSCULAR              13          Kinesical          JOINTS                   NECK
+PRIMATE       ENDOCRINE              7          Emotional          GLANDS                THYMUS
+HOMINID       NERVOUS                5           Rational          SENSES                   HEAR
+SAPIENS       NEUROINMUNE
+
+ENDODERM                                                     LIVER, PANCREAS BLADDER, URETRA LUNGS                                                                               THYMUS        AUDITORY TUBE. TYMPAN
+MESODERM      GONADS                         DERMIS                          KIDNEY                                       BLOOD VESSELS, CELLSNOTOCORD, BONE, DENTICARTILAGE, PHAADRENAL CORTEXNEURAL TUBE
+ECTODERM                                     EPHITELIAL                                                                                                                                        SPINAL CORD, NERVES, BRAIN
+              REPRODUCTIVE    INMUNE         INTEGUM.        DIGESTIVE             EXCRETORY               RESPIRATORY    CIRCULATORY         SKELETAL             MUSCULAR      ENDOCRINE     NERVOUS       NEUROINMUNE
+PARTICLES     DECAY                                                                                                                                                                                                              PARTICLES
+Bosons                                                                                                                                                                                                                           Bosons
+Quarcks                                                                                                                                                                                                                          Quarcks
+Nucleons                                                                                                                                                                                                                         Nucleons
+Nucleus                                                                                                                                                                                                                          Nucleus
+Protons                                                                                                                                                                                                                          Protons
+ATOMS         BONDING                                                                                                                                                                                                            ATOMS
+
+MOLECULES                     inhibit        structure       fuel                                                                                                               stimulate      signal                            MOLECULES
+Protoplasma                                                                                                                                                                                                                      Protoplasma
+
+
+                                                                                                                                                                                               quinasas, cascadas de fosforilación
+                                                                                                                                                                                               Ca2+, AMPc
+PROTEIN       FOLDING         Cytokines                                                                                                                                         Signal         K+, Na+                            PROTEIN
+Aminoacids                    Peptides                                                                                                                                                                                            Aminoacids
+CELLULAR      REPLICATION                                                                                                                    Cytoskeleton                                                                         CELLULAR
+
+VIROLOGY      CONJUGATION     enzymes                                                                                                                                                                                            VIROLOGY
+                              innate
+BRIOLOGY      REPRODUCTION                                                                                                                                                                                                      BRIOLOGY
+TISSUE                                                                                                                                                                                                                          TISSUE
+ORGAN                         Defensins                 Leaves                                             Chlorophil                                                                                                           ORGAN
+Botany        Fertilisation   PhytoHormoneGround tissue Roots                      Roots hair              Chloroplasts   Vascular tissue    Stems                  Leaves      Flower         Auxina,glutamato, GABA, serotonina,
+                                                                                                                                                                                                                                Botany
+Zoology       Embriology                  waxy cuticle                                                                                       hydrostatic skeleton               Fruit          Pheromones, Epidermis            Zoology
+                                          exoskeleton
+VERTEBRATES                   Adaptative, M Skin, Egg shells & membranes                                                                     COLUMN                                                                              VERTEBRA
+WATER                                                                                                                                        rigid                                             Paramecium, micositos              WATER
+Cartilagous                                                                                                                                  Jaws                                              actina, miosina, microtúbulos) y m Cartilagous
+Bony                                                                                                       Lungs                                                                                                                  Bony
+Amphibian                                                                                                                                    Legs                                                                                 Amphibian
+AIR                                                                                                                                                                                                                               AIR
+EARTH                                                                                                                                                                                                                             EARTH
+
+MAMMALS                                      Hair                                                                                                                   NECK                                                         MAMMALS
+Cetaceans                                                                                                                                                                                                                        Cetaceans
+…                                                                                                                                                                                                                                …
+AIR Bats                                                                                                                                                                                                                         AIR Bats
+EARTH                                                                                                                                                                                                                            EARTH
+PRIMATE                                                                                                                                                                         THYMUS                                           PRIMATE
+HOMINIDS                                                                                                                                                                                       HEAR                              HOMINIDS
+                                                                                                                                                                                                               SCHIZO
+SAPIENS                                                                                                                                                                                                                          SAPIENS
+                              saliva, tears, breast milk, vaginal secretions, semen. Gastric acid, flora
+                                        FRACTALITIES                                  Semiflexible Bones (Vertebras)
+                                                                                                               5           7   13 Flexible Bones
+                                                                                                                                             17 Vertical
+                                                                                                                                                 (Joints)Ve 19 Vocalizers 23
+         11                         REPRODUCTIVE                         Muscular                   7                  X       1                           X             X
+  SYSTEMS               ENDO REPRODUCTIVE
+                                       FEMALE                MALE         FACIAL                   12                          X             X             X             X
+       Inmune                Romance           Egg         spermatozoa      Hair                    5                                        X
+                                                                                                    5
+  Integumentary              Marriage        Ovaries        Testicles      Eyes                     4                                                                    X
+                                                                                                         5x
+      Digestive             Relationship      Uterus        Perinneal      Mouth
+
+
+      Urinary                 Orgasm          Squirt       Ejaculation     Saliva
+
+
+ Circulatory
+ 23        …                  Kissing        Placenta       Prostata       Nose
+
+
+Reproductive                Heredability        mt              y        Lower nose
+
+
+ Respiratory
+ 19       VOCALIZERS         Sensuality    Arousal fluid     Sperm         Mouth
+
+
+ 17 Muscular CHAINS         Fornication       Breast        Strength       Teeth
+
+
+ 13   Skeletal JOINTS        Hugging          Clitoris        Glans         Lips
+
+
+  7   Endocrine GLANDS        Emotion         Cervix          Shaft         Chin
+
+
+  5    Nervous SENSES         Please          Vagina        Prepuce      Forehead
+       Central
+      Autonomic
+       Somatic
+                                  OBSERVATION                                                        DIMENSIONAL INTERPRETATIONS
+
+PRIMES CHANNELS                                CENTROID                        LANGUAGE                            Bipolar      Linear          1                2 (min+) ˄     (max) n(max+) 124875                                                                                                  N+x˄N
+   5               Senses                        Hear                          Rational             Depth          Time            4            2                           3             8                         1                                                                         1
+
+   7               Glands                        Thymus                        Emotional            Height         Space             3         3                            2             4                         2                                             1                           2                      3
+  11          Systems                       Reproductive                       Kinetical            Motion         Time            1            2                           0             1                         4
+   13               Joints                        Neck                          Kinesical           Lenght         Space             2          1                           1             2                         8                                             2                           4                      6      8   16
+   17              Vocalizers                    Tongue                           Verbal                                                                                                                          1+6
+
+   19                Facers                         Nose                           Facial                                                                          1(min-) /    (min) 7(max-)        142857       3+2                                             3                           6                      9
+   23              Consonants                    Allosome?                      Alphabetical                                                                                                                                                                                                   9                      27
+   29                                                                            Industrial?                                                                                                                                                                                                  27                    19683
+   31               Pixelers?                                                      Digital?
+
+   37                                                                                                             MICROSYSTEMS INTERPRETATIONS                                                                MAGIC SQUARES                                                                   3                 3
+   41                                                                                                                      0                        Inmune      Urinary                                             Centers (odds)                                         3^4 o 3^(2*2)    3^2^2              81
+
+                                                                                                                           1                        Integum.    Digestive                       41                 25                13                     5
+                                                                                                                                                                                                                                                                          3^9 o 3^(3*3*3)   3^3^3
+                                                                                                                                                                                                                                                                                                          19683
+                                                                                                                           2                        Digestive   Integum.                                 16                     12                  8
+                   n (Not 147) x2+1 (Sophie Germain alternation)                                                           3                        Urinary     Inmune                                              4                 4
+
+6n-1                             5                              11                             17            23              5 Senses    Nervous                                                                                0           142857 In MS 3x3 rotatedx4:                      3^2
+                                                                                                                                                                                                                                                                                                                9
+
+6n+1       /7                         /13                                /19                                                 7 Glands    Endocrine                                                            3-9 entanglement:                                           3^4 o 3^(2*2)     3^2^2              81
+
+         1 142857                     076923                             052631578947368421                              11 Systems      Reproductive                                                                                                                     3^8 o 3^(2*2*2)   3^2^2^2        6561
+         2…                           153846                             …                                               13 Joints       Skeletal
+
+         3                            230769                                                                             17 Facers       Muscular
+         4                            307692                                                                             19 Vocalizers   Respiratory                                                                                                                                         3^3               27
+         5                            384615                                                                             23 Consonants   Circulatory                                                                                                                      3^9 o 3^(3*3*3)   3^3^3         19683
+         6                            461538                                                                             29              Digestive                                                                                                                        3^27 o 3^(3*3*    3^3^3^3           ###
+NOT IN       369                      1458 & 2790 (36   always in)                                                       31              Urinary
+                                                                                                                         37              Integumentary
+                                                                                                                        41               Inmune                                                                                           Same mini 3x3 geo as 3x3 MS:                       3^3
+                                                                                                                                                                                                                                                                                                               27
+         1                        0                                                            14                                                                                                                                                                                            3^6              729
+         2                                                                                     28                                                                                                                                                                                            3^9          19683
+         3                        1                                                            57
+         5                        2
+         7                        3
+        11                      2+3                                  5
+        13                            3x2
+        17                      2˄3
+        19                            3x3, 3˄2
+        23                                                       11
+                                Substantives             I             You      Someone      People    Something Thing             Body
+
+                                Relationl substantives   Kind          part
+
+                                Determiner               This          Same     Other        Else      Another
+
+                                Quantifiers              one           two      Some         Many / much             all           Little / few
+UNWANTED                feel
+BAD                     see     Evaluators               good          bad
+FEAR                    hear
+Disgust                 think   Descriptors              big           small
+Sad                     know
+Anger / hate            want    Mental predicates        think         know     want         dont want feel          see           hear
+                        love
+                                Speech                   say           words    true
+
+Maybe                           Actions, Events, Movement do           happen   move
+
+Not                             Existence, possesion     be somewherethere is   be something is mine
+
+Do             happen   move    Life and death           live          die
+
+                                Time                     When / time   now      before       after     a long time   a shor time   for some time moment
+
+                                Space                    Where / place here     above        Below     far           near          inside         touch
+
+                                Logical Concepts         not           maybe    can          because   if
+
+                                Intensifier              very          more
+
+                                Similarity               like          as       way
+1 Downwards                                                      2                                                                                             3                                                                                4                                                                                             5                                                                                         6                                                                             Look         7
+1 Red      Adrenal     property   Particle    Conservating !         Like      feel      Caring         pleasure       equal       Personal    Communication   big          dream     drive       attention   Curiosity    ideate     open      Who        Function       inner         recognizable Connection   simpathy    poiesis         feel    novel         interesting   assume        Pereza     dissuade    Informal         noise       impossible    Relation      belief     hypothesis   information   Browse       Valioso    Metafísica    diferenciacion disgust     Dipolo       occult    Avoid
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      OnHover
+
+2 Orange   Gonads      relation   Atom        Replicating   ,        Cool      want      Affection      Fun            companion   Local       Expression      great        fantasy   intention   consideration Wonder     design     advance   Why        Efficiency     being         relative    Inner Bonds empathy       knot            see     emergent      adequate      accept        Soberbia   influence   Constitudidary   signal      unobservable Interaccion    position   axiom        content       OnClick      Positivo   Moral         polarizacion   dishonour   Antonimo     shade     Minimize
+
+
+3 Yellow   Pancreas    pattern    Molecule    Bonding       .        Nice      wish      Harmony        satisfaction   mate        Cultural    Exchange        huge         imagina   purpose     respect     Inquiry      develop    enhance   What for   Sustainability self          neighbour   Relationship synchrony    chemical bond   hear    rising        convenient    Agree         Codicia    induce      Private          sign        unknowable    Experiencia   evidence   principle    data          Rate         Bueno      Fideismo      contrariedad fault         Dicotomia    obscure   Hide
+
+
+4 Green    Thymus      vector     Protein     Folding                Cute      flirt     Tranquility    Happiness      friend      Social      Interaction     amazing      guess     target      concern     Discovery    validate   develop   What       Progress       identity      homestead   Emptional contrust        mitosis         think   generative    accurate      collaborate   Gula       persuade    Formal           symbol      unfalsiable   Observacion fact         theory       format        Relate       Bien       Filosofia     oposicion      Sin         Dilema       dark      Quiet
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Categorize
+
+5 Blue     Tiroid      scale      Bacterial   Conjugating   ..       Bonding   desire    Connection     Delight        close       Regional    Dialogue        marvelous    idea      plan        dignity     Insight      scale      strive    How        innovation     Self-esteem   region      Cultural unity peace      meiosis         know    continuum     prefered      associate     Lujuria    convince    Martial          icon        unprobable    Conocimiento proof       prediction   standard      Rank         Pureza     Racionalidad Contradiccion Crime         Adversario   void      Silence
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Aggrupate
+
+6 Violet   Pituitary   matrix     Sexual      Reproducing …          Active    passion   Trust          Joy            intimate    Global      Connectivity    awesome      code      project     honour      Learning     monitor    thrive    When       Expansion      egolatry      country     Social ties   unity       simbiosis       want    progressive   admired       unite         Envidia    coerce      International    archetype   unknown       Objetivacion reality     theorem      stat          Explain      Verdad     Linguistica   Exclusion      War         Rival        empty     Private
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Act
+
+7 White    Pineal      tensor     Human       Marrying      ?        Lovely    love      Spirituality   Bliss          couple      Universal   Fulfillment     incredible   core      uthopia     pride       Understandingmaintain   success   Where      Integration    allmighty     continent   Global Networsolidarity   memesis         love    permanent     adored        merge         Ira        force       Fundamental      paradigm    uncertain     Lógica        truth      conjecture   reward        App          Amoroso    PsicoSocial   Eliminacion    Genocide    Enemigo      nothing   Protect
+                                persona 1                                                                                                                             comparative
+                                                                                               copy the text from here belo                                             paste the text here below
+                 Treasure                             Care                                      persona 1 persona 2           persona 3       persona 4   persona 5
+             1              0                     2            -1                                    2              2                    2
+                   Blue                               Yellow                         Love           -2            -2                    -3
+                                                                                                  Green         Violet        Yellow
+                                                                                                     1             1                      2
+                                                                                    Treasure        0             -1                      0
+                                    Love                                                           Blue         Yellow         Green
+                                2            -2                                                      1             3                      1
+                                    Green                                            Enjoy          0             -1                      3
+                                                                                                  Violet        Green           Red
+                                                                                                     2             1                     2
+    Enjoy                                                           Reason            Care          -1            0                     -1
+1            0                                                 2             0                    Yellow        Yellow         Violet
+    Violet                                                          Green                            2             2                     1
+                                                                                    Reason          0            -1                     -2
+                                                                                                  Green        Orange           Blue
+                                persona 2
+                                                                                               persona 1       persona 2      persona 3       persona 4   persona 5         0             0         0   0   0   media
+                 Treasure                             Care                        Love             7               6              9                                                                             7,33
+             1           -1                       1            0                  Care             7               5              5                                                                             5,67
+                  Yellow                              Yellow                      Reason           5               7              5                                                                             5,67
+                                                                                  Enjoy            3               7              9                                                                             6,33
+                                                                                  Treasure         3               6              5                                                                             4,67
+
+                                    Love
+                                2            -2
+                                    Violet
+
+
+    Enjoy                                                           Reason
+3            -1                                                2             -1
+    Green                                                           Orange
+             Treasure          why?                                 Care             ...
+                   2            -2                                    2             -1
+                        Blue                                               Yellow                         Treasure
+
+
+                                                                                                                     Treasure
+                  3             0                                     0              0                       Care
+
+
+                                                                                                                       why?
+               related with Love                                   related with Enjoy                        Enjoy
+
+
+                                                                                                                        2
+                   1             -1                                    1              0                    Reason
+
+
+                                                                                                                        -2
+                                                                                                             Love
+
+
+                                                                                                                       Blue
+                                                                                                                        3
+                                                                                                                        0
+                                                                                                          related with Love
+                                                                                                                  1
+                                                                                                                       -1
+                                                                                                                      Care
+                                                                                                                        ...
+                                             Love            ...                                                         2
+                                            2                -1                                                         -1
+                                                     Red                                                              Yellow
+                                            0                0                                                          0
+                                      related with    Care                                                              0
+                                             3               -1                                           related with Enjo
+                                                                                                                  1
+ Enjoy            ...                                                            Reason            ...                  0
+    1             0                                                                  2             0                  Enjoy
+        Violet                                                                             Green                        ...
+    2             -1                                                                 1             -2                    1
+related with Enjoy                                                              related with Reason                     0
+     0             -1                                                                1           -3                   Violet
+                                                                                                                        2
+                                                                                                                        -1
+                                                                                                          related with Enjo
+                                                                                                                  0
+                                                                                                                       -1
+                                                                                                                     Reason
+                                                                                                                        ...
+                                                                                                                         2
+                                                                                                                        0
+                                                                                                                      Green
+                                                                                                                        1
+                                                                                                                        -2
+                                                                                                         related with Reas
+                                                                                                                  1
+                                                                                                                       -3
+                                                                                                                      Love
+                                                                                                                        ...
+                                                                                                                         2
+                                                                                                                        -1
+                                                                                                                       Red
+                                                                                                                        0
+                                                                                                                        0
+                                                                                                          related with Care
+                                                                                                                  3
+                                                                                                                        -1
+                                                                        Old document about a mod9 (cuby) holistic ontology
+
+                                                                    DIMENSIONES
+                                                                        MACRO (COSMOS)
+        …   …   …         …            …         …            …         …         …          …                   …           …           …           …
+        …   …   …         …            …         …            …         …         …          …                   …           …           …           …
+        …   …   FUNDACIÓN VIDA         FUNCION   ESTÉTICA     REFERENCIASEMIÓTICA ETIMOLOGÍA FETICHE             ESTILO      ORIGINAL    INTIMIDAD   CONEXIÓN OPERACIÓN
+        …   …   EMANACIÓN TIEMPOE LENGUAJE LÓGICA        AXIOMA     SEMÁNTICA MEMÉTICA AGENCIA    HONOR     COMPAÑIA EMPATIA                         CONTACTO COMUNIC. VITAL
+        …   …   FUNDAMENT SENSORIAL INTERPRETAPROPOSICIÓPREDICCIÓN RETÓRICA VOCABULARIPRESENCIA RESPETO     TRASCENDESINERGIA                        SINCRONIA ORGÁNICO
+        …   …   DETECCIÓN PERCEPCIÓNATENCIÓN SENSACIÓN ADAPTACIÓNPOLÍTICA     ALBEDRIO INTENCIÓN INTEGRIDADHUMILDAD MÉRITO                           REPUTACIÓNPERSONAL
+        …   …   EQUILIBRIO INTERACCIÓ TACTO   EMOCIÓN    TÁCTICA    ÉTICA     CONTENIDO PROPÓSITO INTEGRAL HONESTIDADPAZ                             AGRUPA    LOCAL     RACIONAL
+MICRO   …   …   POSICIÓN OBSERVADA VISIÓN     PROYECCIÓNESTRATEGIA MORAL      RED       VOLUNTAD MÉTODO     LIDERAZGO AMBICIÓN                       RETO      SOCIAL
+        …   …   MORFOLOGÍAFISIOLOGÍA ANATOMÍA PASIÓN     PSICOLOGÍA EDUCACIÓNCALIDAD    BIEN      ACTO      IDEAL     BÁSICO                         GUARDAR EXTRACCIÓN
+                                                                                                                                                                                 MATERIAL
+        …   …   GENOMA     NERVAL     NEURAL  EXISTENCIA TERRITORIOCULTURA    CUALIDAD BUENO      POSITIVO  ÓPTIMO    FÁCIL                          ORDEN     MANUFACT. ECONOMÍA
+        …   …   FENOTIPADOSENSUAL     SEXUAL  ESPIRITUAL CONTRATO CONSENSO CANTIDAD MEJOR         POTENCIAL ADECUADO PLAN                            ORGANIZAR OFERTA
+        …   …                                                                                                                                                 REGALO
+        …   …                                                                                                                                                 PRÉSTAMO COMERCIAL
+        …   …                                                                                                                                                 INTERCAMBIO
+                OPERACIÓCOMUNIC. ORGÁNICOPERSONALLOCAL                  SOCIAL       EXTRACCI MANUFACTOFERTA                 REGALO      PRÉSTAMO INTERCAMBIO
+                            VITAL                           RACIONAL                             ECONOMIA                               COMERCIAL
+                                                                          BIOLOGÍA
+
+
+
+                                                                         AMORES
+                                                                        MACRO (COSMOS)
+        …   …   …         …            …         …            …         …            …             …             …           …           …           …
+        …   …   …         …            …         …            …         …            …             …             …           …           …           …
+        …   …   TODO      VIDA         MUNDO     BELLEZA      BESTIAL   SÍMBOLO      TOTEM         FETICHE       ESTILO      ORIGINAL    INTIMIDAD   CONEXIÓN OPERACIÓN
+        …   …   FLUYE     FLOVE        AMOR       FEMENINO    YIN       HEMBRA     ANALOGÍA AGENCIA    HONOR      COMPAÑIA EMPATIA CONTACTO COMUNIC. VITAL
+        …   …   SURFEA    VIVA         ACTIVO     MASCULINO   YAN       MACHO      ENFASIS   PRESENCIA RESPETO    TRASCENDESINERGIA   SINCRONIA ORGÁNICO
+        …   …   ARMONÍA   ALMA         CONCIENCIA BLISS       COOL      NICE       CLARIDAD INTENCIÓN INTEGRIDADHUMILDAD MÉRITO       REPUTACIÓNPERSONAL
+        …   …   ESTAR     SUTIL        GUSTAR     CHEERS      FRESH     STRIVE     LIMPIEZA  PROPÓSITO INTEGRAL HONESTIDADPAZ         AGRUPA    LOCAL       RACIONAL
+MICRO   …   …   SER       CUIDAR       ACEPTAR    WOW         PLEASE    THRIVE     PROFUNDID VOLUNTAD MÉTODO      LIDERAZGO AMBICIÓN RETO       SOCIAL
+        …   …   CUERPO    GLÁNDULA     ÓRGANO     AMOR        ALEGRÍA   SABIDURIA VALOR      BIEN      ACTO       IDEAL     BÁSICO    GUARDAR EXTRACCIÓN
+                                                                                                                                                                    MATERIAL
+        …   …   IDENTIDAD APTITUD      EVOLUCIÓN FÉ           PUREZA    ELECCIÓN VIRTUD      BUENO     POSITIVO   ÓPTIMO    FÁCIL     ORDEN     MANUFACT. ECONOMÍA
+        …   …   DESARROLLOSINTIENCIA   ORGASMO VERDAD         TRANSFERIRTRANSMITIR TALENTO   MEJOR     POTENCIAL ADECUADO PLAN        ORGANIZAR OFERTA
+        …   …   CONSTANTE PASABLE      AUTÉNTICO EXACTO       CONFIANZA LIBERTAD CAPACIDAD COHESIÓN INTENSIDAD EXPERIENCI HACER       !         REGALO
+        …   …   PARADIGMA POSIBLE      EXPLICACIÓNREAL        COMÚN     JUSTO      PRODUCCIÓNDIRECCIÓN REALIZACIÓNEXPERIMENTCONSTRUIR…          PRÉSTAMO COMERCIAL
+        …   …   INDICIO   PROBABLE     EVIDENCIA CIERTO       RECUERDO ACUERDO INTUICIÓN IMAGINACIÓNHECHO         EXPLORACIÓCONSEGUIR ?         INTERCAMBIO
+                OPERACIÓCOMUNIC. ORGÁNICOPERSONALLOCAL                  SOCIAL       EXTRACCI MANUFACTOFERTA                 REGALO      PRÉSTAMO INTERCAMBIO
+                            VITAL                           RACIONAL                             ECONOMIA                               COMERCIAL
+                                                                          BIOLOGÍA
+                                                                              Life
+                                  Bright>>>                                  Flove                               Shade<<<
+                         Source      Evolve       Express       Lovely         _           Far        Excess        Twist          Lack
+      Universal     length      change        load         flow          _           whole        god          stress        final
+      Vital         tension     motion        coherence    alive         _           full         focus        limbo         end
+      Foundational emerge       novel         generate     rise          _           create       progress     accident      abandon
+`     Intentional   process     design        develop      tune          _           purpose      dharma       karma         erase
+                    separate
+      Transformational          part          branch       plural        _           diverse      lineage      issolate      lone
+      Relational    reciprocity complementarity
+                                              balance      harmony       _                                                   chaos
+                                                                                                               non-equilibrium
+                                                                                     equilibrium pseudo-equilibrium
+      Trascendental unity       serve         spirit       pure          _           depurate     ghost        master        absolute
+      Cryptical     mystery     enigma        hint         unknowable    _           unobservable luck         secret        unknown
+      Imitational   compare     adopt         sample       reciprocity   _           reproduce    example      bloat         absence
+      Perfectional supersimmetrysuperposition scalar       simple        _           complex      omniverse    asymmetry multiverse
+      Functional    set         fix           rank         constant      _           evolution    upon         error         singularity
+      Architectural holon       polar         vortex       stable        _           dynamic      sphere       plain         none
+      Programationaldeterminism automate      pattern      integral      _           current      destiny      depend        unlike
+      Natural       radiation   light         energy       real          _           exist        entropy      dark          void
+      Positional    node        circuit       vector       center        _           peripheral   radial       orbit         lost
+      Fundamental issue         subject       object       essence       _           substance    thing        almighty      omnipresent
+      Material      soil        gas           fluid        solid         _           matter       plasma       viscous       foam
+      Musical       tone        rythm         acoustics    vibration     _           resonance    cymatics     noise         disrupt
+      Chemical      property    geometry      thermic      positive      _           element      temperature dissipate      dissapear
+      Implosional attract       absorb        accumulate inner           _           concentrate exceed        suck          repulse
+      Observational fuzzy       prism         found        intract       _           react        blurry       vague         opaque
+      Theoretical reach         focus         scope        posible       _           probable     backgrund    odd           radical
+      Practical     test        regular       evidence     certain       _           exact        proof        critic        crisis
+      Expansional graph         increment     grow         able          _           explain      escape       inflate       explode
+      Mechanical force          medium        switch       cause         _           effect       meassure     apparatus     weapon
+      Physical      sequence    frequency     modulation shift           _           paradigm     calibrate    interfere     collapse
+      Mathematical conjecture   hypothesis    theory       principle     _           equation     theorem      paradox       oax
+      Temporal      quantum     entangle      momentum mesh              _           leap         differ       issolate      nothing
+      Actual        sudden      implement     chance       now           _           present      opportunity postpone       crunch
+      Global        permanent   cycle         pace         phase         _           timeline     due          loop          ephemeral
+      Total         origin      period        history      linear        _           ethernal     era          aeon          retrograde
+      Spatial       horizon     event         charge       wave          _           density      mass         gravity       hole
+      Formal        fractal     spiral        path         shape         _           matrix       medium       inflation     vacuum
+      Microscopical neutron     proton        electron     atom          _           particle     field        bosson        antimatter
+      Macroscopicalcontent      container     broad        cosmos        _           infinite     abroad       outer         black
+      Biological    reveal      connect       sentient     agency *      _           presence     survive      weak          death
+      Organical     organism    organ         vegetal      animal        _           human        bacteria     virus         inmortal
+      Genetical     RNA         DNA           mithocondria genome        _           phenotype    unique       silencer      ill
+      Cellular      metabolism protein        aminoacid    soul          _           body         inmune       crisis        age
+      Neural        nerve       synapsis      memory       emphasis      _           analogy      victim       madness       pain
+      Reciprocal    poiesis     memesis       simbiosis    aware *       _           fit          split        damage        suffer
+      Sensorial     smell       listen        flavour      touch         _           view         belong       danger        poison
+      Sensual       introspect  enlighten     stimulate    excite        _           transfer     somatize     disguise      disregard
+      Sexual        extrospect  flirt         lust         orgasm        _           transmit     reject       assault       extinct
+X     Mental        abstract    design        concretize   guess *       _           imagine *    overflow     disflow       misflow
+      Emotional     attachment interest       sign         subtle *      _           hope *       desire       vice          possess
+x     Passional     need        feel          want         love          _           wish         zeal         rage          fear
+f     Experimental play         lexicon       communicationjoy           _           fun          flaw         sorrow        bore
+m     Operational idea          balance       code         wise          _           care         core         worry         fight
+F     Rational      beauty      reason        consciouss   accept *      _           rate *       mania        calculus      fail
+                                                           be *
+xx    Personal      self        focus         identity     _             true *      belief        deny          fake
+      Spiritual     connect     symbol        myth         sacred        _           faith         religion      dogma        offend
+      Referential   dare        selfsteem     ego          lead          _           bias          selfish       narcisim     psychopathy
+      Internal      research    fantasy       seek         dream         _           vow           mission       gregarious   disfavor
+      External      impulse     commit        act          intend        _           focus         polite        delete       purge
+      Aesthetical   bliss       recall        fine         nice          _           taste         critic        troll        flame
+      Inspirational open        strive        enhance      fresh         _           charm         decrease      depress      shut
+      Attentional cautious      moderate      quality      tender        _           nurture       quantity      dangerous    hostile
+      Artistical    artifact    perform       agile        style         _           way           geek          pity         freak
+      Logical       ground      guide         frame        right         _           rigour        cage          abuse        absolute
+                    identify
+      Interpretational          clear         learn        deep          _           meaningful    understand    mess         miss
+      Precisional   sight       validate      accomplish access          _           allow         assume        false        nfalsiable
+      Qualitational good        pretty        relevant     better        _           best          spoil         ugly         bad
+      Quantitationalbig         huge          great        amazing       _           awesome       brutal        radical      crazy
+      Constructionalthrive      strive        dignity      humble        _           honest        honour        starve       suicide
+      Propositional release     incite        suggest      manifest      _           meaningful    imply         plot         terror
+      Psicological thought      integrate     cognite      choose        _           focus         attach        split        anxiety
+      Behavioural basis         attitude      smart        select        _           goal          strike        conflict     boycott
+      Projectional pretend      target        concern      advance       _           achieve       expect        uthopy       guilt
+xf    Local         empathy     synchrony     simpathy     trustful *    _           peace         altruism      rival        hate
+      Environtmentalinstinct    domesticate compromise kind              _           charm         civilizate    savage       depredate
+      Terrestrial   mate        friend        family       equal         _           intim         defend        enemy        disregard
+      Grupal        trait       actual        experiential close         _           companion     known         class        clan
+      Territorial   country     region        homestead    relative      _           neighbour     foreign       strange      homeless
+      Tactical      now         adjust        efficient    prefer        _           convenient    affect        perturb      worsen
+      Optimal       active      favorable     accurate     match         _           adequate      competent     pasive       off
+      Original      hot         easy          warm         new           _           challenge     catch         difficult    cold
+      Special       comply      persuade      induce       quick         _           let           dominate      submission   risk
+      Ethical       dignity     honour        respect      pleasant      _           cool          pride         deception    insult
+      Normal        aproach     pragma        course       habit         _           hobby         curse         mandatory    miss
+      Cultural      role        character     tradition    adore         _           admire        folklore      spoil        guilt
+      Political     attention   mediate       responsive   skill         _           sharp         responsible   rigid        paralisis
+xm    Social        articulate  network       redistribute free *        _           fair          terms         imped        force
+      Technical     law         judge         police       order         _           enforce       army          terrorism    anarchy
+      Analitical    raw         info          data         content       _           stat          available     cypher       spam
+      Adaptational run          interpret     patch        hack          _           flaw          bug           exploit      crack
+      Academical proof          fact          standard     stand         _           format        static        false        wishful
+      Estrategical project      target        uthopy       plan          _           convenient    disthopy      crash        crunch
+      Perpetual     sample      example       method       version       _           status        construct     forbid       secret
+      Mutual        epic        heaven        duty         common        _           given         clean         hell         pitty
+      Ideal         important   promote       capacity     value         _           virtue        urgent        defect       banal
+      Moral         power       publicity     declare      promote       _           propose       access        censor       oppress
+      Philosophical context     discourse     domain       foresee       _           predict       dialect       yard         hell
+      Consensual permit         just          consent      agree         _           convince      sign          bad          obligate
+      Legal         rule        control       safeguard    protect       _           possess       law           jail         punish
+xxx   Economical resource       allocate      stock        do *          _           get           use           speculate    owner
+xxx   Extractional find         mine          thing        eco *         _           compensated   stuff         monopolize   hide
+xxf   Manufactural merge        collaborate produce        craft         _           bring         work          pollute      destroy
+xxm   Servicial     estate      invite        convey       offer *       _           license *     market        bribe        fiat
+xh    Altruistical  give        contribut     gift         freed *       _           favor         donate        expect       loss
+fh    Communal      cost        let           lend         share *       _           partake *     lease         rent         usury
+mh    Commercial price          benefit       exchange     swap *        _           credit        money         lucre        steal
+xg    Negotiational disclaim    bundle        bid          tacit         _           cheap         liberty       lobby        claim
+fg    Firmal        deed        bond          brand        ori           _           botori        currency      debt         bank
+mg    Deal          sell        pay           buy          direct *      _           flevy         fee           swindle      theft
+

@@ -1,0 +1,186 @@
+# Fuzzy Philosophy Schema
+# Extraído de: 4 Why FUZZY.txt + P254_2.Why FUZZY25.4.md
+# Fecha: 2026-01-09
+# Fuente: OnthologyEditor/FloveDocs
+
+$schema: "http://json-schema.org/draft-07/schema#"
+$id: "flove://schemas/fuzzy-philosophy.schema.yaml"
+title: "Filosofía de Lógica Fuzzy según Confluentism"
+description: |
+  Principios fundamentales del paradigma Fuzzy Logic en el marco Flove.
+  "Reality is fuzzy because there is a need of uncertainity for this whole 
+  to be maintained as a stable system."
+
+# ═══════════════════════════════════════════════════════════════
+# PRINCIPIO FUNDACIONAL
+# ═══════════════════════════════════════════════════════════════
+foundational_principle:
+  name: "Uncertainity Preservation"
+  axiom: |
+    Whatever perception of reality has to be FUZZY because the observer 
+    needs to carry uncertainity for the whole to remain stable.
+  corollary: |
+    The more analog smaller sets, the more commutable, 
+    the more stable for the same uncertainity.
+  dual_nature:
+    subjective: "Observer carries uncertainity in observation"
+    objective: "Reality could/should be pre-determined (absolute certainty)"
+
+# ═══════════════════════════════════════════════════════════════
+# FLAWS IDENTIFICADOS (Crítica Académica)
+# ═══════════════════════════════════════════════════════════════
+academic_flaws:
+  
+  logic_flaw:
+    name: "Flaw at Logic"
+    problem: |
+      Fuzzy Logic is underrated and bullied by Formal Logicians.
+      They avoid perspectivism (uncertainity within subjectivity).
+    root_cause: |
+      Identity and non-contradiction depends on excluded middle (ab)use.
+      A IsNot always B.
+    fallacies_caused:
+      - "StrawMan inference"
+      - "False dilemma"
+      - "Appeal to authoritarian pity (calling oxymorons)"
+    solution: |
+      Simply merge dichotomies syntactically.
+      Example: idealism vs materialism → idealist materialism
+
+  science_flaw:
+    name: "High Sciences Flaw"
+    problem: |
+      Words don't mean anything by themselves.
+      Consensus is fictional battle between straw(wo)men.
+    insight: |
+      Subjectivity and uncertainity can't be excluded.
+      The equal sign is necessarily polysemic.
+    consequence: |
+      We don't have tools for analyzing relational properties 
+      of one number/word with another deeply.
+
+  linguistic_flaw:
+    name: "Linguistic Platforms Flaw"
+    missing_capabilities:
+      - "(Pluri)Relate, rate and redefine items"
+      - "Merge two concepts into single item"
+      - "(Pluri)Define conjunctions"
+      - "(Pluri)Rate oppositional AND complementarity degree"
+      - "Create new raters for rating words"
+      - "(Pluri)Redefine using epistemological labels"
+    critique: |
+      Wiktionary:thesaurus doesn't help Wikipedia 
+      integrating better categorization and criticisms.
+
+# ═══════════════════════════════════════════════════════════════
+# METODOLOGÍA PROPUESTA
+# ═══════════════════════════════════════════════════════════════
+methodology:
+  name: "Fuzzy Keyword Protocol"
+  principle: |
+    The better theory the more simplifiable apps,
+    the better practice the more falsifiable theory.
+  
+  steps:
+    1_keyword:
+      action: "Say any word (formally or informally)"
+      output: "KEYWORD"
+    2_keypair:
+      action: "Find antonym or complementary"
+      output: "KEYPAIR"
+    3_keyset:
+      action: "Merge & define with WISE labels or extend with ranks"
+      output: "KEYSET"
+    4_keyapps:
+      action: "See content fields, edit, save, send"
+      output: "KEYAPPS"
+
+  game_demo:
+    name: "Word Relation Game"
+    min_players: 2
+    rules:
+      - "Get two words"
+      - "Think of related word (don't tell)"
+      - "Raise hand when found"
+      - "Countdown to reveal simultaneously"
+      - "Repeat with new pair"
+    extensions:
+      - "End on word coincidence"
+      - "No repetition of words"
+      - "Decreasing countdown"
+      - "Express with labels, dance, face"
+      - "Pause to define conjuncted words"
+
+# ═══════════════════════════════════════════════════════════════
+# PRIVACIDAD Y MINERÍA DE DATOS
+# ═══════════════════════════════════════════════════════════════
+data_philosophy:
+  privacy_principle: |
+    Privacy makes the moment more special for mining 
+    the lesser and so more own and better keywords.
+  
+  minimalism: |
+    The fewer words, the more important each,
+    the lesser load to analyze if shared later.
+  
+  sharing_model:
+    levels:
+      - "Mates (personal)"
+      - "Analyzers (professional)"
+      - "Public (open)"
+    benefit: |
+      Shared data can be analyzed with chosen data pool
+      to provide further insights.
+
+# ═══════════════════════════════════════════════════════════════
+# RELACIÓN CON AI
+# ═══════════════════════════════════════════════════════════════
+ai_integration:
+  ai_role: |
+    AIs have advanced ways of relating.
+    They offer top-down suggested content based on probability/popularity.
+  
+  user_role: |
+    User keeps feeding relationalities through varied momentual bottom-up input.
+  
+  unique_value: |
+    The more free and structuring expressions from uniqueness of your momentum
+    is what can't be substituted by any AI or linguistic platform.
+  
+  platform_vs_ai:
+    linguistic_platforms: "Don't wish free structuring (moderation bottlenecks)"
+    ai_systems: "Definitely wish free structuring expressions"
+
+# ═══════════════════════════════════════════════════════════════
+# OPERACIONES FUZZY (desde Why Fuzzy)
+# ═══════════════════════════════════════════════════════════════
+fuzzy_operations:
+  RELATE:
+    level: 4
+    grade: 0.57
+    description: "Establecer relación bipolar entre conceptos"
+    ui_action: "Choose a word, choose an antonym"
+    
+  EXPLAIN:
+    level: 6
+    grade: 0.86
+    description: "Definir con labels epistemológicas"
+    ui_action: "Merge & define with WISE labels"
+    
+  VIEW:
+    level: 7
+    grade: 1.0
+    description: "Visualizar campos de contenido"
+    ui_action: "See content fields for defining"
+
+# ═══════════════════════════════════════════════════════════════
+# METADATA
+# ═══════════════════════════════════════════════════════════════
+metadata:
+  source_documents:
+    - "4 Why FUZZY.txt (Papers0824, Sep 2024)"
+    - "P254_2.Why FUZZY25.4.md (Papers25.4, Apr 2025)"
+  extracted_by: "Lucas (Scrum Master)"
+  extraction_date: "2026-01-09"
+  paradigm: "CONFLUENTISM"
+  website: "flove.org/fuzzy"

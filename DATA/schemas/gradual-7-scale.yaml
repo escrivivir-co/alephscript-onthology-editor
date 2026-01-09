@@ -1,0 +1,190 @@
+# Gradual 7x7x7 Scale - Flove Fuzzy Logic
+# Extracted from: FloveDocs/PAPERS25.10/Demos25.10/Demos/Fuzzy/Relate/Rate/Intensonims/graduals7s.ods
+# Date: 2026-01-09
+
+metadata:
+  source: graduals7s.ods
+  structure: 7x7 matrix (7 levels × 7 categories)
+  paradigm: CONFLUENTISM (Fuzzy Logic + Love = Flove)
+
+# ESCALA PRINCIPAL: 7 GRADOS (0.0 - 1.0)
+grades:
+  - level: 1
+    value: 0.14  # ~1/7
+    color: "Red (#ff0000)"
+    chakra: "Adrenal"
+    biology: "Particle → Conservating"
+    punctuation: "!"
+    love: { adjective: "Like", verb: "feel", state: "Caring", emotion: "pleasure" }
+    social: { proximity: "equal", scope: "Personal", activity: "Communication" }
+    cognition: { magnitude: "big", ideation: "dream", intention: "drive", respect: "attention" }
+    discovery: { mode: "Curiosity", action: "ideate", growth: "open" }
+    identity: { question: "Who", function: "Function", aspect: "inner", boundary: "recognizable" }
+    bond: { type: "Connection", quality: "simpathy", mechanism: "poiesis" }
+    persuasion: { sense: "feel", temporal: "novel", fitness: "interesting", commitment: "assume" }
+    shadow: { sin: "Pereza", tactic: "dissuade", register: "Informal" }
+    epistemology: { signal: "noise", knowability: "impossible", domain: "Relation", foundation: "belief" }
+    logic: { structure: "hypothesis", format: "information", action: "Browse" }
+    value: { worth: "Valioso", discipline: "Metafísica", polarity: "diferenciacion" }
+    conflict: { negative: "disgust", opposition: "Dipolo", shadow: "occult", defense: "Avoid" }
+
+  - level: 2
+    value: 0.29  # ~2/7
+    color: "Orange (#ff8000)"
+    chakra: "Gonads"
+    biology: "Atom → Replicating"
+    punctuation: ","
+    love: { adjective: "Cool", verb: "want", state: "Affection", emotion: "Fun" }
+    social: { proximity: "companion", scope: "Local", activity: "Expression" }
+    cognition: { magnitude: "great", ideation: "fantasy", intention: "intention", respect: "consideration" }
+    discovery: { mode: "Wonder", action: "design", growth: "advance" }
+    identity: { question: "Why", function: "Efficiency", aspect: "being", boundary: "relative" }
+    bond: { type: "Inner Bonds", quality: "empathy", mechanism: "knot" }
+    persuasion: { sense: "see", temporal: "emergent", fitness: "adequate", commitment: "accept" }
+    shadow: { sin: "Soberbia", tactic: "influence", register: "Constitudidary" }
+    epistemology: { signal: "signal", knowability: "unobservable", domain: "Interaccion", foundation: "position" }
+    logic: { structure: "axiom", format: "content", action: "OnClick" }
+    value: { worth: "Positivo", discipline: "Moral", polarity: "polarizacion" }
+    conflict: { negative: "dishonour", opposition: "Antonimo", shadow: "shade", defense: "Minimize" }
+
+  - level: 3
+    value: 0.43  # ~3/7
+    color: "Yellow (#ffff00)"
+    chakra: "Pancreas"
+    biology: "Molecule → Bonding"
+    punctuation: "."
+    love: { adjective: "Nice", verb: "wish", state: "Harmony", emotion: "satisfaction" }
+    social: { proximity: "mate", scope: "Cultural", activity: "Exchange" }
+    cognition: { magnitude: "huge", ideation: "imagina", intention: "purpose", respect: "respect" }
+    discovery: { mode: "Inquiry", action: "develop", growth: "enhance" }
+    identity: { question: "What for", function: "Sustainability", aspect: "self", boundary: "neighbour" }
+    bond: { type: "Relationship", quality: "synchrony", mechanism: "chemical bond" }
+    persuasion: { sense: "hear", temporal: "rising", fitness: "convenient", commitment: "Agree" }
+    shadow: { sin: "Codicia", tactic: "induce", register: "Private" }
+    epistemology: { signal: "sign", knowability: "unknowable", domain: "Experiencia", foundation: "evidence" }
+    logic: { structure: "principle", format: "data", action: "Rate" }
+    value: { worth: "Bueno", discipline: "Fideismo", polarity: "contrariedad" }
+    conflict: { negative: "fault", opposition: "Dicotomia", shadow: "obscure", defense: "Hide" }
+
+  - level: 4
+    value: 0.57  # ~4/7 (CENTER)
+    color: "Green (#bbe33d)"
+    chakra: "Thymus"
+    biology: "Protein → Folding"
+    punctuation: ""
+    love: { adjective: "Cute", verb: "flirt", state: "Tranquility", emotion: "Happiness" }
+    social: { proximity: "friend", scope: "Social", activity: "Interaction" }
+    cognition: { magnitude: "amazing", ideation: "guess", intention: "target", respect: "concern" }
+    discovery: { mode: "Discovery", action: "validate", growth: "develop" }
+    identity: { question: "What", function: "Progress", aspect: "identity", boundary: "homestead" }
+    bond: { type: "Emotional connection", quality: "trust", mechanism: "mitosis" }
+    persuasion: { sense: "think", temporal: "generative", fitness: "accurate", commitment: "collaborate" }
+    shadow: { sin: "Gula", tactic: "persuade", register: "Formal" }
+    epistemology: { signal: "symbol", knowability: "unfalsifiable", domain: "Observacion", foundation: "fact" }
+    logic: { structure: "theory", format: "format", action: "Relate" }  # FUZZY RELATE!
+    value: { worth: "Bien", discipline: "Filosofia", polarity: "oposicion" }
+    conflict: { negative: "Sin", opposition: "Dilema", shadow: "dark", defense: "Quiet" }
+
+  - level: 5
+    value: 0.71  # ~5/7
+    color: "Blue (#729fcf)"
+    chakra: "Tiroid"
+    biology: "Bacterial → Conjugating"
+    punctuation: ".."
+    love: { adjective: "Bonding", verb: "desire", state: "Connection", emotion: "Delight" }
+    social: { proximity: "close", scope: "Regional", activity: "Dialogue" }
+    cognition: { magnitude: "marvelous", ideation: "idea", intention: "plan", respect: "dignity" }
+    discovery: { mode: "Insight", action: "scale", growth: "strive" }
+    identity: { question: "How", function: "innovation", aspect: "Self-esteem", boundary: "region" }
+    bond: { type: "Cultural unity", quality: "peace", mechanism: "meiosis" }
+    persuasion: { sense: "know", temporal: "continuum", fitness: "prefered", commitment: "associate" }
+    shadow: { sin: "Lujuria", tactic: "convince", register: "Martial" }
+    epistemology: { signal: "icon", knowability: "unprobable", domain: "Conocimiento", foundation: "proof" }
+    logic: { structure: "prediction", format: "standard", action: "Rank" }
+    value: { worth: "Pureza", discipline: "Racionalidad", polarity: "Contradiccion" }
+    conflict: { negative: "Crime", opposition: "Adversario", shadow: "void", defense: "Silence" }
+
+  - level: 6
+    value: 0.86  # ~6/7
+    color: "Violet (#800080)"
+    chakra: "Pituitary"
+    biology: "Sexual → Reproducing"
+    punctuation: "…"
+    love: { adjective: "Active", verb: "passion", state: "Trust", emotion: "Joy" }
+    social: { proximity: "intimate", scope: "Global", activity: "Connectivity" }
+    cognition: { magnitude: "awesome", ideation: "code", intention: "project", respect: "honour" }
+    discovery: { mode: "Learning", action: "monitor", growth: "thrive" }
+    identity: { question: "When", function: "Expansion", aspect: "egolatry", boundary: "country" }
+    bond: { type: "Social ties", quality: "unity", mechanism: "simbiosis" }
+    persuasion: { sense: "want", temporal: "progressive", fitness: "admired", commitment: "unite" }
+    shadow: { sin: "Envidia", tactic: "coerce", register: "International" }
+    epistemology: { signal: "archetype", knowability: "unknown", domain: "Objetivacion", foundation: "reality" }
+    logic: { structure: "theorem", format: "stat", action: "Explain" }  # FUZZY EXPLAIN!
+    value: { worth: "Verdad", discipline: "Linguistica", polarity: "Exclusion" }
+    conflict: { negative: "War", opposition: "Rival", shadow: "empty", defense: "Private" }
+
+  - level: 7
+    value: 1.0  # 7/7 (MAX)
+    color: "White"
+    chakra: "Pineal"
+    biology: "Human → Marrying"
+    punctuation: "?"
+    love: { adjective: "Lovely", verb: "love", state: "Spirituality", emotion: "Bliss" }
+    social: { proximity: "couple", scope: "Universal", activity: "Fulfillment" }
+    cognition: { magnitude: "incredible", ideation: "core", intention: "uthopia", respect: "pride" }
+    discovery: { mode: "Understanding", action: "maintain", growth: "success" }
+    identity: { question: "Where", function: "Integration", aspect: "allmighty", boundary: "continent" }
+    bond: { type: "Global Networking", quality: "solidarity", mechanism: "memesis" }
+    persuasion: { sense: "love", temporal: "permanent", fitness: "adored", commitment: "merge" }
+    shadow: { sin: "Ira", tactic: "force", register: "Fundamental" }
+    epistemology: { signal: "paradigm", knowability: "uncertain", domain: "Lógica", foundation: "truth" }
+    logic: { structure: "conjecture", format: "reward", action: "App" }  # FUZZY APP!
+    value: { worth: "Amoroso", discipline: "PsicoSocial", polarity: "Eliminacion" }
+    conflict: { negative: "Genocide", opposition: "Enemigo", shadow: "nothing", defense: "Protect" }
+
+# MAPEO A OPERACIONES FUZZY
+fuzzy_operations:
+  RELATE:
+    level: 4
+    action: "Relate"
+    description: "Connect concepts via mindmap/SVG nodes"
+    
+  EXPLAIN:
+    level: 6
+    action: "Explain"
+    description: "Define concepts with Perspective (Prism, Tone) + Focus"
+    
+  VIEW:
+    level: 7
+    action: "App"
+    description: "Navigate concept network with pills (APPS, ACTS, MATCHES, etc)"
+
+# CATEGORÍAS TRANSVERSALES (7 dominios)
+categories:
+  - name: "Downwards"  # Column 1
+    theme: "Physical/Biological progression"
+    levels: [property, relation, pattern, vector, scale, matrix, tensor]
+    
+  - name: "Love"  # Column 2
+    theme: "Emotional/Relational progression"
+    levels: [Like→Cool→Nice→Cute→Bonding→Active→Lovely]
+    
+  - name: "Identity"  # Column 3
+    theme: "Questions of being"
+    levels: [Who, Why, "What for", What, How, When, Where]
+    
+  - name: "Persuasion"  # Column 4
+    theme: "Influence gradients"
+    levels: [feel→see→hear→think→know→want→love]
+    
+  - name: "Shadow"  # Column 5
+    theme: "7 Deadly Sins"
+    levels: [Pereza, Soberbia, Codicia, Gula, Lujuria, Envidia, Ira]
+    
+  - name: "Epistemology"  # Column 6
+    theme: "Knowledge gradients"
+    levels: [noise→signal→sign→symbol→icon→archetype→paradigm]
+    
+  - name: "Logic"  # Column 7
+    theme: "Actions/Operations"
+    levels: [Browse, OnClick, Rate, Relate, Rank, Explain, App]

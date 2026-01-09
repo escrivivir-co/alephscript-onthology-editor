@@ -1,0 +1,325 @@
+# Flove Ontology Schema
+# Extracted from: FloveTables25.12.txt
+# Date: 2026-01-09
+# Paradigm: CONFLUENTISM (Fuzzy Logic + Love = Flove)
+
+$schema: "http://json-schema.org/draft-07/schema#"
+$id: "https://flove.org/schemas/ontology/v1"
+title: "Flove Ontology"
+description: "Hierarchical ontology from Substances to Apps, organized by TAO/YIN/YANG triads"
+
+# METAMODEL STRUCTURE
+metadata:
+  source: "FloveTables25.12.txt"
+  paradigm: "Confluentism"
+  core_principle: "Dynamic bipolarity that fractalizes from physics to sociology"
+  layers: 4
+  dimensions: ["Space", "Time", "Force", "Particle"]
+
+# LAYER 1: SUBSTANCES (Physical/Biological Hierarchy)
+substances:
+  hierarchy:
+    description: "From particle to ecosystem (2^n progression)"
+    levels:
+      - id: particle
+        scale: 1
+        question: "Who"
+        example: "Electron, Quark"
+      - id: atom
+        scale: 2
+        question: "Who"
+        example: "Hydrogen, Carbon"
+      - id: molecule
+        scale: 4
+        question: "What"
+        example: "H2O, CO2"
+      - id: macromolecule
+        scale: 8
+        question: "What"
+        example: "Protein, Lipid, DNA"
+      - id: cytoplasm
+        scale: 16
+        question: "How"
+        example: "Nucleoplasm"
+      - id: cell
+        scale: 32
+        question: "How"
+        example: "Neuron, Muscle cell"
+      - id: tissue
+        scale: 64
+        question: "When/Where"
+        example: "Xylem, Phloem"
+      - id: organ
+        scale: 128
+        question: "When/Where"
+        example: "Brain, Heart, Womb"
+      - id: system
+        scale: 256
+        question: "Why"
+        example: "Nervous, Digestive"
+      - id: organism
+        scale: 512
+        question: "What for"
+        example: "Human, Plant"
+      - id: ecosystem
+        scale: 1024
+        question: "What for"
+        example: "Forest, Ocean"
+
+  # Biological systems (11 systems)
+  systems:
+    rational:
+      - { id: nervous, channel: 5, sense: view }
+      - { id: endocrine, channel: 7, sense: touch }
+    emotional:
+      - { id: inmune, pair: integumentary }
+      - { id: digestive, pair: urinary }
+      - { id: circulatory, pair: respiratory }
+      - { id: skeletal, pair: muscular }
+    kinetical:
+      - { id: reproductive, channel: 11 }
+    kinesical:
+      - { id: joints, count: 13, list: [ankles, knees, waist, neck, shoulders, elbows, wrists] }
+
+# LAYER 2: FIELDS (Academic Disciplines)
+fields:
+  metaphysics:
+    question: "What for"
+    theory: "Confluentism"
+    practice: "Simplex"
+    demo: "Rank"
+  
+  teleology:
+    question: "Why"
+    theory: "Compatibilism"
+    practice: "Wills"
+    demo: "Rate"
+  
+  theology:
+    question: "What"
+    theory: "PanBitheism"
+    practice: "Goddess"
+    demo: "Explain"
+  
+  mathylogic:
+    question: "How"
+    theory: "Intuitionism"
+    practice: "Cyclon"
+    demo: "4"
+  
+  category:
+    question: "Who"
+    theory: "Primals"
+    practice: "Keys"
+    demo: "Set"
+  
+  physics:
+    question: "When/Where"
+    theory: "Polons"
+    practice: "Dipedia"
+    demo: "Oxy 2"
+  
+  chemistry:
+    question: "When/Where"
+    theory: "NucleoFunctors"
+    demo: "Foxy 3"
+  
+  biology:
+    question: "What"
+    theory: "Fitnesses"
+    practice: "Souls"
+    demo: "X"
+  
+  linguistics:
+    theory: "Symbionimity"
+    practice: "Links"
+    demo: "Relate"
+  
+  psicology:
+    theory: "PsicoSquare"
+    practice: "Trusty"
+    demo: "Mating"
+  
+  sociology:
+    theory: "SocioSquare"
+    practice: "Free"
+    demo: "Network"
+  
+  economy:
+    subfields:
+      - { name: ecology, theory: "Ecology", practice: "Worthing", demo: "Pure" }
+      - { name: industry, theory: "CrowdCraft", practice: "Forky", demo: "Making" }
+      - { name: marketing, theory: "Market", practice: "Offer", demo: "Smart" }
+      - { name: gift, practice: "Freed", demo: "Liberty" }
+      - { name: share, practice: "Shareful", demo: "Community" }
+      - { name: deal, practice: "Reward", demo: "Improvement" }
+
+# LAYER 3: TAO/YIN/YANG TRIADS (Core Bipolarity)
+triads:
+  metaphysics:
+    tao: "Love"
+    yin: "Atract"
+    yang: "Expand"
+  
+  location:
+    tao: "Confluence"
+    yin: "Inner"
+    yang: "Outer"
+  
+  time:
+    tao: "Compatibilism"
+    yin: "Destiny"
+    yang: "Will"
+  
+  purpose:
+    tao: "Intention"
+    yin: "More Good"
+    yang: "Less Bad"
+  
+  form:
+    tao: "Form"
+    yin: "Essence"
+    yang: "Substance"
+  
+  process:
+    tao: "Process"
+    yin: "Involve"
+    yang: "Evolve"
+  
+  unit:
+    tao: "Relation"
+    yin: "0"
+    yang: "1"
+  
+  dimensions:
+    tao: "4"
+    yin: "2"
+    yang: "8"
+  
+  space:
+    tao: "Centroid"
+    yin: "Micro"
+    yang: "Macro"
+  
+  time_arrow:
+    tao: "Present"
+    yin: "Past"
+    yang: "Future"
+  
+  force:
+    tao: "Intraction"
+    yin: "Gravity"
+    yang: "Nuclear Weak"
+
+# LAYER 4: APPS (Practical Applications)
+apps:
+  fuzzy_operations:
+    relate:
+      level: 4
+      demo_path: "Demos/Fuzzy/Relate/"
+      description: "Connect concepts via mindmap/SVG nodes"
+      suboperations:
+        - { id: combos, path: "Relate/Combos/" }
+        - { id: confluences, path: "Relate/Confluences/" }
+        - { id: polarities, path: "Relate/Polarities/" }
+        - { id: triads, path: "Relate/Triads/" }
+        - { id: rate, path: "Relate/Rate/", contains: "Intensonims (graduals7s.ods)" }
+    
+    explain:
+      level: 6
+      demo_path: "Demos/Fuzzy/Explain/"
+      description: "Define concepts with Perspective + Focus"
+      form_fields:
+        perspective:
+          prism: ["Subjective", "Objective", "Mommentual", "General"]
+          tone: ["Normal", "Funny", "Formal", "Trivial"]
+          teleology: ["Experimental", "Random", "Fine", "Fatal"]
+        focus:
+          field: ["Metaphysics", "Science", "Biology", "Psicology", "Sociology"]
+          time_span: ["Past", "Present", "Future", "Short", "Mid", "Long"]
+        explain:
+          questions: ["PHRASE", "RELATE IT", "WHY", "WHAT", "HOW"]
+        formalise:
+          structure: ["Axiom", "Evidence", "Prediction", "Proposal", "Challenge"]
+    
+    view:
+      level: 7
+      demo_path: "Demos/Fuzzy/View/"
+      description: "Navigate concept network with pills"
+      pills:
+        near:
+          - { id: apps, label: "APPS" }
+          - { id: acts, label: "ACTS" }
+          - { id: matches, label: "MATCHES" }
+          - { id: similar, label: "SIMILAR", popover: ["Lovely", "Joyful", "Delight"] }
+          - { id: different, label: "DIFFERENT", popover: ["Fear", "Disgust", "Apathy"] }
+          - { id: prisms, label: "PRISMS", popover: ["Whole", "Close", "Eros"] }
+        far:
+          - { id: wizard, label: "WIZARD" }
+          - { id: raters, label: "RATE" }
+          - { id: plus1, label: "+1" }
+          - { id: plus2, label: "+2" }
+          - { id: plus3, label: "+3" }
+
+  psicosocial:
+    souls:
+      path: "Demos/PsicoSocial/Souls/"
+      description: "Personality archetypes"
+    trustful:
+      path: "Demos/PsicoSocial/Trustful/"
+      description: "Trust-based relationships"
+    freedom:
+      path: "Demos/PsicoSocial/Freedom/"
+      description: "Liberty and autonomy"
+
+# SEMANTIC RATERS (from FloveTables)
+semantic_raters:
+  logical:
+    - { positive: "AND", negative: "OR" }
+    - { positive: "MORE", negative: "LESS" }
+    - { positive: "SHOW", negative: "HIDE" }
+  
+  similarity:
+    - { positive: "SIMILAR", negative: "DIFFERENT" }
+    - { positive: "POSITIVE", negative: "NEGATIVE" }
+    - { positive: "IMPORTANT", negative: "TRIVIAL" }
+  
+  scale:
+    - { positive: "HARD", negative: "SOFT" }
+    - { positive: "BIG", negative: "SMALL" }
+    - { positive: "FORMAL", negative: "INFORMAL" }
+  
+  position:
+    - { positive: "INNER", negative: "OUTER" }
+    - { positive: "CLOSE", negative: "FAR" }
+    - { positive: "CONCRETE", negative: "ABSTRACT" }
+  
+  temporal:
+    - { positive: "PAST", negative: "FUTURE" }
+    - { positive: "FEMALE", negative: "MALE" }
+    - { positive: "UNKNOWN", negative: "KNOWN" }
+
+# DIMENSIONS (Physical constants)
+dimensions:
+  physical:
+    - { name: "Length", force: "Gravity" }
+    - { name: "Height", force: "Electromagnetic" }
+    - { name: "Width", force: "Nuclear Strong" }
+    - { name: "Time", force: "Nuclear Weak" }
+  
+  particles:
+    bosons:
+      - { name: "Higgs", charge: null }
+      - { name: "Photon", charge: null }
+      - { name: "Gluon", charge: null }
+      - { name: "WZ", charge: "weak" }
+    fermions:
+      - { type: "Lepton", examples: ["Electron", "Neutrino"] }
+      - { type: "Quark", examples: ["Up", "Down"] }
+      - { type: "Nucleon", examples: ["Proton", "Neutron"] }
+  
+  states:
+    - { name: "Fire", plasma: true }
+    - { name: "Air", gas: true }
+    - { name: "Water", liquid: true }
+    - { name: "Earth", solid: true }

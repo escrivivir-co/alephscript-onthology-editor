@@ -1,0 +1,346 @@
+# Fuzzy Operations Examples (YAML)
+# Extracted from: Demos25.10/Demos/Fuzzy/
+# Date: 2026-01-09
+
+# ============================================================
+# OPERATION: RELATE (Level 4 - Green)
+# "Connect concepts via mindmap/SVG nodes"
+# ============================================================
+
+relate:
+  metadata:
+    level: 4
+    color: "Green (#bbe33d)"
+    fuzzy_value: 0.57
+    demo_path: "Demos/Fuzzy/Relate/"
+    action: "Relate"
+  
+  ui_components:
+    media_bar:
+      position: "left"
+      items:
+        - { icon: "link", tooltip: "Connect" }
+        - { icon: "branch", tooltip: "Branch" }
+        - { icon: "merge", tooltip: "Merge" }
+        - { icon: "tag", tooltip: "Label" }
+    
+    stage:
+      background: "radial-gradient with grid"
+      center_node:
+        element: "h1"
+        example: "LOVE"
+        subtitle: "Central concept"
+      rings:
+        - { radius: 160, opacity: 0.06 }
+        - { radius: 260, opacity: 0.06 }
+        - { radius: 360, opacity: 0.06 }
+    
+    svg_mindmap:
+      links:
+        style: "gradient stroke"
+        width: 2.4
+      nodes:
+        type: "nodeBadge"
+        components:
+          - badgeBox: "concept name + media icons"
+          - badgeAdd: "input for new relations"
+          - tooltip: "table value + summary"
+    
+    right_panel:
+      width: 360
+      content: "details/properties"
+  
+  suboperations:
+    combos:
+      path: "Relate/Combos/"
+      description: "Combination of multiple relations"
+    
+    confluences:
+      path: "Relate/Confluences/"
+      description: "Bipolar confluences (YIN↔YANG)"
+    
+    polarities:
+      path: "Relate/Polarities/"
+      description: "Opposing concept pairs"
+    
+    triads:
+      path: "Relate/Triads/"
+      description: "TAO-YIN-YANG triangular relations"
+    
+    rate:
+      path: "Relate/Rate/"
+      contains: "Intensonims (graduals7s.ods)"
+      description: "Fuzzy intensity rating (0.0-1.0)"
+  
+  example:
+    central: "LOVE"
+    related:
+      - { concept: "Joy", relation: "produces", intensity: 0.86 }
+      - { concept: "Care", relation: "requires", intensity: 0.71 }
+      - { concept: "Trust", relation: "enables", intensity: 0.57 }
+      - { concept: "Fear", relation: "opposite", intensity: -0.43 }
+
+# ============================================================
+# OPERATION: EXPLAIN (Level 6 - Violet)
+# "Define anything deeply"
+# ============================================================
+
+explain:
+  metadata:
+    level: 6
+    color: "Violet (#800080)"
+    fuzzy_value: 0.86
+    demo_path: "Demos/Fuzzy/Explain/"
+    action: "Explain"
+    title: "FUZZY WISE"
+    subtitle: "Define anything deeply"
+  
+  form_structure:
+    pack_1_essential:
+      field: "input"
+      placeholder: "Name an OBJECT here, i.e. True Love, Bike, Oxymorons, ..."
+    
+    pack_2_perspective:
+      title: "PERSPECTIVE"
+      
+      prism:
+        type: "checkbox_group"
+        options:
+          - "Subjective"
+          - "Objective"
+          - "Mommentual"
+          - "General"
+      
+      tone:
+        type: "checkbox_group"
+        options:
+          - "Normal"
+          - "Funny"
+          - "Formal"
+          - "Trivial"
+      
+      teleology:
+        label: "Teleological background"
+        options:
+          - "Experimental"
+          - "Random"
+          - "Fine"
+          - "Fatal"
+      
+      focus:
+        title: "FOCUS"
+        
+        field:
+          type: "checkbox_group"
+          options:
+            - "Metaphysics"
+            - "Science"
+            - "Biology"
+            - "Psicology"
+            - "Sociology"
+        
+        time_span:
+          type: "checkbox_group"
+          options:
+            - "Past"
+            - "Present"
+            - "Future"
+            - "Short"
+            - "Mid"
+            - "Long"
+    
+    pack_3_explain:
+      title: "EXPLAIN"
+      fields:
+        - { type: "textarea", placeholder: "PHRASE to define it" }
+        - { type: "input", placeholder: "RELATE IT to something else" }
+        - { type: "textarea", placeholder: "WHY is it important" }
+        - { type: "textarea", placeholder: "WHAT special properties does it have" }
+        - { type: "textarea", placeholder: "HOW does it work" }
+    
+    pack_4_formalise:
+      title: "FORMALISE"
+      funnel:
+        - { tag: "Axiom", type: "textarea" }
+        - evidence:
+            select: ["Actual", "Past", "Case study", "Review"]
+            input: "Sources"
+            textarea: "Write EVIDENCE(s) here"
+        - { tag: "Prediction", type: "textarea" }
+        - { tag: "Proposal", type: "textarea" }
+        - { tag: "Challenge", type: "textarea" }
+  
+  example:
+    object: "True Love"
+    perspective:
+      prism: ["Subjective", "General"]
+      tone: ["Normal"]
+      teleology: "Fine"
+    focus:
+      field: ["Psicology", "Sociology"]
+      time_span: ["Present", "Long"]
+    explain:
+      phrase: "A deep emotional bond characterized by mutual care, trust, and commitment"
+      relate_it: "Attachment theory, oxytocin release"
+      why: "Foundation of human wellbeing and social cohesion"
+      what: "Unconditional acceptance, vulnerability, growth"
+      how: "Through consistent actions, communication, shared experiences"
+    formalise:
+      axiom: "Love requires both giving and receiving"
+      evidence: "Gottman's research on lasting marriages (40 years)"
+      prediction: "Relationships with high trust have 80% survival rate"
+      proposal: "Daily micro-expressions of care strengthen bonds"
+      challenge: "How to maintain love through external stressors"
+
+# ============================================================
+# OPERATION: VIEW (Level 7 - White)
+# "Navigate concept network with pills"
+# ============================================================
+
+view:
+  metadata:
+    level: 7
+    color: "White"
+    fuzzy_value: 1.0
+    demo_path: "Demos/Fuzzy/View/"
+    action: "App"
+    title: "FUZZY VIEW"
+  
+  ui_structure:
+    header:
+      logo: "SL"
+      title: "FUZZY VIEW"
+    
+    board:
+      central_node:
+        element: "div.node-love"
+        content: "h2"
+        example: "LOVE"
+      
+      connectors:
+        decorative: ["rank", "acts", "match"]
+      
+      pills:
+        near:
+          - id: "rank"
+            label: "APPS"
+            popover:
+              tags: ["Souls", "Trusts", "GenderWars"]
+              actions: ["WIZARD", "Back"]
+          
+          - id: "match"
+            label: "ACTS"
+            popover:
+              tags: ["Couples", "Close", "Rares"]
+              actions: ["WIZARD", "Back"]
+          
+          - id: "acts"
+            label: "MATCHES"
+            popover:
+              tags: ["☺ Joy", "↗ Rise", "→ Guide"]
+              actions: ["RATERS", "Back"]
+          
+          - id: "synonyms"
+            label: "SIMILAR"
+            popover:
+              tags: ["Lovely", "Joyful", "Delight"]
+              actions: ["Back"]
+          
+          - id: "antonyms"
+            label: "DIFFERENT"
+            popover:
+              tags: ["Fear", "Disgust", "Apathy"]
+              actions: ["Back"]
+          
+          - id: "types"
+            label: "PRISMS"
+            popover:
+              tags: ["Whole", "Close", "Eros"]
+              actions: ["Back"]
+        
+        far:
+          - id: "wizard"
+            label: "WIZARD"
+            type: "treeModal"
+          
+          - id: "raters"
+            label: "RATE"
+            type: "treeModal"
+          
+          - id: "plus1"
+            label: "+1"
+          
+          - id: "plus2"
+            label: "+2"
+          
+          - id: "plus3"
+            label: "+3"
+    
+    modals:
+      wizard:
+        title: "WIZARD"
+        tree:
+          - summary: "ENJOY LOVE"
+            leaves:
+              - "🙂 Smiles → Joy → Delight"
+              - "↗ Growth → Nurture → Care"
+              - "→ Direction → Intention → Acts"
+            nested:
+              summary: "Expand…"
+              leaves: ["Passion", "Adore", "Care"]
+          - summary: "DEFINITIONS"
+            leaves: ["Propositions", "Labels", "Modes"]
+        actions:
+          row1: ["☺ Joy", "↗ Rise", "→ Guide"]
+          row2: ["Resume", "Mark", "Save"]
+      
+      raters:
+        title: "RATERS"
+        tree:
+          - summary: "METRICS"
+            leaves: ["+1 Kind", "+2 Nice", "+3 Excelent"]
+          - summary: "SCALES"
+            leaves: ["Joy", "Care", "Clarity"]
+        actions: ["Create RATER", "Export"]
+  
+  example:
+    concept: "LOVE"
+    navigation_flow:
+      - action: "click SIMILAR"
+        result: "popover with Lovely, Joyful, Delight"
+      - action: "click WIZARD"
+        result: "modal tree with ENJOY LOVE branches"
+      - action: "click +1"
+        result: "add Kind rating"
+
+# ============================================================
+# INTEGRATION: How the 3 operations connect
+# ============================================================
+
+integration:
+  description: "The three Fuzzy operations form a progressive depth"
+  
+  flow:
+    step_1:
+      operation: "VIEW"
+      purpose: "Navigate and discover concepts"
+      output: "Selected concept for deeper exploration"
+    
+    step_2:
+      operation: "RELATE"
+      purpose: "Map connections and polarities"
+      output: "Network of related concepts with intensities"
+    
+    step_3:
+      operation: "EXPLAIN"
+      purpose: "Define with perspective, focus, and formalization"
+      output: "Complete semantic definition"
+  
+  mapping_to_gradual_scale:
+    browse: { level: 1, action: "Quick scan" }
+    onclick: { level: 2, action: "Select item" }
+    rate: { level: 3, action: "Assign intensity" }
+    relate: { level: 4, action: "Connect concepts" }
+    rank: { level: 5, action: "Order by relevance" }
+    explain: { level: 6, action: "Define deeply" }
+    app: { level: 7, action: "Full application/VIEW" }
