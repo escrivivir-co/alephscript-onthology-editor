@@ -1,0 +1,659 @@
+# Flove Model: Conflicto Geopolítico Venezuela-EE.UU. (3 Enero 2026)
+# Paradigm: CONFLUENTISM (Fuzzy Logic + Love = Flove)
+# Generated: 2026-01-09
+# Source: geopolitics.md
+
+$schema: "../../../schemas/flove-ontology.schema.yaml"
+$id: "geopolitics-venezuela-usa-2026-01-03"
+
+metadata:
+  title: "Operación 3 de Enero"
+  domain: "Geopolítica / Relaciones Internacionales"
+  date: "2026-01-03"
+  author: "@plugin_ox_floveeditor"
+  version: "1.0.0"
+  sources:
+    - "BBC"
+    - "Wikipedia"
+    - "ONU News"
+    - "El País"
+    - "Infobae"
+    - "Time"
+
+# ════════════════════════════════════════════════════════════════════════════
+# NIVEL 1: FUZZY LOGIC (Epistemología)
+# ════════════════════════════════════════════════════════════════════════════
+
+fuzzy:
+  # ──────────────────────────────────────────────────────────────────────────
+  # RELATE: Mapeo de entidades y sus conexiones (Level 4, Green, 0.57)
+  # ──────────────────────────────────────────────────────────────────────────
+  relate:
+    metadata:
+      level: 4
+      fuzzy_value: 0.57
+      question: "¿Cómo se conectan los actores?"
+
+    entidades:
+      potencias:
+        - id: usa
+          nombre: "Estados Unidos"
+          tipo: "Potencia Hegemónica"
+          bloque: "Occidental"
+        - id: china
+          nombre: "China"
+          tipo: "Potencia Emergente"
+          bloque: "Multipolares"
+        - id: russia
+          nombre: "Rusia"
+          tipo: "Potencia Regional"
+          bloque: "Multipolares"
+        - id: eu
+          nombre: "Unión Europea"
+          tipo: "Bloque Regional"
+          bloque: "Occidental (moderado)"
+
+      naciones_latam:
+        - id: venezuela
+          nombre: "Venezuela"
+          tipo: "Estado Objetivo"
+          bloque: "Eje de Resistencia"
+        - id: argentina
+          nombre: "Argentina"
+          tipo: "Aliado Regional EE.UU."
+          bloque: "Pro-Occidental"
+        - id: brazil
+          nombre: "Brasil"
+          tipo: "Potencia Regional"
+          bloque: "No Alineado (BRICS)"
+        - id: colombia
+          nombre: "Colombia"
+          tipo: "Estado Fronterizo"
+          bloque: "Legalista"
+        - id: mexico
+          nombre: "México"
+          tipo: "Potencia Regional"
+          bloque: "Soberanista"
+        - id: chile
+          nombre: "Chile"
+          tipo: "Estado Democrático"
+          bloque: "Crítico Moderado"
+        - id: panama
+          nombre: "Panamá"
+          tipo: "Estado Estratégico"
+          bloque: "Transicional"
+
+      organismos:
+        - id: onu
+          nombre: "Organización de las Naciones Unidas"
+          tipo: "Organismo Multilateral"
+          rol: "Arbitraje / Estabilidad"
+        - id: oea
+          nombre: "Organización de Estados Americanos"
+          tipo: "Organismo Regional"
+          rol: "Hemisférico"
+
+    # Relaciones con intensidad fuzzy (escala 7 grados: 0.14 → 1.0)
+    relaciones:
+      # === CONFLICTO DIRECTO ===
+      - sujeto: usa
+        objeto: venezuela
+        tipo: conflicto_armado
+        intensidad: 1.0  # Nivel 7 (Máximo)
+        descripcion: "Ataque aéreo y extracción forzada"
+        evidencia: "Bombardeos en Caracas, La Guaira, Miranda"
+
+      # === ALINEAMIENTO EXPLÍCITO ===
+      - sujeto: argentina
+        objeto: usa
+        tipo: alineamiento_ideologico
+        intensidad: 0.86  # Nivel 6 (Muy Alto)
+        descripcion: "Milei celebró públicamente la operación"
+        evidencia: "Declaraciones en Infobae"
+
+      - sujeto: panama
+        objeto: usa
+        tipo: apoyo_transicional
+        intensidad: 0.71  # Nivel 5 (Alto)
+        descripcion: "Apoyo a Edmundo González, pide transición"
+
+      # === TENSIÓN DIPLOMÁTICA ===
+      - sujeto: brazil
+        objeto: usa
+        tipo: tension_diplomatica
+        intensidad: 0.86  # Nivel 6
+        descripcion: "Calificó captura como 'secuestro'"
+        posicion: condena
+
+      - sujeto: colombia
+        objeto: usa
+        tipo: tension_diplomatica
+        intensidad: 0.71  # Nivel 5
+        descripcion: "Violación del derecho internacional"
+        posicion: condena_legalista
+
+      - sujeto: mexico
+        objeto: usa
+        tipo: tension_diplomatica
+        intensidad: 0.71  # Nivel 5
+        descripcion: "Respetar soberanía de Venezuela"
+        posicion: condena
+
+      # === POSICIONES GEOPOLÍTICAS ===
+      - sujeto: russia
+        objeto: venezuela
+        tipo: alianza_geopolitica
+        intensidad: 0.71  # Nivel 5
+        descripcion: "Condena y respaldo en ONU"
+
+      - sujeto: china
+        objeto: venezuela
+        tipo: solidaridad_antihegemonica
+        intensidad: 0.71  # Nivel 5
+        descripcion: "Denuncia uso de fuerza"
+
+      - sujeto: iran
+        objeto: venezuela
+        tipo: solidaridad_antihegemonica
+        intensidad: 0.71  # Nivel 5
+        descripcion: "Condena 'firme' del ataque"
+
+      - sujeto: cuba
+        objeto: venezuela
+        tipo: alianza_ideologica
+        intensidad: 0.86  # Nivel 6
+        descripcion: "Condena y exigencia de respuesta internacional"
+
+      # === NEUTRALIDAD/CAUTELA ===
+      - sujeto: eu
+        objeto: venezuela
+        tipo: cautela_diplomatica
+        intensidad: 0.43  # Nivel 3 (Centro-bajo)
+        descripcion: "Pidió moderación y derecho internacional"
+
+      - sujeto: chile
+        objeto: usa
+        tipo: critica_moderada
+        intensidad: 0.43  # Nivel 3
+        descripcion: "Rechaza vía militar aunque critique régimen"
+
+  # ──────────────────────────────────────────────────────────────────────────
+  # EXPLAIN: Definiciones semánticas difusas (Level 6, Violet, 0.86)
+  # ──────────────────────────────────────────────────────────────────────────
+  explain:
+    metadata:
+      level: 6
+      fuzzy_value: 0.86
+      question: "¿Qué significa este evento?"
+
+    # El mismo hecho tiene ontologías opuestas
+    concepto_central:
+      id: operacion_3_enero
+      nombre: "Operación 3 de Enero 2026"
+      fecha: "2026-01-03T04:00:00-04:00"
+      lugar: ["Caracas", "La Guaira", "Miranda", "Aragua"]
+      
+      # PERSPECTIVAS FUZZY (el concepto no es binario)
+      perspectivas:
+        - actor: usa
+          gobierno: "Trump Administration"
+          definicion: "Operación de Justicia Extraterritorial"
+          marco_legal: "Seguridad Nacional / Anti-Narcotráfico"
+          ontologia: "Detención de líder criminal"
+          legitimidad_autopercibida: 1.0
+          legitimidad_internacional: 0.29  # Nivel 2 (bajo)
+          focos:
+            - "Narcotráfico"
+            - "Narcoterrorismo"
+            - "Democracia (transición)"
+          resultado_declarado: "Captura exitosa de Maduro y Cilia Flores"
+
+        - actor: venezuela
+          gobierno: "Gobierno de Maduro"
+          definicion: "Agresión Militar Imperialista"
+          marco_legal: "Carta de la ONU / Soberanía"
+          ontologia: "Ataque armado injustificado y unilateral"
+          legitimidad_autopercibida: 1.0
+          legitimidad_internacional: 0.71  # Nivel 5 (alta en derecho internacional)
+          focos:
+            - "Soberanía Nacional"
+            - "Derecho Internacional"
+            - "Anti-imperialismo"
+          resultado_declarado: "Activación de estado de emergencia"
+
+        - actor: onu
+          representante: "António Guterres"
+          definicion: "Escalada Peligrosa"
+          marco_legal: "Carta de las Naciones Unidas"
+          ontologia: "Precedente que amenaza orden internacional"
+          legitimidad_percibida_usa: 0.29  # Nivel 2
+          focos:
+            - "Estabilidad"
+            - "Precedente"
+            - "Desescalada"
+
+    # Definiciones graduales de conceptos en disputa
+    conceptos_disputados:
+      - termino: "Invasión"
+        perspectiva_venezuela: 
+          aplica: true
+          intensidad: 1.0
+          argumento: "Uso de fuerza armada en territorio soberano"
+        perspectiva_usa:
+          aplica: false
+          intensidad: 0.0
+          argumento: "Operación policial, no militar convencional"
+        perspectiva_neutral:
+          aplicabilidad: 0.71  # Más cercano a invasión
+          argumento: "Bombardeos + extracción = uso de fuerza prohibido"
+
+      - termino: "Secuestro"
+        perspectiva_brazil:
+          aplica: true
+          intensidad: 0.86
+          argumento: "Captura sin proceso legal internacional"
+        perspectiva_usa:
+          aplica: false
+          intensidad: 0.0
+          argumento: "Arresto de fugitivo con cargos"
+
+      - termino: "Transición democrática"
+        perspectiva_usa:
+          aplica: true
+          intensidad: 0.86
+          argumento: "Remover dictador permite democracia"
+        perspectiva_criticos:
+          aplica: false
+          intensidad: 0.29
+          argumento: "La democracia no se impone con bombas"
+
+  # ──────────────────────────────────────────────────────────────────────────
+  # VIEW: Visualización del espectro de reacciones (Level 3, Yellow, 0.43)
+  # ──────────────────────────────────────────────────────────────────────────
+  view:
+    metadata:
+      level: 3
+      fuzzy_value: 0.43
+      question: "¿Cómo presentamos esta complejidad?"
+
+    espectro_reacciones:
+      tipo: "GradualSpectrum"
+      escala: [-1.0, 1.0]  # Condena total ↔ Apoyo total
+      marcadores:
+        - valor: -1.0
+          etiqueta: "Condena Total"
+          ejemplos: ["Rusia", "Irán", "Cuba", "Nicaragua"]
+          color: "#ff0000"  # Red
+
+        - valor: -0.71
+          etiqueta: "Condena Legalista"
+          ejemplos: ["Colombia", "Brasil", "México"]
+          color: "#ff8000"  # Orange
+
+        - valor: -0.43
+          etiqueta: "Rechazo Moderado"
+          ejemplos: ["Chile", "Guatemala", "Rep. Dominicana"]
+          color: "#ffff00"  # Yellow
+
+        - valor: 0.0
+          etiqueta: "Cautela/Neutralidad"
+          ejemplos: ["UE", "España", "ONU"]
+          color: "#bbe33d"  # Green
+
+        - valor: 0.43
+          etiqueta: "Apoyo Condicional"
+          ejemplos: ["Panamá"]
+          color: "#729fcf"  # Blue
+
+        - valor: 1.0
+          etiqueta: "Apoyo Explícito"
+          ejemplos: ["Argentina (Milei)", "OEA (Rizzuto)"]
+          color: "#800080"  # Violet
+
+    mapa_posiciones:
+      tipo: "GeopoliticalMap"
+      regiones:
+        america_norte:
+          usa: { posicion: 1.0, rol: "Ejecutor" }
+          mexico: { posicion: -0.71, rol: "Crítico soberanista" }
+        
+        america_sur:
+          argentina: { posicion: 1.0, rol: "Aliado ideológico" }
+          brazil: { posicion: -0.71, rol: "Condena fuerte" }
+          colombia: { posicion: -0.71, rol: "Frontera + legalismo" }
+          chile: { posicion: -0.43, rol: "Crítico moderado" }
+          venezuela: { posicion: -1.0, rol: "Víctima/objetivo" }
+        
+        centroamerica:
+          panama: { posicion: 0.43, rol: "Transición" }
+          cuba: { posicion: -1.0, rol: "Aliado histórico" }
+          nicaragua: { posicion: -1.0, rol: "Aliado ideológico" }
+        
+        europa:
+          eu: { posicion: 0.0, rol: "Cautela" }
+          espana: { posicion: 0.0, rol: "Mediador" }
+          russia: { posicion: -1.0, rol: "Oposición geopolítica" }
+        
+        asia:
+          china: { posicion: -0.71, rol: "Oposición sistémica" }
+          iran: { posicion: -1.0, rol: "Eje de resistencia" }
+
+# ════════════════════════════════════════════════════════════════════════════
+# NIVEL 2: PSICOSOCIAL (Intersubjetividad)
+# ════════════════════════════════════════════════════════════════════════════
+
+psicosocial:
+  # ──────────────────────────────────────────────────────────────────────────
+  # SOULS: Identidad y arquetipos de los actores (Level 7, White, 1.0)
+  # ──────────────────────────────────────────────────────────────────────────
+  souls:
+    metadata:
+      level: 7
+      fuzzy_value: 1.0
+      question: "¿Quiénes son los actores y qué los define?"
+
+    arquetipos:
+      - actor: "Donald Trump"
+        rol_narrativo: "The Enforcer"
+        arquetipo_jungiano: "El Guerrero / El Rey"
+        motivacion_declarada: "Seguridad, Justicia"
+        motivacion_probable: "Proyección de fuerza, legado"
+        pertenencia:
+          - grupo: "Derecha Americana"
+            intensidad: 1.0
+          - grupo: "Unilateralismo"
+            intensidad: 0.86
+        sombra: "Tiranía / Hybris imperial"
+
+      - actor: "Nicolás Maduro"
+        rol_narrativo: "The Resistant"
+        arquetipo_jungiano: "El Mártir / El Superviviente"
+        motivacion_declarada: "Soberanía, Pueblo"
+        motivacion_probable: "Supervivencia del régimen"
+        pertenencia:
+          - grupo: "Chavismo"
+            intensidad: 1.0
+          - grupo: "Eje Antihegemónico"
+            intensidad: 0.86
+        sombra: "Autoritarismo / Corrupción"
+
+      - actor: "Javier Milei"
+        rol_narrativo: "The Acolyte"
+        arquetipo_jungiano: "El Bufón / El Iconoclasta"
+        motivacion_declarada: "Libertad, Anti-socialismo"
+        pertenencia:
+          - grupo: "Libertarios"
+            intensidad: 1.0
+          - grupo: "Pro-USA"
+            intensidad: 0.86
+
+      - actor: "Lula da Silva"
+        rol_narrativo: "The Elder Statesman"
+        arquetipo_jungiano: "El Sabio"
+        motivacion_declarada: "Derecho Internacional, Estabilidad"
+        pertenencia:
+          - grupo: "BRICS"
+            intensidad: 0.71
+          - grupo: "No Alineados"
+            intensidad: 0.57
+
+      - actor: "António Guterres"
+        rol_narrativo: "The Arbiter"
+        arquetipo_jungiano: "El Juez"
+        motivacion: "Orden internacional, Precedente"
+        pertenencia:
+          - grupo: "Multilateralismo"
+            intensidad: 1.0
+        dilema: "Impotencia institucional ante hegemonía"
+
+  # ──────────────────────────────────────────────────────────────────────────
+  # TRUSTFUL: Validación de narrativas (Level 5, Blue, 0.71)
+  # ──────────────────────────────────────────────────────────────────────────
+  trustful:
+    metadata:
+      level: 5
+      fuzzy_value: 0.71
+      question: "¿Qué evidencia sostiene cada narrativa?"
+
+    narrativas:
+      - id: justificacion_usa
+        actor: usa
+        tesis: "Maduro es criminal; su captura es legal y justa"
+        validadores:
+          - tipo: "Causa Penal"
+            contenido: "Cargos de narcotráfico por DOJ"
+            peso: 0.71
+            falsificable: true
+          - tipo: "Precedente"
+            contenido: "Noriega (1989), Bin Laden (2011)"
+            peso: 0.57
+            falsificable: false
+          - tipo: "Legitimidad Electoral"
+            contenido: "Elecciones 2024 disputadas"
+            peso: 0.43
+            falsificable: true
+        debilidades:
+          - "Sin autorización del Consejo de Seguridad"
+          - "Violación de soberanía según derecho positivo"
+          - "Selectividad (otros autocrátas aliados no perseguidos)"
+
+      - id: denuncia_venezuela
+        actor: venezuela
+        tesis: "Es una invasión imperialista contra un gobierno legítimo"
+        validadores:
+          - tipo: "Derecho Internacional"
+            contenido: "Carta de la ONU, Artículos 2(4) y 51"
+            peso: 0.86
+            falsificable: false
+          - tipo: "Soberanía Westfaliana"
+            contenido: "No injerencia en asuntos internos"
+            peso: 0.86
+            falsificable: false
+          - tipo: "Reconocimiento"
+            contenido: "Mayoría de países reconocen a Maduro"
+            peso: 0.57
+            falsificable: true
+        debilidades:
+          - "Legitimidad electoral cuestionada internacionalmente"
+          - "Historial de represión documentado"
+          - "Acusaciones de narcotráfico (peso judicial)"
+
+      - id: alarma_onu
+        actor: onu
+        tesis: "Esto sienta un precedente peligroso para el orden mundial"
+        validadores:
+          - tipo: "Sistémico"
+            contenido: "Si una potencia puede hacerlo, otras también"
+            peso: 0.86
+          - tipo: "Histórico"
+            contenido: "Erosión post-WWII del sistema ONU"
+            peso: 0.71
+        implicacion: "Multipolaridad sin reglas = caos"
+
+# ════════════════════════════════════════════════════════════════════════════
+# NIVEL 3: FREEDOM / ECONOMY (Acción y Valor)
+# ════════════════════════════════════════════════════════════════════════════
+
+freedom:
+  # ──────────────────────────────────────────────────────────────────────────
+  # FREE: Libertades, restricciones y transgresiones (Level 2, Orange, 0.29)
+  # ──────────────────────────────────────────────────────────────────────────
+  free:
+    metadata:
+      level: 2
+      fuzzy_value: 0.29
+      question: "¿Qué acciones están permitidas/prohibidas?"
+
+    acciones:
+      - id: intervencion_militar
+        actor: usa
+        tipo: "Uso de fuerza extraterritorial"
+        estado: "Ejecutada"
+        
+        restricciones_violadas:
+          - norma: "Soberanía Nacional"
+            fuente: "Carta ONU Art. 2(4)"
+            gravedad: 0.86
+          - norma: "Prohibición uso de fuerza"
+            fuente: "Carta ONU Art. 2(4)"
+            gravedad: 1.0
+          - norma: "Proceso debido internacional"
+            fuente: "Estatuto de Roma"
+            gravedad: 0.71
+
+        habilitadores:
+          - factor: "Hegemonía militar"
+            descripcion: "Capacidad de proyección global"
+            peso: 1.0
+          - factor: "Veto en Consejo de Seguridad"
+            descripcion: "Inmunidad institucional"
+            peso: 0.86
+          - factor: "Doctrina de Seguridad Nacional"
+            descripcion: "Marco legal interno"
+            peso: 0.71
+          - factor: "Aliados regionales"
+            descripcion: "Argentina, Panamá apoyan"
+            peso: 0.43
+
+      - id: resistencia_venezuela
+        actor: venezuela
+        tipo: "Declaración de emergencia / Movilización"
+        estado: "Activada"
+        
+        libertades_ejercidas:
+          - "Defensa territorial (Art. 51 ONU)"
+          - "Solicitud de reunión Consejo de Seguridad"
+          - "Movilización interna"
+        
+        restricciones:
+          - factor: "Asimetría militar"
+            descripcion: "Incapacidad de respuesta convencional"
+            peso: 0.86
+          - factor: "Aislamiento económico"
+            descripcion: "Sanciones previas limitan recursos"
+            peso: 0.71
+
+  # ──────────────────────────────────────────────────────────────────────────
+  # MAKING: Economía política del evento (Level 1, Red, 0.14)
+  # ──────────────────────────────────────────────────────────────────────────
+  making:
+    metadata:
+      level: 1
+      fuzzy_value: 0.14
+      question: "¿Qué se produce y qué se consume?"
+
+    transacciones:
+      - evento: "Captura de Maduro"
+        
+        recursos_consumidos:
+          - tipo: "Capital Diplomático (USA en Latam)"
+            cantidad: "Alto"
+            descripcion: "Brasil, México, Colombia condenan"
+            recuperabilidad: 0.29
+          
+          - tipo: "Legitimidad del Sistema ONU"
+            cantidad: "Medio-Alto"
+            descripcion: "Precedente de impunidad hegemónica"
+            recuperabilidad: 0.14
+          
+          - tipo: "Estabilidad Regional"
+            cantidad: "Alto"
+            descripcion: "Riesgo de escalada, flujos migratorios"
+            recuperabilidad: 0.43
+          
+          - tipo: "Recursos Militares"
+            cantidad: "Bajo"
+            descripcion: "Operación quirúrgica, no ocupación"
+            recuperabilidad: 1.0
+
+        recursos_producidos:
+          - tipo: "Capital Político Interno (Trump)"
+            cantidad: "Alto"
+            descripcion: "Proyección de fuerza para base electoral"
+            durabilidad: 0.57
+          
+          - tipo: "Control de Narrativa"
+            cantidad: "Medio"
+            descripcion: "Criminalización de Maduro"
+            durabilidad: 0.43
+          
+          - tipo: "Conmoción Geopolítica"
+            cantidad: "Alto"
+            descripcion: "Redistribución de tablero"
+            durabilidad: 0.71
+          
+          - tipo: "Amenaza Creíble"
+            cantidad: "Alto"
+            descripcion: "Mensaje a otros adversarios"
+            durabilidad: 0.71
+
+        balance_estrategico:
+          corto_plazo: "Victoria táctica para EE.UU."
+          medio_plazo: "Polarización hemisférica"
+          largo_plazo: "Erosión del orden internacional"
+          riesgo: "Muy Alto (precedente sin control)"
+
+      - evento: "Reacciones Internacionales"
+        
+        redistribucion:
+          - bloque: "BRICS"
+            efecto: "Consolidación anti-hegemónica"
+            intensidad: 0.71
+          
+          - bloque: "UE"
+            efecto: "Tensión interna (atlantismo vs. legalismo)"
+            intensidad: 0.43
+          
+          - bloque: "OEA"
+            efecto: "Fractura Norte-Sur"
+            intensidad: 0.71
+          
+          - bloque: "ONU"
+            efecto: "Parálisis institucional"
+            intensidad: 0.86
+
+# ════════════════════════════════════════════════════════════════════════════
+# SÍNTESIS: PREGUNTAS PERIODÍSTICAS (5W) + MODELO FLOVE
+# ════════════════════════════════════════════════════════════════════════════
+
+sintesis:
+  cinco_w:
+    que:
+      respuesta: "Ataque militar de EE.UU. en Venezuela y captura anunciada de Maduro"
+      nivel_flove: "EXPLAIN"
+      disputa: "¿Es invasión, detención, o secuestro?"
+    
+    quien:
+      respuesta: "Trump (ejecutor) vs Maduro (objetivo); terceros polarizados"
+      nivel_flove: "SOULS"
+      disputa: "¿Quién es el agresor legítimo?"
+    
+    cuando:
+      respuesta: "Madrugada del 3 de enero de 2026"
+      nivel_flove: "MAKING"
+      disputa: "Timing electoral de Trump"
+    
+    donde:
+      respuesta: "Caracas, La Guaira, Miranda, Aragua"
+      nivel_flove: "RELATE"
+      disputa: "Jurisdicción y soberanía territorial"
+    
+    por_que:
+      perspectiva_usa: "Justicia contra narcotráfico"
+      perspectiva_venezuela: "Imperialismo y cambio de régimen"
+      perspectiva_neutral: "Proyección de poder hegemónico"
+      nivel_flove: "TRUSTFUL"
+      irreconciliable: true
+
+  indicador_confluencia:
+    descripcion: "Grado de posible resolución confluente del conflicto"
+    valor: 0.14  # Nivel 1 - Muy bajo
+    razon: "Posiciones ontológicamente incompatibles"
+    recomendacion: "Arbitraje internacional o contención"
+
+  triada_flove:
+    tao: "El evento en sí (Operación 3 Enero)"
+    yin: "Derecho Internacional / Soberanía / Multilateralismo"
+    yang: "Hegemonía / Unilateralismo / Fuerza"
+    tension: "Máxima (0.86)"
+    equilibrio_posible: "Solo mediante instituciones reformadas o nuevo equilibrio de poder"
